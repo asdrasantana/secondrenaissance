@@ -443,15 +443,16 @@ layout: plain
       >
         Sign up to the newsletter<br />to learn more and stay engaged
       </p>
-      <iframe
-        src="https://secondrenaissance.substack.com/embed"
-        width="480"
-        height="150"
-        frameborder="0"
-        scrolling="no"
-        style="border: 1px solid #eee; background: white; margin: auto"
-        class="mt-8"
-      ></iframe>
+      <div class="mt-8 mx-auto overflow-hidden" style="max-width: 480px; height: 400px;">
+        <iframe
+          src="https://secondrenaissance.substack.com/embed"
+          width="100%"
+          height="400"
+          frameborder="0"
+          scrolling="no"
+          style="border: none; background: white;"
+        ></iframe>
+      </div>
     </div>
     <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
       <dl
