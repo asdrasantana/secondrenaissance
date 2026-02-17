@@ -432,104 +432,91 @@ layout: plain
 </div>
 
 <!-- CTA Section -->
-<div class="bg-white py-8 sm:py-12">
-  <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">
-    <div
-      class="relative isolate overflow-hidden bg-gray-200 px-6 py-24 shadow-2xl sm:rounded-3xl sm:px-24 xl:py-32"
-    >
-      <div class="mx-auto max-w-2xl lg:text-center">
-        <h2 class="text-base font-semibold leading-7 text-gray-600">
-          Next steps
-        </h2>
-        <p
-          class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
-        >
-          Sign up to the newsletter<br />to learn more and stay engaged
-        </p>
-        <p class="mt-6 text-lg leading-8 text-gray-600"></p>
-        <iframe
-          src="https://secondrenaissance.substack.com/embed"
-          width="480"
-          height="320"
-          frameborder="0"
-          scrolling="no"
-          style="border: 1px solid #eee; background: white; margin: auto"
-        ></iframe>
-      </div>
-      <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
-        <dl
-          class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3"
-        >
-          <div class="flex flex-col">
-            <dt
-              class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900"
-            >
-              Explore the ecosystem
-            </dt>
-            <dd
-              class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600"
-            >
-              <p class="flex-auto">
-                Discover the players and communities seeding the second
-                renaissance.
-              </p>
-              <p class="mt-6">
-                <a
-                  href="/ecosystem"
-                  class="text-sm font-semibold leading-6 text-indigo-600"
-                >
-                  Learn more <span aria-hidden="true">→</span>
-                </a>
-              </p>
-            </dd>
-          </div>
-          <div class="flex flex-col">
-            <dt
-              class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900"
-            >
-              Join the Forum
-            </dt>
-            <dd
-              class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600"
-            >
-              <p class="flex-auto">
-                Join the forum to engage with the community, exchange ideas
-                and get support.
-              </p>
-              <p class="mt-6">
-                <a
-                  href="https://discord.gg/nNRt6V9jA4"
-                  class="text-sm font-semibold leading-6 text-indigo-600"
-                >
-                  Forum <span aria-hidden="true">→</span>
-                </a>
-              </p>
-            </dd>
-          </div>
-          <div class="flex flex-col">
-            <dt
-              class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900"
-            >
-              Download the Whitepapers
-            </dt>
-            <dd
-              class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600"
-            >
-              <p class="flex-auto">
-                Download our whitepapers to learn more about key concepts and the theory of change.
-              </p>
-              <p class="mt-6">
-                <a
-                  href="/paper"
-                  class="text-sm font-semibold leading-6 text-indigo-600"
-                >
-                  Whitepapers <span aria-hidden="true">→</span>
-                </a>
-              </p>
-            </dd>
-          </div>
-        </dl>
-      </div>
+<div class="bg-gray-200 py-16 sm:py-24">
+  <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto max-w-2xl lg:text-center">
+      <h2 class="text-base font-semibold leading-7 text-gray-600">
+        Next steps
+      </h2>
+      <p
+        class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
+      >
+        Sign up to the newsletter<br />to learn more and stay engaged
+      </p>
+      <iframe
+        src="https://secondrenaissance.substack.com/embed"
+        width="480"
+        height="150"
+        frameborder="0"
+        scrolling="no"
+        style="border: 1px solid #eee; background: white; margin: auto"
+        class="mt-8"
+      ></iframe>
+    </div>
+    <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+      <dl
+        class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-12 lg:max-w-none lg:grid-cols-3"
+      >
+        <div class="flex flex-col">
+          <dt
+            class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl"
+          >
+            Explore the ecosystem
+          </dt>
+          <dd
+            class="mt-4 flex flex-auto flex-col text-lg leading-7 text-gray-600"
+          >
+            <p class="flex-auto">
+              Discover the players and communities seeding the second
+              renaissance.
+            </p>
+            <p class="mt-6">
+              <a href="/ecosystem" class="btn-primary">
+                Learn more
+              </a>
+            </p>
+          </dd>
+        </div>
+        <div class="flex flex-col">
+          <dt
+            class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl"
+          >
+            Join the Forum
+          </dt>
+          <dd
+            class="mt-4 flex flex-auto flex-col text-lg leading-7 text-gray-600"
+          >
+            <p class="flex-auto">
+              Join the forum to engage with the community, exchange ideas
+              and get support.
+            </p>
+            <p class="mt-6">
+              <a href="https://discord.gg/nNRt6V9jA4" class="btn-primary">
+                Visit Forum
+              </a>
+            </p>
+          </dd>
+        </div>
+        <div class="flex flex-col">
+          <dt
+            class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl"
+          >
+            Download the Whitepapers
+          </dt>
+          <dd
+            class="mt-4 flex flex-auto flex-col text-lg leading-7 text-gray-600"
+          >
+            <p class="flex-auto">
+              Download our whitepapers to learn more about key concepts and the theory of change.
+            </p>
+            <p class="mt-6">
+              <a href="/paper" class="btn-primary">
+                Read Whitepapers
+              </a>
+            </p>
+          </dd>
+        </div>
+      </dl>
     </div>
   </div>
 </div>
