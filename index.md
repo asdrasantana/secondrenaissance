@@ -8,7 +8,7 @@ layout: plain
   <img
     src="/assets/img/homepage/sun-spoor-1874.webp"
     alt=""
-    class="absolute -z-20 h-full object-cover top-0 bottom-0 -left-[10px] -right-[10px] w-[calc(100%+20px)]"
+    class="absolute -z-20 object-cover -top-[10px] -bottom-[10px] -left-[10px] -right-[10px] w-[calc(100%+20px)] h-[calc(100%+20px)]"
   />
   <div class="absolute inset-0 -z-10 bg-black/40"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-12 text-center text-white">
