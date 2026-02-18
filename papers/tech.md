@@ -1,5 +1,7 @@
-
-# In Tech We Trust: The god-like authority of technology in the modern age – and what it means to set a wiser course
+---
+title: In Tech We Trust
+---
+# The god-like authority of technology in the modern age – and what it means to set a wiser course
 
 A new essay explores our late modern relationship with technology, and asks what kind of inner shift might help a future society to avoid self-annihilation.
 
