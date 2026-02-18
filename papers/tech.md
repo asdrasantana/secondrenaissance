@@ -9,7 +9,9 @@ A new essay explores our late modern relationship with technology, and asks what
 
 Modern humanity doesn’t simply make use of technology; we perceive the world in its image, and invest it with sacred authority to guide our choices. Now we’re approaching a precipice, with tech galloping ahead of our capacity to use it wisely. A new essay explores the foundations of these dysfunctional tendencies within the modern cultural paradigm, and considers the shifts in worldview and inner capacity that might support a future society to choose more wisely the forces we unleash.
 
-[Download the paper](https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link)
+<div className="ds-buttons-container not-prose">
+<a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link" className="ds-button">Download the paper (PDF)</a>
+</div>
 
 This is the fifth paper in the Second Renaissance series; authored by Rufus Pollock, Rosie Bell and Sylvie Barbier ([Life Itself Sensemaking Studio](https://studio.lifeitself.org)). 
 
