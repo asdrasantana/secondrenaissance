@@ -10,7 +10,7 @@
     "logo": "/assets/2r-logo-small.png",
     "links": [
       {
-        "href": "/paper",
+        "href": "/papers",
         "name": "Whitepapers"
       },
       {
@@ -47,5 +47,8 @@
       }
     ]
   },
-  "theme": "lessflowery"
+  "theme": "lessflowery",
+  "redirects": [
+    { "from": "/paper", "to": "/papers" }
+  ]
 }
