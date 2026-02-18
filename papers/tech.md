@@ -13,6 +13,7 @@ Modern humanity doesn’t simply make use of technology; we perceive the world i
 <a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link" className="ds-button">Download the paper (PDF)</a>
 </div>
 
+
 This is the fifth paper in the Second Renaissance series; authored by Rufus Pollock, Rosie Bell and Sylvie Barbier ([Life Itself Sensemaking Studio](https://studio.lifeitself.org)). 
 
 \~
