@@ -3,10 +3,10 @@ title: In Tech We Trust
 description: "The god-like authority of technology in the modern age – and what it means to set a wiser course"
 ---
 
-A new essay explores our late modern relationship with technology, and asks what kind of inner shift might help a future society to find a wiser path.
+This essay explores our late modern relationship with technology, and asks what kind of inner shift might help a future society to find a wiser path.
 
-<div class="mt-6 not-prose">
-<a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link" class="btn-primary">Download the paper (PDF)</a>
+<div class="my-12 not-prose text-center">
+<a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link" class="btn-primary">Read Full Paper (PDF)</a>
 </div>
 
 Modern humanity doesn’t simply make use of technology; we perceive the world in its image, and invest it with sacred authority to guide our choices. Now we’re approaching a precipice, with tech galloping ahead of our capacity to use it wisely. A new essay explores the foundations of these dysfunctional tendencies within the modern cultural paradigm, and considers the shifts in worldview and inner capacity that might support a future society to choose more wisely the forces we unleash.
