@@ -9,13 +9,13 @@ A new essay explores our late modern relationship with technology, and asks what
 
 Modern humanity doesn’t simply make use of technology; we perceive the world in its image, and invest it with sacred authority to guide our choices. Now we’re approaching a precipice, with tech galloping ahead of our capacity to use it wisely. A new essay explores the foundations of these dysfunctional tendencies within the modern cultural paradigm, and considers the shifts in worldview and inner capacity that might support a future society to choose more wisely the forces we unleash.
 
-**\[download button\]**
+[Download the paper](https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link)
 
-This is the fifth paper in the Second Renaissance series; authored by Rufus Pollock, Rosie Bell and Sylvie Barbier (Life Itself Sensemaking Studio). 
+This is the fifth paper in the Second Renaissance series; authored by Rufus Pollock, Rosie Bell and Sylvie Barbier ([Life Itself Sensemaking Studio](https://studio.lifeitself.org)). 
 
 \~
 
-**Summary**
+## Summary
 
 As far back as we can trace homo sapiens, we find evidence that technology has been part of human existence. But the speed and scale at which it shapes our lives today is unprecedented. Once a helpful servant, tech has become a dysfunctional master; a cultural ideology in its own right. It’s no longer an exaggeration to suggest that modern technology is a god \- commanding faith, reverence and moral authority, and eclipsing human values in our collective choices. A residual faith in human reason sustains the illusion of freedom, while the tools we invite into our lives distort our attention, behaviour and relationship with each other and the world. 
 
