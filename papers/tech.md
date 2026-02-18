@@ -11,7 +11,6 @@ Modern humanity doesn’t simply make use of technology; we perceive the world i
 
 <div className="ds-buttons-container not-prose">
 <a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link" className="ds-button">Download the paper (PDF)</a>
-  <br>
 </div>
 
 
