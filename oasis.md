@@ -12,31 +12,16 @@ The Oasis launched April 2025 and meets every Tuesday for 90 minutes starting at
 
 An Oasis Tent is where *community* meets *project* for catalyzing energy. Tents are self-organized and autonomously run by their leaders, and set a cadence between weekly and monthly for how often they are active in the space.
 
-**Tent Schedule - [January 20](https://luma.com/31xgr63s), 2026:**
-- Dangerous Book Club
-- Greenhouse
-- Research & Sensemaking
+Caravan Season - [February 24](https://luma.com/zpqb4j47), 2026
 
-**Tent Schedule - [January 27](https://luma.com/eospgjbd), 2026:**
-- Dangerous Book Club
-- Greenhouse
+[Limicon](https://www.limicon.org/) Prep Party Special - [March 3](https://luma.com/wcv83152), 2026
 
-**Tent Schedule - [February 3](https://luma.com/1b2t8fkf), 2026:**
-- Dangerous Book Club
-- Greenhouse
-- Intentional Ventures
+Caravan Season - [March 10](https://luma.com/l001rrgu) , 2026
 
-**Tent Schedule - [February 10](https://luma.com/cuo93hni), 2026:**
-- Dangerous Book Club
-- Greenhouse
-- Life Guild
+*Currently active at the Oasis:*
 
-Currently active Oasis Tents:
+This **February**, the Oasis calls will shift into a more open, experimental format as we explore the relationship between *being* and *building* together. Over the past months, we've seen that our relational and "being" practices are what most nourish the community, so we're bringing our relationality into the building-being-space to connect deeply with those out in the field already.
 
-- **Dangerous Book Club** (Weekly) – What makes a book dangerous? In this case, it is the potential to disrupt one's world view. If one is not ready, properly guided, or fails to integrate, this process can be destructive. But if a book exists at one's edge, calling to them, there is the a transformation waiting to happen. [Learn more](https://forum.secondrenaissance.net/t/dangerous-book-club-pilgrimage-through-reading/633)
-- **Greenhouse** (Weekly) – A spirit group for those called to engage in mystery. A mystical container for mutual support and creation based on our collective experiences. A right-brained, embodied, gathering around a campfire vibe. [Learn more](https://forum.secondrenaissance.net/t/red-world-tent/452)
-- **Intentional Ventures** (1st week of each month) – Intentional Ventures unlocks aligned livelihood through relational, perspectival, and technical support. [Learn more](https://forum.secondrenaissance.net/t/about-the-intentional-ventures-tent/305)
-- **Life Guild** (2nd week of each month) – Provide a space: for those who have formed guilds to share their experiences, guide individuals interested in joining a guild, answer common questions and clarify the concept of spiritual warriorship, facilitate connections among participants in the same location. [Learn more](https://forum.secondrenaissance.net/t/about-the-life-guild-tent/551)
-- **Research & Sensemaking** (3rd week of each month) – Exploring paths to a second renaissance through research and sense-making, and producing reports, papers, articles, methods and tools, including the Second Renaissance Wiki. [Learn more](https://forum.secondrenaissance.net/t/about-the-research-and-sensemaking-oasis-tent/281)
+We'll pause the usual tent rotation and try a flexible, **"caravan"** approach; mixing rehearsal space, focused building weeks, being-centered gatherings, and blended sessions we'll shape as we go.
 
-Other new and existing projects are invited to set up Tents at The Oasis, with light curation for alignment with Second Renaissance principles. Read more about [how to start a Tent](https://forum.secondrenaissance.net/t/how-to-start-a-tent-in-the-2r-oasis-guide/285) or just [show up](/events) to join in!
+Would you (and your 2R-compatible project/org/initiative) be interested in joining the campfire circle as a featured guest? Seeking a few **volunteers** for the next few weeks of experimentation: [volunteer signup form.](https://forms.gle/n7r4H3ArGMz6gdNF6)
