@@ -48,5 +48,8 @@
   "theme": "lessflowery",
   "redirects": [
     { "from": "/paper", "to": "/papers" }
+  ],
+  "contentExclude": [
+    "/docs",
   ]
 }
