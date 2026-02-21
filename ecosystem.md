@@ -123,7 +123,7 @@ layout: plain
     <li class="group relative flex flex-col items-start gap-y-3 m-0 p-0">
       <div role="heading" class="text-base font-semibold text-primary">
         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-100 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl"></div>
-        <a href="/wiki/overview-mapping-efforts" class="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
+        <a href="/publications/overview-mapping-efforts" class="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
           <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
           <img src="/assets/img/ecosystem/liminal-web.png" class="z-10 w-full mb-2 aspect-video object-cover object-left m-0 rounded-lg shadow-sm" alt="Liminal Web">
           <span class="relative z-10">Related Mapping Efforts</span>
