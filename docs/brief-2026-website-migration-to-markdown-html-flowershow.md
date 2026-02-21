@@ -50,10 +50,10 @@ Planning
 - [ ] Migrate pages - first convert
   - [ ] `/` **will do by hand as flowershow self-hosted had this**
     - [x] Tweak hero text
-    - [ ] add video after hero
+    - [x] add video after hero **✅2026-01-24**
     - [x] Fix up calls to action at bottom
     - [x] Fix rendering on flowershow cloud **✅2026-01-20 now works**
-    - [ ] Fix button styling (here and everywhere ...?)
+    - [x] Fix button styling (here and everywhere ...?) **✅2026-01-24**
   - [x] `/art` **🚧2026-01-20 tailwind. ✅**
   - [x] `/art/exhibition` **🚧2026-01-20 tailwind✅**
   - [x] `/art/collective` **🚧2026-01-20 tailwind✅.**
@@ -73,8 +73,9 @@ Planning
     - [ ] 🔽 images at bottom of orgs involved
   - [x] `/oasis` **Do in markdown by hand. Want nice hero?**
     - [ ] nice hero ...
-  - [ ] `/ecosystem` ??
-  - [ ] `/paper` **Can probably do in markdown better** 
+  - [x] `/ecosystem`  **✅2026-01-25 migrated.**
+    - [ ] need to fix links to go to new website ...
+  - [x] `/paper` **Can probably do in markdown better** **✅2026-01-25 used html in the end as nicer for now.**
 
 ### Repo refactoring
 
