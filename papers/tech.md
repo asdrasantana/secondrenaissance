@@ -13,7 +13,7 @@ Modern humanity doesn’t simply make use of technology; we perceive the world i
 
 This is the fifth paper in the [Second Renaissance series](https://secondrenaissance.net/paper); authored by Rufus Pollock, Rosie Bell and Sylvie Barbier ([Life Itself Sensemaking Studio](https://studio.lifeitself.org)). 
 
-<a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link"><img src="/assets/ITWT-final.jpg" alt="In tech we trust cover" width="70%" /></a>
+<a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link"><img src="/assets/ITWT10.jpg" alt="In tech we trust cover" width="70%" /></a>
 
 ## Summary
 
