@@ -93,7 +93,6 @@ layout: plain
           </p>
         </div>
       </article>
-
       <article class="bg-white rounded-2xl shadow-lg overflow-hidden">
         <img src="/assets/img/art/residency-kay-michael.jpg" alt="Kay Michael" class="w-full aspect-[4/3] object-cover">
         <div class="p-7 space-y-4">
@@ -127,7 +126,6 @@ layout: plain
       <p class="text-sm text-gray-600 mb-6">Note: accommodation is separate.</p>
       <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
     </div>
-
     <div class="bg-white rounded-2xl border border-gray-200 p-8">
       <h2 class="font-elsie text-3xl md:text-4xl mb-6">Schedule</h2>
       <p class="text-sm text-gray-600 mb-6">Note: schedule is still under revision and subject to change.</p>
@@ -159,7 +157,6 @@ layout: plain
       </div>
     </div>
   </section>
-
   <section class="text-center">
     <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
   </section>
