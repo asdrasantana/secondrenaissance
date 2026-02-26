@@ -443,7 +443,7 @@ layout: plain
       >
         Sign up to the newsletter<br />to learn more and stay engaged
       </p>
-      <div class="mt-8 mx-auto overflow-hidden" style="max-width: 480px; height: 400px;">
+      <div class="mt-8 mx-auto overflow-hidden" style="max-width: 480px; height: 600px;">
         <iframe
           src="https://secondrenaissance.substack.com/embed"
           width="100%"
