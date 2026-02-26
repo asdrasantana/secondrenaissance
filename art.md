@@ -15,18 +15,8 @@ layout: plain
       Shaping a New Paradigm
     </h2>
     <div class="flex flex-col sm:flex-row justify-center gap-4">
-      <a href="/art/manifesto" class="bg-red-sr hover-bg-red-sr text-white px-8 py-3 rounded-full font-baskerville uppercase tracking-wider text-sm md:text-base flex items-center justify-center gap-2 transition-all">
-        Manifesto
-        <svg class="w-5 h-5 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-        </svg>
-      </a>
-      <a href="/art/magazine" class="bg-red-sr hover-bg-red-sr text-white px-8 py-3 rounded-full font-baskerville uppercase tracking-wider text-sm md:text-base flex items-center justify-center gap-2 transition-all">
-        Magazine
-        <svg class="w-5 h-5 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-        </svg>
-      </a>
+      <a href="/art/manifesto" class="btn-primary">Manifesto</a>
+      <a href="/art/magazine" class="btn-primary">Magazine</a>
     </div>
   </div>
 </header>
