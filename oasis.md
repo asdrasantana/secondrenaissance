@@ -12,8 +12,6 @@ The Oasis launched April 2025 and meets every Tuesday for 90 minutes starting at
 
 An Oasis Tent is where *community* meets *project* for catalyzing energy. Tents are self-organized and autonomously run by their leaders, and set a cadence between weekly and monthly for how often they are active in the space.
 
-Caravan Campfire with Danielle from Limicon - [February 24](https://luma.com/066iimdq), 2026
-
 [Limicon](https://www.limicon.org/) Prep Party Special - [March 3](https://luma.com/wcv83152), 2026
 
 Format TBD - [March 10](https://luma.com/l001rrgu) , 2026
