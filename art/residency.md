@@ -20,12 +20,13 @@ layout: plain
 </header>
 
 <main class="max-w-6xl mx-auto px-4 py-16 md:py-24 space-y-24">
-  <section class="grid md:grid-cols-2 gap-10 items-center">
-    <div class="rounded-2xl overflow-hidden shadow-xl">
-      <img src="/assets/img/art/art-of-ritual.jpg" alt="Art of Ritual Residency" class="w-full h-full object-cover">
-    </div>
-    <div class="space-y-5 text-gray-800">
-      <h2 class="font-elsie text-3xl md:text-5xl leading-tight">Creative Rebirth Through Shadow Work</h2>
+  <section>
+    <h2 class="font-elsie text-3xl md:text-5xl leading-tight text-center mb-10">Creative Rebirth Through Shadow Work</h2>
+    <div class="grid md:grid-cols-2 gap-10 items-center">
+      <div class="rounded-2xl overflow-hidden shadow-xl">
+        <img src="/assets/img/art/residency-kay-michael.jpg" alt="Art of Ritual Residency" class="w-full h-full object-cover">
+      </div>
+      <div class="space-y-5 text-gray-800">
       <p>
         Come and join us from the <strong>24th - 31st of July 2026</strong> for a transformative, artistic week around
         the theme of Shadow Work and Creative Rebirth with
@@ -46,12 +47,16 @@ layout: plain
       <p class="text-sm text-gray-500">
         Photography by <a href="https://www.instagram.com/lucilavairo/" target="_blank" rel="noopener" class="hover:underline">Lucila Vairo</a> (2025)
       </p>
-      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+        <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+      </div>
     </div>
   </section>
 
   <section class="bg-[#f9f6f3] rounded-3xl p-8 md:p-12">
     <h2 class="font-elsie text-3xl md:text-5xl mb-6">Approach</h2>
+    <div class="rounded-2xl overflow-hidden shadow-lg mb-8">
+      <img src="/assets/img/art/residency-approach.png" alt="Approach at Art of Ritual Residency" class="w-full h-full object-cover">
+    </div>
     <p class="mb-5">The residency holds two complementary movements:</p>
     <ol class="list-decimal pl-6 space-y-3 text-gray-800">
       <li><strong>Receiving</strong> - allowing unconscious intuitions and symbolic material to surface through dreams, artistic, and somatic practices.</li>
@@ -70,11 +75,24 @@ layout: plain
     </div>
   </section>
 
+  <section class="max-w-4xl mx-auto">
+    <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Who is it for?</h2>
+    <div class="space-y-6 text-gray-800 text-lg leading-relaxed">
+      <p>
+        This residency is for anyone who feels the quiet pull toward ritual—whether or not they call themselves an artist or walk a spiritual path. It welcomes all committed hearts from: dancers, writers, dreamers, performers, painters, musicians, makers, visual artists and those simply curious about the deeper currents within themselves. It is for those who long to step into ritual space, to listen for the ceremonies that live inside them, to awaken the oracular body, to open an energetic field together, and to train the body to become a vessel of ritual in communion with others.
+      </p>
+      <p>
+        Note: This is not a therapeutic retreat, although the process can be deeply therapeutic. It’s an artistic and spiritual experiment in collective ritual creation. Each participant is responsible for their own physical and mental wellbeing at all times.
+      </p>
+      <hr class="border-gray-300">
+    </div>
+  </section>
+
   <section>
     <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Facilitators</h2>
     <div class="grid md:grid-cols-2 gap-10">
       <article class="bg-white rounded-2xl shadow-lg overflow-hidden">
-        <img src="/assets/img/art/art-of-ritual.jpg" alt="Sylvie Shiwei Barbier" class="w-full aspect-[4/3] object-cover">
+        <img src="/assets/img/art/residency-sylvie-bio.jpg" alt="Sylvie Shiwei Barbier" class="w-full aspect-square object-cover">
         <div class="p-7 space-y-4">
           <h3 class="font-elsie text-3xl">Sylvie 'Shiwei' Barbier</h3>
           <p>
@@ -94,7 +112,7 @@ layout: plain
         </div>
       </article>
       <article class="bg-white rounded-2xl shadow-lg overflow-hidden">
-        <img src="/assets/img/art/residency-kay-michael.jpg" alt="Kay Michael" class="w-full aspect-[4/3] object-cover">
+        <img src="/assets/img/art/residency-kay-bio.jpeg" alt="Kay Michael" class="w-full aspect-[4/5] object-cover">
         <div class="p-7 space-y-4">
           <h3 class="font-elsie text-3xl">Kay Michael</h3>
           <p>
@@ -117,43 +135,42 @@ layout: plain
     </div>
   </section>
 
-  <section class="grid md:grid-cols-2 gap-10 items-start">
-    <div class="bg-white rounded-2xl border border-gray-200 p-8">
-      <h2 class="font-elsie text-3xl md:text-4xl mb-6">Pricing</h2>
-      <p class="mb-4">The residency will be intimate, with 15 residents.</p>
-      <p class="mb-4">The full 7-day workshop (24th-31st July) costs <strong>EUR680</strong>.</p>
-      <p class="mb-4">We also offer <strong>three discounted spots at EUR360</strong> for those for whom cost is a barrier.</p>
-      <p class="text-sm text-gray-600 mb-6">Note: accommodation is separate.</p>
-      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
-    </div>
-    <div class="bg-white rounded-2xl border border-gray-200 p-8">
-      <h2 class="font-elsie text-3xl md:text-4xl mb-6">Schedule</h2>
-      <p class="text-sm text-gray-600 mb-6">Note: schedule is still under revision and subject to change.</p>
-      <div class="space-y-5 text-sm md:text-base">
-        <div>
-          <p class="font-semibold">Friday, 24 July - Arrival &amp; Opening</p>
-          <p>3:00-5:30 PM arrival and settling in; 6:30 PM dinner; 8:30-10:00 PM opening circle; 10:00 PM noble silence.</p>
-        </div>
-        <div>
-          <p class="font-semibold">Saturday-Monday, 25-27 July</p>
-          <p>8:00 AM silent breakfast; 9:30 AM-12:00 PM morning workshop; 1:00-2:30 PM lunch; 2:30-5:30 PM afternoon workshop; 6:30 PM dinner; evening sharing/meditation; 10:00 PM noble silence.</p>
-        </div>
-        <div>
-          <p class="font-semibold">Tuesday, 28 July</p>
-          <p>Lazy day; 9:00-11:00 PM night workshop.</p>
-        </div>
-        <div>
-          <p class="font-semibold">Wednesday, 29 July</p>
-          <p>Lazy morning; 2:30-5:30 PM afternoon workshop; 6:30 PM dinner; 9:00-10:15 PM sharing circle and meditation; 10:30 PM noble silence.</p>
-        </div>
-        <div>
-          <p class="font-semibold">Thursday, 30 July</p>
-          <p>8:00 AM breakfast; 9:30 AM-12:30 PM morning workshop; preparation for offering.</p>
-        </div>
-        <div>
-          <p class="font-semibold">Friday, 31 July</p>
-          <p>Ritual offering at Second Renaissance Festival.</p>
-        </div>
+  <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
+    <h2 class="font-elsie text-3xl md:text-4xl mb-6">Pricing</h2>
+    <p class="mb-4">The residency will be intimate, with 15 residents.</p>
+    <p class="mb-4">The full 7-day workshop (24th-31st July) costs <strong>EUR680</strong>.</p>
+    <p class="mb-4">We also offer <strong>three discounted spots at EUR360</strong> for those for whom cost is a barrier.</p>
+    <p class="text-sm text-gray-600 mb-6">Note: accommodation is separate.</p>
+    <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+  </section>
+
+  <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
+    <h2 class="font-elsie text-3xl md:text-4xl mb-6">Schedule</h2>
+    <p class="text-sm text-gray-600 mb-6">Note: schedule is still under revision and subject to change.</p>
+    <div class="space-y-5 text-sm md:text-base">
+      <div>
+        <p class="font-semibold">Friday, 24 July - Arrival &amp; Opening</p>
+        <p>3:00-5:30 PM arrival and settling in; 6:30 PM dinner; 8:30-10:00 PM opening circle; 10:00 PM noble silence.</p>
+      </div>
+      <div>
+        <p class="font-semibold">Saturday-Monday, 25-27 July</p>
+        <p>8:00 AM silent breakfast; 9:30 AM-12:00 PM morning workshop; 1:00-2:30 PM lunch; 2:30-5:30 PM afternoon workshop; 6:30 PM dinner; evening sharing/meditation; 10:00 PM noble silence.</p>
+      </div>
+      <div>
+        <p class="font-semibold">Tuesday, 28 July</p>
+        <p>Lazy day; 9:00-11:00 PM night workshop.</p>
+      </div>
+      <div>
+        <p class="font-semibold">Wednesday, 29 July</p>
+        <p>Lazy morning; 2:30-5:30 PM afternoon workshop; 6:30 PM dinner; 9:00-10:15 PM sharing circle and meditation; 10:30 PM noble silence.</p>
+      </div>
+      <div>
+        <p class="font-semibold">Thursday, 30 July</p>
+        <p>8:00 AM breakfast; 9:30 AM-12:30 PM morning workshop; preparation for offering.</p>
+      </div>
+      <div>
+        <p class="font-semibold">Friday, 31 July</p>
+        <p>Ritual offering at Second Renaissance Festival.</p>
       </div>
     </div>
   </section>
