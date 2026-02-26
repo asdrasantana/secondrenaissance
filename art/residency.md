@@ -19,12 +19,12 @@ layout: plain
   </div>
 </header>
 
-<main class="max-w-6xl mx-auto px-4 py-16 md:py-24 space-y-24">
+<main class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-24">
   <section>
     <h2 class="font-elsie text-3xl md:text-5xl leading-tight text-center mb-10">Creative Rebirth Through Shadow Work</h2>
     <div class="grid md:grid-cols-2 gap-10 items-center">
       <div class="rounded-2xl overflow-hidden shadow-xl">
-        <img src="/assets/img/art/residency-kay-michael.jpg" alt="Art of Ritual Residency" class="w-full h-full object-cover">
+        <img src="/assets/img/art/art-of-ritual.jpg" alt="Art of Ritual Residency" class="w-full h-full object-cover">
       </div>
       <div class="space-y-5 text-gray-800">
       <p>
@@ -75,6 +75,12 @@ layout: plain
     </div>
   </section>
 
+  <section class="max-w-2xl mx-auto">
+    <div class="rounded-2xl overflow-hidden shadow-lg">
+      <img src="/assets/img/art/residency-hand-mouth.jpg" alt="Residency ritual moment" class="w-full h-full object-cover">
+    </div>
+  </section>
+
   <section class="max-w-4xl mx-auto">
     <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Who is it for?</h2>
     <div class="space-y-6 text-gray-800 text-lg leading-relaxed">
@@ -88,42 +94,42 @@ layout: plain
     </div>
   </section>
 
-  <section>
+  <section class="max-w-3xl mx-auto">
     <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Facilitators</h2>
-    <div class="grid md:grid-cols-2 gap-10">
-      <article class="bg-white rounded-2xl shadow-lg overflow-hidden">
+    <div class="grid grid-cols-1 gap-14">
+      <article class="bg-white rounded-2xl shadow-lg overflow-hidden max-w-2xl mx-auto">
         <img src="/assets/img/art/residency-sylvie-bio.jpg" alt="Sylvie Shiwei Barbier" class="w-full aspect-square object-cover">
-        <div class="p-7 space-y-4">
-          <h3 class="font-elsie text-3xl">Sylvie 'Shiwei' Barbier</h3>
-          <p>
+        <div class="p-6 space-y-3 text-sm md:text-base">
+          <h3 class="font-elsie text-2xl">Sylvie 'Shiwei' Barbier</h3>
+          <p class="leading-relaxed">
             Sylvie is a French-Taiwanese visionary artist, curator, and co-founder of Life Itself. Her work focuses on transformational
             art integrating Eastern and Western philosophies. Over two decades she has led rituals in galleries, retreat centers, public
             spaces, churches, natural landscapes, and educational institutions.
           </p>
-          <p>
+          <p class="leading-relaxed">
             She is the author of
             <a href="https://renaissance.metalabel.com/manifesto?variantId=1" target="_blank" rel="noopener" class="text-red-700 hover:underline">The Art of the Second Renaissance manifesto</a>
             and editor of
             <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=1&retryCount=2" target="_blank" rel="noopener" class="text-red-700 hover:underline">Second Renaissance Magazine</a>.
           </p>
-          <p>
+          <p class="leading-relaxed">
             Sylvie is also a mother of two and committed to bridging ancestral Indigenous knowledge with contemporary and future-oriented perspectives.
           </p>
         </div>
       </article>
-      <article class="bg-white rounded-2xl shadow-lg overflow-hidden">
+      <article class="bg-white rounded-2xl shadow-lg overflow-hidden max-w-2xl mx-auto">
         <img src="/assets/img/art/residency-kay-bio.jpeg" alt="Kay Michael" class="w-full aspect-[4/5] object-cover">
-        <div class="p-7 space-y-4">
-          <h3 class="font-elsie text-3xl">Kay Michael</h3>
-          <p>
+        <div class="p-6 space-y-3 text-sm md:text-base">
+          <h3 class="font-elsie text-2xl">Kay Michael</h3>
+          <p class="leading-relaxed">
             Kay is a London-based theatre-maker, creative producer, and ecological facilitator. Her work creates cultural experiences
             for personal and collective transformation across theatres, galleries, festivals, streets, woodlands, and retreat centres.
           </p>
-          <p>
+          <p class="leading-relaxed">
             She is a co-founder of <strong>Culture Declares Emergency</strong> and a facilitator of Joanna Macy's <em>Work That Reconnects</em>.
             Kay co-produced and curated the first <strong>Council of All Beings</strong> for global delegates at COP26.
           </p>
-          <p>
+          <p class="leading-relaxed">
             Kay is also the <strong>Co-Founder and Executive Director of Letters to the Earth</strong>, an award-winning global creative
             organisation fostering connection with nature through outdoor immersions, creative writing, and storytelling.
           </p>
