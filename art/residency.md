@@ -20,13 +20,12 @@ layout: plain
 </header>
 
 <main class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-24 text-lg">
-  <section>
+  <section class="max-w-2xl mx-auto">
     <h2 class="font-elsie text-3xl md:text-5xl leading-tight text-center mb-10">Creative Rebirth Through Shadow Work</h2>
-    <div class="grid md:grid-cols-2 gap-10 items-center">
-      <div class="rounded-2xl overflow-hidden shadow-xl">
-        <img src="/assets/img/art/art-of-ritual.jpg" alt="Art of Ritual Residency" class="w-full h-full object-cover">
-      </div>
-      <div class="space-y-5 text-gray-800">
+    <div class="rounded-2xl overflow-hidden shadow-xl mb-8">
+      <img src="/assets/img/art/art-of-ritual.jpg" alt="Art of Ritual Residency" class="w-full h-full object-cover">
+    </div>
+    <div class="space-y-5 text-gray-800">
       <p>
         Come and join us from the <strong>24th - 31st of July 2026</strong> for a transformative, artistic week around
         the theme of Shadow Work and Creative Rebirth with
@@ -47,14 +46,13 @@ layout: plain
       <p class="text-base text-gray-500">
         Photography by <a href="https://www.instagram.com/lucilavairo/" target="_blank" rel="noopener" class="hover:underline">Lucila Vairo</a> (2025)
       </p>
-        <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
-      </div>
+      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
     </div>
   </section>
 
   <section class="bg-[#f9f6f3] rounded-3xl p-8 md:p-12">
-    <h2 class="font-elsie text-3xl md:text-5xl mb-6">Approach</h2>
-    <div class="rounded-2xl overflow-hidden shadow-lg mb-8">
+    <h2 class="font-elsie text-3xl md:text-5xl mb-6 text-center">Approach</h2>
+    <div class="rounded-2xl overflow-hidden shadow-lg mb-8 max-w-2xl mx-auto">
       <img src="/assets/img/art/residency-approach.png" alt="Approach at Art of Ritual Residency" class="w-full h-full object-cover">
     </div>
     <div class="max-w-2xl mx-auto text-gray-800">
@@ -81,7 +79,7 @@ layout: plain
         <li><strong>Receiving</strong> - allowing unconscious intuitions and symbolic material to surface through dreams, artistic, and somatic practices.</li>
         <li><strong>Transmuting</strong> - activating creative life force and embodied expression as a sacred way to encounter and integrate what lies beneath the surface.</li>
       </ol>
-      <h3 class="font-elsie text-2xl md:text-3xl mt-10 mb-4">Workshops Explore</h3>
+      <h3 class="font-elsie text-2xl md:text-3xl mt-10 mb-4">Workshops</h3>
       <p>Workshops will explore the following — and more:</p>
       <ul class="list-disc pl-6 space-y-3">
         <li><strong>Grief as portal</strong>: honoring what has died, what is dying, and what must be let go for new life to emerge.</li>
@@ -90,10 +88,10 @@ layout: plain
         <li><strong>Spoken word</strong>: poetry, rap, prayer, myth, and dramatic text as ritual access points.</li>
         <li><strong>Land based ritual</strong>: tapping into ancient and ancestral memory in relationship with Earth.</li>
       </ul>
+      <div class="mt-8 text-center">
+        <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+      </div>
       <p>In the midst of shadow and death, something new wants to be born. This is the art of birthing an emerging dream. Together we are offering a place for the past, present and future to be witnessed, released and reclaimed. The intention is not to "resolve" the shadow, but to enter into a relationship with it—to let it teach, awaken, and reshape us.</p>
-    </div>
-    <div class="mt-8">
-      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
     </div>
   </section>
 
