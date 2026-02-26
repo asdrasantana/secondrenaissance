@@ -19,7 +19,7 @@ layout: plain
   </div>
 </header>
 
-<main class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-24">
+<main class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-24 text-lg">
   <section>
     <h2 class="font-elsie text-3xl md:text-5xl leading-tight text-center mb-10">Creative Rebirth Through Shadow Work</h2>
     <div class="grid md:grid-cols-2 gap-10 items-center">
@@ -44,7 +44,7 @@ layout: plain
         of political movements. Commitment to shadow work and loving accountability is non-negotiable if we are to bring
         forth the transformation this moment requires.
       </p>
-      <p class="text-sm text-gray-500">
+      <p class="text-base text-gray-500">
         Photography by <a href="https://www.instagram.com/lucilavairo/" target="_blank" rel="noopener" class="hover:underline">Lucila Vairo</a> (2025)
       </p>
         <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
@@ -57,19 +57,41 @@ layout: plain
     <div class="rounded-2xl overflow-hidden shadow-lg mb-8">
       <img src="/assets/img/art/residency-approach.png" alt="Approach at Art of Ritual Residency" class="w-full h-full object-cover">
     </div>
-    <p class="mb-5">The residency holds two complementary movements:</p>
-    <ol class="list-decimal pl-6 space-y-3 text-gray-800">
-      <li><strong>Receiving</strong> - allowing unconscious intuitions and symbolic material to surface through dreams, artistic, and somatic practices.</li>
-      <li><strong>Transmuting</strong> - activating creative life force and embodied expression as a sacred way to encounter and integrate what lies beneath the surface.</li>
-    </ol>
-    <h3 class="font-elsie text-2xl md:text-3xl mt-10 mb-4">Workshops Explore</h3>
-    <ul class="list-disc pl-6 space-y-3 text-gray-800">
-      <li><strong>Grief as portal</strong>: honoring what has died, what is dying, and what must be let go for new life to emerge.</li>
-      <li><strong>Sound as presence and activation</strong>: using sound and song to tune into the field, release emotion, and call in energy.</li>
-      <li><strong>Movement and embodiment</strong>: awakening the body as canvas and vessel for animality and deep wisdom.</li>
-      <li><strong>Spoken word</strong>: poetry, rap, prayer, myth, and dramatic text as ritual access points.</li>
-      <li><strong>Land based ritual</strong>: tapping into ancient and ancestral memory in relationship with Earth.</li>
-    </ul>
+    <div class="max-w-2xl mx-auto text-gray-800">
+      <blockquote class="border-l-4 border-red-sr pl-5 italic text-xl text-gray-700 mb-8">
+        "Who looks outside, dreams; who looks inside, awakes." Carl Jung
+      </blockquote>
+      <p class="mb-6">
+        During our week-long residency, we invite you to immerse yourself in the poetic and transformative terrain of shadow work, held through the vessel of ritual art.
+      </p>
+      <p class="mb-6">
+        The journey begins from a shared recognition: both of us have been shaped by lineages and personal enquiries where the unseen, the unspoken, and the unresolved have called to be honoured and transformed. Dreams, hauntings, old patterns, and ancestral echoes are not obstacles here — they are invitations.
+      </p>
+      <p class="mb-6">
+        Join us in exploring personal and collective shadow material through guided rituals/ceremonies, movement, elemental practices and artistic creation. Some rituals will be intimate and simple, others will be more collective and immersive. Throughout the week you will also have the opportunity to create your own rituals to be witnessed / experienced by the others.
+      </p>
+      <p class="mb-8">
+        It will end with an offering on the last day of the residency - Saturday 31st - at the Second Renaissance Festival (31st July-2nd of August) in the shape of performance, installations, interactive experiences, ceremony and ritual that distills the week’s work for an audience. This will mark the threshold between our inner journey and the outward celebration of the festival.
+      </p>
+      <div class="rounded-2xl overflow-hidden shadow-lg mb-8">
+        <img src="/assets/img/art/residency-approach-intro.png" alt="Shadow work and ritual residency" class="w-full h-full object-cover">
+      </div>
+      <h3 class="font-elsie text-2xl md:text-3xl mb-5">The residential holds two complementary movements:</h3>
+      <ol class="list-decimal pl-6 space-y-3">
+        <li><strong>Receiving</strong> - allowing unconscious intuitions and symbolic material to surface through dreams, artistic, and somatic practices.</li>
+        <li><strong>Transmuting</strong> - activating creative life force and embodied expression as a sacred way to encounter and integrate what lies beneath the surface.</li>
+      </ol>
+      <h3 class="font-elsie text-2xl md:text-3xl mt-10 mb-4">Workshops Explore</h3>
+      <p>Workshops will explore the following — and more:</p>
+      <ul class="list-disc pl-6 space-y-3">
+        <li><strong>Grief as portal</strong>: honoring what has died, what is dying, and what must be let go for new life to emerge.</li>
+        <li><strong>Sound as presence and activation</strong>: using sound and song to tune into the field, release emotion, and call in energy.</li>
+        <li><strong>Movement and embodiment</strong>: awakening the body as canvas and vessel for animality and deep wisdom.</li>
+        <li><strong>Spoken word</strong>: poetry, rap, prayer, myth, and dramatic text as ritual access points.</li>
+        <li><strong>Land based ritual</strong>: tapping into ancient and ancestral memory in relationship with Earth.</li>
+      </ul>
+      <p>In the midst of shadow and death, something new wants to be born. This is the art of birthing an emerging dream. Together we are offering a place for the past, present and future to be witnessed, released and reclaimed. The intention is not to "resolve" the shadow, but to enter into a relationship with it—to let it teach, awaken, and reshape us.</p>
+    </div>
     <div class="mt-8">
       <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
     </div>
@@ -83,7 +105,7 @@ layout: plain
 
   <section class="max-w-4xl mx-auto">
     <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Who is it for?</h2>
-    <div class="space-y-6 text-gray-800 text-lg leading-relaxed">
+    <div class="space-y-6 text-gray-800 leading-relaxed max-w-2xl mx-auto">
       <p>
         This residency is for anyone who feels the quiet pull toward ritual—whether or not they call themselves an artist or walk a spiritual path. It welcomes all committed hearts from: dancers, writers, dreamers, performers, painters, musicians, makers, visual artists and those simply curious about the deeper currents within themselves. It is for those who long to step into ritual space, to listen for the ceremonies that live inside them, to awaken the oracular body, to open an energetic field together, and to train the body to become a vessel of ritual in communion with others.
       </p>
@@ -94,12 +116,12 @@ layout: plain
     </div>
   </section>
 
-  <section class="max-w-3xl mx-auto">
+  <section class="max-w-4xl mx-auto">
     <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Facilitators</h2>
-    <div class="grid grid-cols-1 gap-14">
-      <article class="bg-white rounded-2xl shadow-lg overflow-hidden max-w-2xl mx-auto">
-        <img src="/assets/img/art/residency-sylvie-bio.jpg" alt="Sylvie Shiwei Barbier" class="w-full aspect-square object-cover">
-        <div class="p-6 space-y-3 text-sm md:text-base">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <article class="bg-white rounded-2xl shadow-lg overflow-hidden h-full">
+        <img src="/assets/img/art/residency-sylvie-bio.jpg" alt="Sylvie Shiwei Barbier" class="w-full h-72 md:h-80 object-cover">
+        <div class="p-6 space-y-3 text-base">
           <h3 class="font-elsie text-2xl">Sylvie 'Shiwei' Barbier</h3>
           <p class="leading-relaxed">
             Sylvie is a French-Taiwanese visionary artist, curator, and co-founder of Life Itself. Her work focuses on transformational
@@ -117,9 +139,9 @@ layout: plain
           </p>
         </div>
       </article>
-      <article class="bg-white rounded-2xl shadow-lg overflow-hidden max-w-2xl mx-auto">
-        <img src="/assets/img/art/residency-kay-bio.jpeg" alt="Kay Michael" class="w-full aspect-[4/5] object-cover">
-        <div class="p-6 space-y-3 text-sm md:text-base">
+      <article class="bg-white rounded-2xl shadow-lg overflow-hidden h-full">
+        <img src="/assets/img/art/residency-kay-bio.jpeg" alt="Kay Michael" class="w-full h-72 md:h-80 object-cover">
+        <div class="p-6 space-y-3 text-base">
           <h3 class="font-elsie text-2xl">Kay Michael</h3>
           <p class="leading-relaxed">
             Kay is a London-based theatre-maker, creative producer, and ecological facilitator. Her work creates cultural experiences
@@ -143,17 +165,20 @@ layout: plain
 
   <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
     <h2 class="font-elsie text-3xl md:text-4xl mb-6">Pricing</h2>
-    <p class="mb-4">The residency will be intimate, with 15 residents.</p>
-    <p class="mb-4">The full 7-day workshop (24th-31st July) costs <strong>EUR680</strong>.</p>
-    <p class="mb-4">We also offer <strong>three discounted spots at EUR360</strong> for those for whom cost is a barrier.</p>
-    <p class="text-sm text-gray-600 mb-6">Note: accommodation is separate.</p>
-    <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+    <div class="max-w-2xl mx-auto">
+      <p class="mb-4">The residency will be intimate, with 15 residents.</p>
+      <p class="mb-4">The full 7-day workshop (24th-31st July) costs <strong>EUR680</strong>.</p>
+      <p class="mb-4">We also offer <strong>three discounted spots at EUR360</strong> for those for whom cost is a barrier.</p>
+      <p class="text-base text-gray-600 mb-6">Note: accommodation is separate.</p>
+      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+    </div>
   </section>
 
   <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
     <h2 class="font-elsie text-3xl md:text-4xl mb-6">Schedule</h2>
-    <p class="text-sm text-gray-600 mb-6">Note: schedule is still under revision and subject to change.</p>
-    <div class="space-y-5 text-sm md:text-base">
+    <div class="max-w-2xl mx-auto">
+    <p class="text-base text-gray-600 mb-6">Note: schedule is still under revision and subject to change.</p>
+    <div class="space-y-5">
       <div>
         <p class="font-semibold">Friday, 24 July - Arrival &amp; Opening</p>
         <p>3:00-5:30 PM arrival and settling in; 6:30 PM dinner; 8:30-10:00 PM opening circle; 10:00 PM noble silence.</p>
@@ -178,6 +203,7 @@ layout: plain
         <p class="font-semibold">Friday, 31 July</p>
         <p>Ritual offering at Second Renaissance Festival.</p>
       </div>
+    </div>
     </div>
   </section>
   <section class="text-center">
