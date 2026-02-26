@@ -57,12 +57,7 @@ layout: plain
           </p>
         </div>
         <div class="mt-10 text-center md:text-left">
-          <a href="https://www.crowdfunder.co.uk/p/second-renaissance-magazine" class="inline-flex items-center gap-2 bg-red-sr hover-bg-red-sr text-white px-10 py-4 rounded-full font-baskerville uppercase tracking-wider transition-all">
-            Support us
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-            </svg>
-          </a>
+          <a href="https://www.crowdfunder.co.uk/p/second-renaissance-magazine" class="btn-primary">Support us</a>
         </div>
       </div>
       <div class="order-1 md:order-2 aspect-video bg-gray-100 rounded-2xl overflow-hidden shadow-xl">
@@ -73,9 +68,9 @@ layout: plain
   <!-- Art of Ritual Section -->
   <section class="py-20 bg-gray-50 px-4">
     <div class="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
-      <div class="rounded-2xl overflow-hidden shadow-xl">
+      <a href="/art/residency" class="rounded-2xl overflow-hidden shadow-xl block">
         <img src="/assets/img/art/art-of-ritual.jpg" alt="Art of Ritual" class="w-full h-full object-cover">
-      </div>
+      </a>
       <div>
         <h2 class="font-elsie text-3xl md:text-5xl mb-6 leading-tight">Art of Ritual: Shadow Work and Creative Rebirth</h2>
         <div class="prose prose-lg text-gray-700">
@@ -89,12 +84,7 @@ layout: plain
             ritual. It will take place in the south west of France at the Life Itself Farmhouse at the
             end of June.
           </p>
-          <a href="/art/residency" class="inline-flex items-center gap-2 bg-red-sr hover-bg-red-sr text-white px-8 py-3 rounded-full font-baskerville uppercase tracking-wider text-sm transition-all">
-            Read more and book
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-            </svg>
-          </a>
+          <a href="/art/residency" class="btn-primary">Read more and book</a>
         </div>
       </div>
     </div>
@@ -109,20 +99,15 @@ layout: plain
         Seeking an artistic tribe for an emerging cultural paradigm. Marrying the artistic, political and
         spiritual worlds.
       </h3>
-      <div class="aspect-[2/3] max-w-md mx-auto rounded-2xl overflow-hidden shadow-2xl mb-12">
+      <a href="/art/manifesto" class="aspect-[2/3] max-w-md mx-auto rounded-2xl overflow-hidden shadow-2xl mb-12 block">
         <img src="/assets/img/art/manifesto-cover.png" alt="Manifesto Image" class="w-full h-full object-cover">
-      </div>
+      </a>
       <p class="text-lg text-gray-600 mb-10 leading-relaxed">
         We have written a manifesto and essay to explain in more detail the philosophy behind the Art of the
         Second Renaissance. These are the principles on which we come together as a collective and curate
         our magazine.
       </p>
-      <a href="/art/manifesto" class="inline-flex items-center gap-2 bg-red-sr hover-bg-red-sr text-white px-10 py-4 rounded-full font-baskerville uppercase tracking-wider transition-all">
-        Read more
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-        </svg>
-      </a>
+      <a href="/art/manifesto" class="btn-primary">Read More</a>
     </div>
   </section>
   <!-- Vision Section -->
@@ -149,23 +134,20 @@ layout: plain
     <div class="max-w-7xl mx-auto">
       <div class="grid md:grid-cols-2 gap-8">
         <!-- Magazine Card -->
-        <a href="/art/magazine" class="group relative aspect-[1.4] rounded-3xl overflow-hidden shadow-lg border border-gray-100 flex flex-col transition-all hover:shadow-2xl">
+        <article class="group relative aspect-[1.4] rounded-3xl overflow-hidden shadow-lg border border-gray-100 flex flex-col transition-all hover:shadow-2xl">
           <div class="p-8 pb-0">
             <h3 class="text-3xl font-black mb-4 tracking-tighter">MAGAZINE</h3>
             <p class="text-gray-600 max-w-md">Our magazine is a yearly publication which aims to share with the world the artistic embodiment of transformation for a Second Renaissance. Our first issue is on the theme of Impermanence.</p>
           </div>
           <div class="flex-grow mt-6 relative overflow-hidden">
-            <img src="/assets/img/art/magazine-preview.webp" alt="Magazine" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
+            <a href="/art/magazine" class="block w-full h-full">
+              <img src="/assets/img/art/magazine-preview.webp" alt="Magazine" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
+            </a>
             <div class="absolute bottom-6 right-6">
-              <span class="bg-red-sr text-white px-6 py-2 rounded-full font-baskerville text-xs uppercase tracking-widest flex items-center gap-2">
-                See Magazine
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-                </svg>
-              </span>
+              <a href="/art/magazine" class="btn-primary">See Magazine</a>
             </div>
           </div>
-        </a>
+        </article>
         <!-- Collective Card -->
         <a href="/art/collective" class="group relative aspect-[1.4] rounded-3xl overflow-hidden shadow-lg border border-gray-100 flex flex-col transition-all hover:shadow-2xl bg-gray-50">
           <div class="p-8 pb-0">
