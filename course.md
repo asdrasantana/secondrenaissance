@@ -1,48 +1,32 @@
 ---
 title: Exploring a Second Renaissance Online Course
+description: Join our short course Exploring a Second Renaissance Together. A guided journey to deepen your understanding of the Second Renaissance, this time between worlds.
 ---
 
-Join our  short course *Exploring a Second Renaissance Together*. A guided journey to deepen your understanding of the Second Renaissance, this time between worlds.
-
-- 📆 **Format:** 1 live 90min session per week over 4 weeks (recordings available) - **18th and 25th March, 1st April, 8th April 2026**
-- **🌐 Online, interactive sessions
-- **💶 Price:** €39 / $39 (scholarships available on request)
-
-In this 4-session course, we will come together to learn about and explore the **Metacrisis** and a **Second Renaissance --** this growing moment of civilizational breakdown and the potential paths to a better future**.**
+Join our short course *Exploring a Second Renaissance Together*. A guided journey, where we explorer together the **[Metacrisis]** and a **Second Renaissance** -- this growing moment of civilizational breakdown and the potential paths to a better future.
 
 Led by **Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier** this series is an invitation to those already curious about the cracks in the modern worldview --- and those feeling the pull towards a more connected, meaningful, and regenerative future.
 
-<a
-  href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ"
-  class="luma-checkout--button"
-  data-luma-action="checkout"
-  data-luma-event-id="evt-vtZuX8RdOKIYCbZ"
->
-  Register for Event
-</a>
+- **📆 When** 18th and 25th March, 1st April, 8th April 2026
+- **🕰️ Format:** 1 live 90min session per week over 4 weeks (recordings available)
+- **🌐 Where**: Online, interactive sessions
+- **💶 Price:** €39 / $39 (scholarships available on request)
+
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
 
 **The course focuses on supporting your own exploration and discovery using small group discussion and sharing amongst the wider group.** Along with introductions to the key concepts each session includes **dialogue, small group inquiry, and shared reflection**. This format makes it suitable whether you're a complete newcomer to the second renaissance or already have deep knowledge of the area. This will be a space for collective making sense of what's happening, what's needed, and what's possible.
 
 > I left this feeling inspired. I especially appreciated getting to talk with others and hearing storiees straight from the heart like Sylvie's about having a child and facing the climate crisis. I feel more connected to myself and to others and a sense of being part of a collective movement. Whilst a single twig may easily break a bunch of twigs are unbreakable!" &mdash; Maria
 
-An opportunity to:
+It is an opportunity to:
 
 - 💬 Engage in co-sensemaking discussions
 - 🌊 Gain deep insights into global crises
 - 🌏 Reflect on emerging worldviews and values
 - 🦋 Connect with a community of like-minded individuals
-- 💪🏻 Develop practical strategies for transformation
+- 💪 Develop practical strategies for transformation
 
-<iframe
-  src="https://luma.com/embed/event/evt-vtZuX8RdOKIYCbZ/simple"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allow="fullscreen; payment"
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
 
 ### What We'll Explore
 
@@ -96,15 +80,8 @@ Explore the vision behind the Second Renaissance:
 🌐 [secondrenaissance.net](http://secondrenaissance.net)
 📄 [Download the whitepaper](https://secondrenaissance.net/paper)
 
-<iframe
-  src="https://luma.com/embed/event/evt-vtZuX8RdOKIYCbZ/simple"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allow="fullscreen; payment"
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
+
+[Metacrisis]: https://metacrisis.info
 
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
