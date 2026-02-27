@@ -3,16 +3,16 @@ title: Exploring a Second Renaissance Together
 description: Join our short online course. A guided journey to deepen your understanding of this moment of crisis and reneweal.
 ---
 
-Join our short online course *Exploring a Second Renaissance Together*. Together we explore together this time between worlds and the growing civilizational crisis and renewal -- **[Metacrisis]** and **Renaissance**.
+Join our short online course to explore together this time between worlds and the growing civilizational crisis and renewal -- a **[Metacrisis]** and **[Second Renaissance]**.
 
 Led by **Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier** this series is an invitation to those already curious about the cracks in the modern worldview --- and those feeling the pull towards a more connected, meaningful, and regenerative future.
-
-> "I left this feeling inspired. It was amazing getting to talk with others and hearing stories straight from the heart. I feel more connected to myself and to others and a sense of being part of a collective movement." &mdash; Maria
 
 - **📆 When** 18th and 25th March, 1st April, 8th April 2026
 - **🕰️ Format:** 4 sessions of 1h30min over 4 weeks (recordings available)
 - **🌐 Where**: Online, interactive sessions
 - **💶 Price:** €39 / $39 (scholarships available on request)
+
+> "I left this feeling inspired. It was amazing getting to talk with others and hearing stories straight from the heart. I feel more connected to myself and to others and a sense of being part of a collective movement." &mdash; Maria
 
 <a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
 
@@ -79,11 +79,12 @@ Using dialog and inquiry in small groups with sharing back with the group as a w
 
 Explore the vision behind the Second Renaissance:
 
-🌐 [secondrenaissance.net](http://secondrenaissance.net)
-📄 [Download the whitepaper](https://secondrenaissance.net/paper)
+- 🌐 [secondrenaissance.net](http://secondrenaissance.net)
+- 📄 [Download the whitepaper](https://secondrenaissance.net/paper)
 
 <a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
 
-[Metacrisis]: https://metacrisis.info
+[Metacrisis]: https://metacrisis.info/
+[Second Renaissance]: https://secondrenaissance.net/
 
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
