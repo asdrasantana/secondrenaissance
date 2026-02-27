@@ -1,24 +1,24 @@
 ---
-title: Exploring a Second Renaissance Online Course
-description: Join our short course Exploring a Second Renaissance Together. A guided journey to deepen your understanding of the Second Renaissance, this time between worlds.
+title: Exploring a Second Renaissance Together
+description: Join our short online course. A guided journey to deepen your understanding of this moment of crisis and reneweal.
 ---
 
-Join our short course *Exploring a Second Renaissance Together*. A guided journey, where we explorer together the **[Metacrisis]** and a **Second Renaissance** -- this growing moment of civilizational breakdown and the potential paths to a better future.
+Join our short online course *Exploring a Second Renaissance Together*. Together we explore together this time between worlds and the growing civilizational crisis and renewal -- **[Metacrisis]** and **Renaissance**.
 
 Led by **Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier** this series is an invitation to those already curious about the cracks in the modern worldview --- and those feeling the pull towards a more connected, meaningful, and regenerative future.
+
+> "I left this feeling inspired. It was amazing getting to talk with others and hearing stories straight from the heart. I feel more connected to myself and to others and a sense of being part of a collective movement." &mdash; Maria
 
 - **📆 When** 18th and 25th March, 1st April, 8th April 2026
 - **🕰️ Format:** 1 live 90min session per week over 4 weeks (recordings available)
 - **🌐 Where**: Online, interactive sessions
 - **💶 Price:** €39 / $39 (scholarships available on request)
 
-<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8 block mx-auto" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
 
-**The course focuses on supporting your own exploration and discovery using small group discussion and sharing amongst the wider group.** Along with introductions to the key concepts each session includes **dialogue, small group inquiry, and shared reflection**. This format makes it suitable whether you're a complete newcomer to the second renaissance or already have deep knowledge of the area. This will be a space for collective making sense of what's happening, what's needed, and what's possible.
+**The course focuses on supporting your own exploration and discovery using small group discussion and sharing amongst the wider group.** Along with introductions to the key concepts each session includes **dialogue, small group inquiry, and shared reflection**.
 
-> I left this feeling inspired. I especially appreciated getting to talk with others and hearing storiees straight from the heart like Sylvie's about having a child and facing the climate crisis. I feel more connected to myself and to others and a sense of being part of a collective movement. Whilst a single twig may easily break a bunch of twigs are unbreakable!" &mdash; Maria
-
-It is an opportunity to:
+This format makes it suitable whether you're a complete newcomer to the second renaissance or already have deep knowledge of the area. This will be a space for collective making sense of what's happening, what's needed, and what's possible. It is an opportunity to:
 
 - 💬 Engage in co-sensemaking discussions
 - 🌊 Gain deep insights into global crises
@@ -26,7 +26,7 @@ It is an opportunity to:
 - 🦋 Connect with a community of like-minded individuals
 - 💪 Develop practical strategies for transformation
 
-<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
+![](/assets/img/course/course-birds.jpg)
 
 ### What We'll Explore
 
@@ -40,11 +40,13 @@ It is an opportunity to:
 
 **Week 4 pt 2: Action & Integration:**: How do we carry these insights forward? What does it mean to live and lead from this new paradigm in practice?
 
-Personally you will get to explore:
+Personally you will get to look at:
 
 - **Awareness:** Exploring our paths to the second renaissance. How did you come to be interested in this? If and when did you start noticing “cracks” in the foundations? What are the resonances amongst us?
 - **Renaissance:** Exploring what we see can arise? What kind of views and values do you think are needed going forward? What kind of changes in technology and institutions?
 - **Seeds:** What are the seeds of the second renaissance? Where should we plant and cultivate them? What kinds of greenhouses? What kinds of pockets of emergence are there?
+
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8 block mx-auto" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
 
 ### Format
 
@@ -80,7 +82,7 @@ Explore the vision behind the Second Renaissance:
 🌐 [secondrenaissance.net](http://secondrenaissance.net)
 📄 [Download the whitepaper](https://secondrenaissance.net/paper)
 
-<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8 block mx-auto" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
 
 [Metacrisis]: https://metacrisis.info
 
