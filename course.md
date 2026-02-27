@@ -1,6 +1,6 @@
 ---
 title: Exploring a Second Renaissance Together
-description: Join our short online course. A guided journey to deepen your understanding of this moment of crisis and reneweal.
+description: Join our short online course. A guided journey to deepen your understanding of this moment of crisis and renewal.
 ---
 
 Join our short online course to explore together this time between worlds and the growing civilizational crisis and renewal -- a **[Metacrisis]** and **[Second Renaissance]**.
