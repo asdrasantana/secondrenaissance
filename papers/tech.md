@@ -1,6 +1,7 @@
 ---
 title: In Tech We Trust
 description: "The god-like authority of technology in the modern age – and what it means to set a wiser course"
+image: /assets/ITWT10.jpg
 ---
 
 This essay explores our late modern relationship with technology, and asks what kind of inner shift might help a future society to find a wiser path.
