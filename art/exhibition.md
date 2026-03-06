@@ -23,9 +23,9 @@ layout: plain
       <p>We are taken through the intention behind the exhibition curated by Life Itself co-founder and artist Sylvie Barbier. She shares the importance of spiritual practice in this time of uncertainty through the art of sitting with impermanence.</p>
     </div>
   </section>
-  <!-- Luc Warring Section -->
+  <!-- Luc Waring Section -->
   <section class="text-center">
-    <h2 class="font-elsie text-3xl md:text-4xl mb-10 text-red-sr">Grim Reaper - with Luc Warring</h2>
+    <h2 class="font-elsie text-3xl md:text-4xl mb-10 text-red-sr">Grim Reaper - with Luc Waring</h2>
     <div class="aspect-video bg-gray-100 rounded-3xl overflow-hidden shadow-xl mb-8">
       <iframe class="w-full h-full" src="https://www.youtube.com/embed/dzZJ0X0CkrI" title="Grim Reaper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
