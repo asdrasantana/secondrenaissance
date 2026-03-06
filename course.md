@@ -7,7 +7,7 @@ Join our short online course to explore together this time between worlds and th
 
 Led by **Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier** this series is an invitation to those already curious about the cracks in the modern worldview --- and those feeling the pull towards a more connected, meaningful, and regenerative future.
 
-- **📆 When** 18th and 25th March, 1st April, 8th April 2026
+- **📆 When** See event page for upcoming dates (below)
 - **🕰️ Format:** 4 sessions of 1h30min over 4 weeks (recordings available)
 - **🌐 Where**: Online, interactive sessions
 - **💶 Price:** €39 / $39 (scholarships available on request)
