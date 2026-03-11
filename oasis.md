@@ -21,6 +21,6 @@ An Oasis Tent is where *community* meets *project* for catalyzing energy. Tents 
 
 *Currently active at the Oasis:*
 
-This **March**, our relational building-being practices continue as the Oasis Calls will be hosting weekly events at the ongoing Limicon
+This **March**, our relational building-being practices continue as the Oasis Calls will be hosting weekly events at the ongoing Limicon.
 
 Would you (and your 2R-compatible project/org/initiative) be interested in joining the campfire circle as a featured guest? Seeking a few **volunteers** for the next few weeks of experimentation: [volunteer signup form.](https://forms.gle/n7r4H3ArGMz6gdNF6)
