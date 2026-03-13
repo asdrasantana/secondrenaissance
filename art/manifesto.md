@@ -23,7 +23,7 @@ We're eager to connect with those who feel, as we do, that our relationship to a
 
 ![](/assets/img/art/manifesto-cover-color.png)
 
-# Intention
+## Intention
 
 This manifesto is to be alive, it is not to be set in stone, dead and irrelevant. It is a celebration of life. The companion essay expresses and explains patterns and guiding principles, like a common DNA, from which evolutions may arise. Therefore, we hope it will be taken and evolved into many forms by others, who will make it their own by creating for themselves their own collectives and manifestos. It is, ultimately, a call to arms to other artists to join or create a garden filled with a multitude of expressions of the Art of the Second Renaissance, united in sharing a similar DNA.
 
@@ -122,7 +122,7 @@ As pioneer artists break-away from past perception of what is art, the art that 
 ---
 
 
-# MANIFESTO
+## Declaration
 
 We are a collective of artists making art to bring forth the second renaissance.  
 We are alchemists.  
