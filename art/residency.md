@@ -27,22 +27,16 @@ layout: plain
     </div>
     <div class="space-y-5 text-gray-800">
       <p>
-        Come and join us from the <strong>24th - 31st of July 2026</strong> for a transformative, artistic week around
-        the theme of Shadow Work and Creative Rebirth with
-        <a href="https://sylviebarbier.com" target="_blank" rel="noopener" class="text-red-700 hover:underline"><strong>Sylvie Barbier</strong></a>
-        and <strong>Kay Michael</strong> at the
-        <a href="https://lifeitself.org/hubs/farmhouse" target="_blank" rel="noopener" class="text-red-700 hover:underline"><strong>Life Itself Farmhouse Hub</strong></a>
-        in Dordogne, France.
+        Come and join us from the <strong>24th - 31st of July 2026</strong> for a transformative, artistic week around the theme of Shadow Work and Creative Rebirth with Sylvie Barbier (Ritual artist and co-founder of Life Itself) and Kay Michael (ecological artist and co-founder of Letters to the Earth), two female leaders powerfully alchemising art and eco-spirituality at the <strong>Life Itself Farmhouse Hub</strong> (Dordogne - France).
       </p>
       <blockquote class="border-l-4 border-red-sr pl-5 italic text-xl text-gray-700">
-        "One does not become enlightened by imagining figures of life, but by making the darkness conscious." - Carl Jung
+        <strong>“<em>One does not become enlightened by imagining figures of light, but by making the darkness conscious</em>” - Carl Jung</strong>
       </blockquote>
       <p class="font-semibold text-lg">What must be released for the unborn future to be born?</p>
       <p>
-        Our shadows are at the core of our organisations' breakdowns, family and friendship disputes, and the disintegration
-        of political movements. Commitment to shadow work and loving accountability is non-negotiable if we are to bring
-        forth the transformation this moment requires.
+        <em>“Our shadows run deep, they are at the source of wars, extraction, the killing, the revenge, the manipulation, the rape, the gossip, the suicides, the bullying, the blind eye and our lack of integrity. In a globalised world that has intimately woven us together, commitment to shadow work and loving accountability is non-negotiable if we are to bring forth the transformation our current day crises require.”</em>
       </p>
+      <p class="italic text-base text-gray-600">from Joy and Shadow work Manifesto draft by Sylvie Barbier</p>
       <p class="text-base text-gray-500">
         Photography by <a href="https://www.instagram.com/lucilavairo/" target="_blank" rel="noopener" class="hover:underline">Lucila Vairo</a> (2025)
       </p>
@@ -57,41 +51,41 @@ layout: plain
     </div>
     <div class="max-w-2xl mx-auto text-gray-800">
       <blockquote class="border-l-4 border-red-sr pl-5 italic text-xl text-gray-700 mb-8">
-        "Who looks outside, dreams; who looks inside, awakes." Carl Jung
+        <strong>“Who looks outside, dreams; who looks inside, awakes.” C. Jung</strong>
       </blockquote>
       <p class="mb-6">
-        During our week-long residency, we invite you to immerse yourself in the poetic and transformative terrain of shadow work, held through the vessel of ritual art.
+        During our week-long residency, we invite you to immerse yourself in the poetic and transformative terrain of shadow work, held through the vessel of ritual art. Our exploration will be an opportunity to interrogate, inform and evolve a new manifesto ‘Joy and Shadow Work’ written by Sylvie Barbier.
       </p>
       <p class="mb-6">
         The journey begins from a shared recognition: both of us have been shaped by lineages and personal enquiries where the unseen, the unspoken, and the unresolved have called to be honoured and transformed. Dreams, hauntings, old patterns, and ancestral echoes are not obstacles here — they are invitations.
       </p>
       <p class="mb-6">
-        Join us in exploring personal and collective shadow material through guided rituals/ceremonies, movement, elemental practices and artistic creation. Some rituals will be intimate and simple, others will be more collective and immersive. Throughout the week you will also have the opportunity to create your own rituals to be witnessed / experienced by the others.
-      </p>
-      <p class="mb-8">
-        It will end with an offering on the last day of the residency - Saturday 31st - at the Second Renaissance Festival (31st July-2nd of August) in the shape of performance, installations, interactive experiences, ceremony and ritual that distills the week’s work for an audience. This will mark the threshold between our inner journey and the outward celebration of the festival.
+        Join us in exploring personal and collective shadow material through guided rituals, movement, elemental practices and artistic creation. Some rituals will be intimate and simple, others will be more collective and immersive. Throughout the week you will also have the opportunity to create your own rituals, creative interventions and /or celebrations to be witnessed and experienced by the others.
       </p>
       <div class="rounded-2xl overflow-hidden shadow-lg mb-8">
         <img src="/assets/img/art/residency-approach-intro.png" alt="Shadow work and ritual residency" class="w-full h-full object-cover">
       </div>
-      <h3 class="font-elsie text-2xl md:text-3xl mb-5">The residential holds two complementary movements:</h3>
+      <h3 class="font-elsie text-2xl md:text-3xl mb-5">The residential holds three complementary movements:</h3>
       <ol class="list-decimal pl-6 space-y-3">
-        <li><strong>Receiving</strong> - allowing unconscious intuitions and symbolic material to surface through dreams, artistic, and somatic practices.</li>
-        <li><strong>Transmuting</strong> - activating creative life force and embodied expression as a sacred way to encounter and integrate what lies beneath the surface.</li>
+        <li><strong>Receiving</strong> – allowing unconscious intuitions and symbolic material to surface and guide us via dreams, artistic and somatic practices</li>
+        <li><strong>Transmuting</strong> – activating creative life force and embodied expression as a sacred way to transform and integrate what lies beneath the surface</li>
+        <li><strong>Rejoicing</strong> - celebrating and enjoying our connection with life and with each other</li>
       </ol>
       <h3 class="font-elsie text-2xl md:text-3xl mt-10 mb-4">Workshops</h3>
-      <p>Workshops will explore the following — and more:</p>
+      <p>Workshops will explore the following and more:</p>
       <ul class="list-disc pl-6 space-y-3">
-        <li><strong>Grief as portal</strong>: honoring what has died, what is dying, and what must be let go for new life to emerge.</li>
-        <li><strong>Sound as presence and activation</strong>: using sound and song to tune into the field, release emotion, and call in energy.</li>
-        <li><strong>Movement and embodiment</strong>: awakening the body as canvas and vessel for animality and deep wisdom.</li>
-        <li><strong>Spoken word</strong>: poetry, rap, prayer, myth, and dramatic text as ritual access points.</li>
-        <li><strong>Land based ritual</strong>: tapping into ancient and ancestral memory in relationship with Earth.</li>
+        <li><strong>Grief as portal</strong>: Grief is woven into the residency as a gateway to love, acceptance, and transformation — a way of honoring what has died, what is dying, and what must be let go for new life to emerge.</li>
+        <li><strong>Sound as presence and activation</strong>: Sound and song as a way to connect, release emotion and call in energy</li>
+        <li><strong>Movement and embodiment</strong>: Awakening our body as a canvas and vessel for animality and deep wisdom</li>
+        <li><strong>Spoken word as an access</strong>: poetry, prayer, myth, dramatic text</li>
+        <li><strong>Land-based ritual</strong>: tapping into ancient and ancestral memories within us and in connection with the Earth</li>
       </ul>
       <div class="mt-8 text-center">
         <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
       </div>
-      <p>In the midst of shadow and death, something new wants to be born. This is the art of birthing an emerging dream. Together we are offering a place for the past, present and future to be witnessed, released and reclaimed. The intention is not to "resolve" the shadow, but to enter into a relationship with it—to let it teach, awaken, and reshape us.</p>
+      <p>In the midst of shadow and death, something new wants to be born. This is the art of birthing an emerging dream for our collective future. Together we are offering a place for the past, present and future to be witnessed, released and reclaimed.</p>
+      <p>The intention is not to “resolve” the shadow, but to enter into a relationship with it—to let it teach, awaken, and reshape us and give room for light to emerge.</p>
+      <p>Our work is informed by Carl Jung, Thich Nhat Hanh, Joanna Macy, Bill Plotkins, Francis Weller, Bayo Akomolafe, Ursula Le Guin, Joseph Beuys, Marina Abramović , Vest &amp; Page, Butoh, Ken Wilber, Bill Viola, Mary Overlie.</p>
     </div>
   </section>
 
@@ -108,7 +102,7 @@ layout: plain
         This residency is for anyone who feels the quiet pull toward ritual—whether or not they call themselves an artist or walk a spiritual path. It welcomes all committed hearts from: dancers, writers, dreamers, performers, painters, musicians, makers, visual artists and those simply curious about the deeper currents within themselves. It is for those who long to step into ritual space, to listen for the ceremonies that live inside them, to awaken the oracular body, to open an energetic field together, and to train the body to become a vessel of ritual in communion with others.
       </p>
       <p>
-        Note: This is not a therapeutic retreat, although the process can be deeply therapeutic. It’s an artistic and spiritual experiment in collective ritual creation. Each participant is responsible for their own physical and mental wellbeing at all times.
+        <em>Note: This is not a therapeutic retreat, although the process can be deeply therapeutic. It’s an artistic and spiritual experiment in collective ritual creation. Each participant is responsible for their own physical and mental wellbeing at all times.</em>
       </p>
       <hr class="border-gray-300">
     </div>
@@ -122,18 +116,19 @@ layout: plain
         <div class="p-6 space-y-3 text-base">
           <h3 class="font-elsie text-2xl">Sylvie 'Shiwei' Barbier</h3>
           <p class="leading-relaxed">
-            Sylvie is a French-Taiwanese visionary artist, curator, and co-founder of Life Itself. Her work focuses on transformational
-            art integrating Eastern and Western philosophies. Over two decades she has led rituals in galleries, retreat centers, public
-            spaces, churches, natural landscapes, and educational institutions.
+            Sylvie ‘Shiwei’ Barbier is a French-Taiwanese visionary artist and curator committed to create, share and support transformational art. Her work synthesizes Eastern and Western philosophies and aesthetics. Sylvie trained as a performance artist, designer, facilitator and in anthroposophy pedagogy and has lectured in leading fashion institutions such as Polimoda and IED.
           </p>
           <p class="leading-relaxed">
-            She is the author of
-            <a href="https://renaissance.metalabel.com/manifesto?variantId=1" target="_blank" rel="noopener" class="text-red-700 hover:underline">The Art of the Second Renaissance manifesto</a>
-            and editor of
-            <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=1&retryCount=2" target="_blank" rel="noopener" class="text-red-700 hover:underline">Second Renaissance Magazine</a>.
+            Over the last two decades Sylvie has developed unique methodologies for transformational art leading rituals in galleries, public spaces, retreats, churches, natural landscape, and educational institutions such as Hardvard.
           </p>
           <p class="leading-relaxed">
-            Sylvie is also a mother of two and committed to bridging ancestral Indigenous knowledge with contemporary and future-oriented perspectives.
+            Since 2015 Sylvie has co-founded of Life Itself, a leading organization in building a Second Renaissance cultural movement dedicated to practical actions for a radically wiser, weller world.
+          </p>
+          <p class="leading-relaxed">
+            She is the author of the Art of the Second Renaissance Manifesto and Editor of Second Renaissance Magazine.
+          </p>
+          <p class="leading-relaxed">
+            As a mother of two Sylvie is devoted to cultivating wisdom both personally and collectively. She bridges worlds between ancestral indigenous knowledge and futurist vision.
           </p>
         </div>
       </article>
@@ -142,16 +137,13 @@ layout: plain
         <div class="p-6 space-y-3 text-base">
           <h3 class="font-elsie text-2xl">Kay Michael</h3>
           <p class="leading-relaxed">
-            Kay is a London-based theatre-maker, creative producer, and ecological facilitator. Her work creates cultural experiences
-            for personal and collective transformation across theatres, galleries, festivals, streets, woodlands, and retreat centres.
+            Kay Michael: is a London-based theatre-maker, ecological facilitator and creative producer. She creates and guides cultural experiences in theatres, streets, derelict sites, woodlands, galleries, festivals, and retreat centres.
           </p>
           <p class="leading-relaxed">
-            She is a co-founder of <strong>Culture Declares Emergency</strong> and a facilitator of Joanna Macy's <em>Work That Reconnects</em>.
-            Kay co-produced and curated the first <strong>Council of All Beings</strong> for global delegates at COP26.
+            Trained at Drama Centre London, Kay has developed award-winning new writing, devised performances and directed premiere productions. Since 2014 her work has centred on cultural and community responses to the planetary crisis. As a co-founder of Culture Declares Emergency she has produced Cultural Climate Assemblies for leading arts organisations including the Southbank Centre, and led festivals featuring hundreds of environmental artists.
           </p>
           <p class="leading-relaxed">
-            Kay is also the <strong>Co-Founder and Executive Director of Letters to the Earth</strong>, an award-winning global creative
-            organisation fostering connection with nature through outdoor immersions, creative writing, and storytelling.
+            Kay is also the Co-Founder and Executive and Creative Director of Letters to the Earth, an award-winning organisation transforming humanity's relationship with nature and the Earth crisis through outdoor immersions, creative writing, and storytelling campaigns. A facilitator of Joanna Macy’s Work That Reconnects, Kay co-produced and curated the first Council of All Beings for global delegates at COP26.
           </p>
         </div>
       </article>
@@ -199,9 +191,35 @@ layout: plain
       </div>
       <div>
         <p class="font-semibold">Friday, 31 July</p>
-        <p>Ritual offering at Second Renaissance Festival.</p>
+        <p>Ritual offering.</p>
       </div>
     </div>
+    </div>
+  </section>
+  <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
+    <h2 class="font-elsie text-3xl md:text-4xl mb-6">Accommodation</h2>
+    <div class="max-w-2xl mx-auto space-y-6">
+      <div>
+        <p class="font-semibold">€84 – Free camping - only pay for food</p>
+        <p>Includes a camping spot (bring your own tent) and nourishing meals.</p>
+        <p>→ For those who feel most alive under the stars.</p>
+      </div>
+      <div>
+        <p class="font-semibold">€259 – Shared Sanctuary</p>
+        <p>Includes a cozy shared room and nourishing meals,</p>
+        <p>→ For those who enjoy community and a simple, restful space.</p>
+      </div>
+      <div>
+        <p class="font-semibold">€399 –  Silence</p>
+        <p>Includes a private room and nourishing meals.</p>
+        <p>→ For those who seek spaciousness, and deep rest.</p>
+      </div>
+      <div>
+        <p class="font-semibold">€859 – Solitude</p>
+        <p>Includes your own studio with private bathroom, kitchenette and nourishing meals</p>
+        <p>→ For those who seek quietness and privacy.</p>
+      </div>
+      <p>You can stay extra nights before or after. If you are interested to stay an extra night please get in touch.</p>
     </div>
   </section>
   <section class="text-center">
