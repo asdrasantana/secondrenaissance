@@ -10,7 +10,7 @@ layout: plain
     <div class="absolute inset-0 bg-black/45"></div>
   </div>
   <div class="relative z-10 max-w-5xl mx-auto">
-    <h1 class="font-elsie text-4xl md:text-7xl leading-tight mb-6">
+    <h1 class="text-4xl md:text-7xl leading-tight mb-6">
       Art of Ritual Residency:<br>
       <span class="italic text-3xl md:text-6xl">Shadow Work &amp; Creative Rebirth</span>
     </h1>
@@ -21,7 +21,7 @@ layout: plain
 
 <main class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-20 text-lg">
   <section class="max-w-2xl mx-auto">
-    <h2 class="font-elsie text-3xl md:text-5xl leading-tight text-center mb-10">Creative Rebirth Through Shadow Work</h2>
+    <h2 class="text-3xl md:text-5xl leading-tight text-center mb-10">Creative Rebirth Through Shadow Work</h2>
     <div class="rounded-2xl overflow-hidden shadow-xl mb-8">
       <img src="/assets/img/art/art-of-ritual.jpg" alt="Art of Ritual Residency" class="w-full h-full object-cover">
     </div>
@@ -45,7 +45,7 @@ layout: plain
   </section>
 
   <section class="bg-[#f9f6f3] rounded-3xl p-8 md:p-12">
-    <h2 class="font-elsie text-3xl md:text-5xl mb-6 text-center">Approach</h2>
+    <h2 class="text-3xl md:text-5xl mb-6 text-center">Approach</h2>
     <div class="rounded-2xl overflow-hidden shadow-lg mb-8 max-w-2xl mx-auto">
       <img src="/assets/img/art/residency-approach.jpg" alt="Approach at Art of Ritual Residency" class="w-full h-full object-cover">
     </div>
@@ -62,16 +62,16 @@ layout: plain
       <p class="mb-6">
         Join us in exploring personal and collective shadow material through guided rituals, movement, elemental practices and artistic creation. Some rituals will be intimate and simple, others will be more collective and immersive. Throughout the week you will also have the opportunity to create your own rituals, creative interventions and /or celebrations to be witnessed and experienced by the others.
       </p>
-      <div class="rounded-2xl overflow-hidden shadow-lg mb-8">
+      <div class="rounded-2xl overflow-hidden shadow-lg mb-8 md:max-w-[50%] md:mx-auto">
         <img src="/assets/img/art/residency-approach-intro.png" alt="Shadow work and ritual residency" class="w-full h-full object-cover">
       </div>
-      <h3 class="font-elsie text-2xl md:text-3xl mb-5">The residential holds three complementary movements:</h3>
+      <h3 class="text-2xl md:text-3xl mb-5">The residential holds three complementary movements:</h3>
       <ol class="list-decimal pl-6 space-y-3">
         <li><strong>Receiving</strong> – allowing unconscious intuitions and symbolic material to surface and guide us via dreams, artistic and somatic practices</li>
         <li><strong>Transmuting</strong> – activating creative life force and embodied expression as a sacred way to transform and integrate what lies beneath the surface</li>
         <li><strong>Rejoicing</strong> - celebrating and enjoying our connection with life and with each other</li>
       </ol>
-      <h3 class="font-elsie text-2xl md:text-3xl mt-10 mb-4">Workshops</h3>
+      <h3 class="text-2xl md:text-3xl mt-10 mb-4">Workshops</h3>
       <p>Workshops will explore the following and more:</p>
       <ul class="list-disc pl-6 space-y-3">
         <li><strong>Grief as portal</strong>: Grief is woven into the residency as a gateway to love, acceptance, and transformation — a way of honoring what has died, what is dying, and what must be let go for new life to emerge.</li>
@@ -80,23 +80,17 @@ layout: plain
         <li><strong>Spoken word as an access</strong>: poetry, prayer, myth, dramatic text</li>
         <li><strong>Land-based ritual</strong>: tapping into ancient and ancestral memories within us and in connection with the Earth</li>
       </ul>
-      <p>In the midst of shadow and death, something new wants to be born. This is the art of birthing an emerging dream for our collective future. Together we are offering a place for the past, present and future to be witnessed, released and reclaimed.</p>
-      <p>The intention is not to “resolve” the shadow, but to enter into a relationship with it—to let it teach, awaken, and reshape us and give room for light to emerge.</p>
-      <p>Our work is informed by Carl Jung, Thich Nhat Hanh, Joanna Macy, Bill Plotkins, Francis Weller, Bayo Akomolafe, Ursula Le Guin, Joseph Beuys, Marina Abramović , Vest &amp; Page, Butoh, Ken Wilber, Bill Viola, Mary Overlie.</p>
+      <p class="mb-6">In the midst of shadow and death, something new wants to be born. This is the art of birthing an emerging dream for our collective future. Together we are offering a place for the past, present and future to be witnessed, released and reclaimed.</p>
+      <p class="mb-6">The intention is not to “resolve” the shadow, but to enter into a relationship with it—to let it teach, awaken, and reshape us and give room for light to emerge.</p>
+      <p class="mb-6">Our work is informed by Carl Jung, Thich Nhat Hanh, Joanna Macy, Bill Plotkins, Francis Weller, Bayo Akomolafe, Ursula Le Guin, Joseph Beuys, Marina Abramović , Vest &amp; Page, Butoh, Ken Wilber, Bill Viola, Mary Overlie.</p>
       <div class="mt-8 text-center">
         <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
       </div>
     </div>
   </section>
 
-  <section class="max-w-2xl mx-auto">
-    <div class="rounded-2xl overflow-hidden shadow-lg">
-      <img src="/assets/img/art/residency-approach-intro.png" alt="Shadow work and ritual residency" class="w-full h-full object-cover">
-    </div>
-  </section>
-
   <section class="max-w-4xl mx-auto">
-    <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Who is it for?</h2>
+    <h2 class="text-3xl md:text-5xl mb-10 text-center">Who is it for?</h2>
     <div class="space-y-6 text-gray-800 leading-relaxed max-w-2xl mx-auto">
       <p>
         This residency is for anyone who feels the quiet pull toward ritual—whether or not they call themselves an artist or walk a spiritual path. It welcomes all committed hearts from: dancers, writers, dreamers, performers, painters, musicians, makers, visual artists and those simply curious about the deeper currents within themselves. It is for those who long to step into ritual space, to listen for the ceremonies that live inside them, to awaken the oracular body, to open an energetic field together, and to train the body to become a vessel of ritual in communion with others.
@@ -108,12 +102,12 @@ layout: plain
   </section>
 
   <section class="max-w-4xl mx-auto">
-    <h2 class="font-elsie text-3xl md:text-5xl mb-10 text-center">Facilitators</h2>
+    <h2 class="text-3xl md:text-5xl mb-10 text-center">Facilitators</h2>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
       <article class="bg-white rounded-2xl shadow-lg overflow-hidden h-full">
         <img src="/assets/img/art/residency-sylvie-bio.jpg" alt="Sylvie Shiwei Barbier" class="w-full h-72 md:h-80 object-cover">
         <div class="p-6 space-y-3 text-base">
-          <h3 class="font-elsie text-2xl">Sylvie 'Shiwei' Barbier</h3>
+          <h3 class="text-2xl">Sylvie 'Shiwei' Barbier</h3>
           <p class="leading-relaxed">
             Sylvie ‘Shiwei’ Barbier is a French-Taiwanese visionary artist and curator committed to create, share and support transformational art. Her work synthesizes Eastern and Western philosophies and aesthetics. Sylvie trained as a performance artist, designer, facilitator and in anthroposophy pedagogy and has lectured in leading fashion institutions such as Polimoda and IED.
           </p>
@@ -134,7 +128,7 @@ layout: plain
       <article class="bg-white rounded-2xl shadow-lg overflow-hidden h-full">
         <img src="/assets/img/art/residency-kay-bio.jpeg" alt="Kay Michael" class="w-full h-72 md:h-80 object-cover">
         <div class="p-6 space-y-3 text-base">
-          <h3 class="font-elsie text-2xl">Kay Michael</h3>
+          <h3 class="text-2xl">Kay Michael</h3>
           <p class="leading-relaxed">
             Kay Michael: is a London-based theatre-maker, ecological facilitator and creative producer. She creates and guides cultural experiences in theatres, streets, derelict sites, woodlands, galleries, festivals, and retreat centres.
           </p>
@@ -150,8 +144,8 @@ layout: plain
   </section>
 
   <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
-    <h2 class="font-elsie text-3xl md:text-4xl mb-6">Pricing</h2>
     <div class="max-w-2xl mx-auto">
+      <h2 class="text-3xl md:text-4xl mb-6">Pricing</h2>
       <p class="mb-4">The residency will be intimate, with 15 residents.</p>
       <p class="mb-4">The full 7-day workshop (24th-31st July) costs <strong>EUR680</strong>.</p>
       <p class="mb-4">We also offer <strong>three discounted spots at EUR360</strong> for those for whom cost is a barrier.</p>
@@ -162,7 +156,7 @@ layout: plain
 
   <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
     <div class="max-w-2xl mx-auto">
-      <h2 class="font-elsie text-3xl md:text-4xl mb-6">Schedule</h2>
+      <h2 class="text-3xl md:text-4xl mb-6">Schedule</h2>
       <p class="text-base text-gray-600 mb-6">Note: schedule is still under revision and subject to change.</p>
       <div class="space-y-5">
         <div>
@@ -194,7 +188,7 @@ layout: plain
   </section>
   <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
     <div class="max-w-2xl mx-auto space-y-6">
-      <h2 class="font-elsie text-3xl md:text-4xl mb-6">Accommodation</h2>
+      <h2 class="text-3xl md:text-4xl mb-6">Accommodation</h2>
       <div>
         <p class="font-semibold">€84 – Free camping - only pay for food</p>
         <p>Includes a camping spot (bring your own tent) and nourishing meals.</p>
