@@ -8,8 +8,6 @@ Second Renaissance is an initiative of [Life Itself](https://lifeitself.org).
 
 * Rufus Pollock, co-founder Life Itself 
 * Sylvie Barbier, co-founder Life Itself
-* Danielle Johnson, Limicon
-* James Baker, Intentional Society
 * Lauren Wigmore, Life Itself Comms
 * Jonah Wilberg, Life Itself Research
 * Naeema Zarif, Life Itself
@@ -18,7 +16,9 @@ Second Renaissance is an initiative of [Life Itself](https://lifeitself.org).
 
 - Alexander Beiner, co-founder of Rebel Wisdom
 - Daniel Thorson, Emerge Podcast
+- Danielle Johnson, Limicon
 - Isabela Granic, McMaster University and Liminal Learning
+- James Baker, Intentional Society
 - Jamie Bristow, Mindfulness Initiative
 - Joe Lightfoot, Collective Blooming
 - Naryan Wong, Cultivating Leadership and Limicon
