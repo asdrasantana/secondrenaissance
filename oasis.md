@@ -12,15 +12,6 @@ The Oasis launched April 2025 and meets every Tuesday for 90 minutes starting at
 
 An Oasis Tent is where *community* meets *project* for catalyzing energy. Tents are self-organized and autonomously run by their leaders, and set a cadence between weekly and monthly for how often they are active in the space.
 
-## Oasis Community @Limicon
+## Updates coming soon
 
-[Limicon Website](https://www.limicon.org/)
-
-- **March 17, 2026** — [Oasis Community at Limicon](https://luma.com/5fghejhy)
-- **March 24, 2026** — [Oasis Community at Limicon](https://luma.com/m5husrfe)
-
-*Currently active at the Oasis:*
-
-This **March**, our relational building-being practices continue as the Oasis Calls will be hosting weekly events at the ongoing Limicon.
-
-Would you (and your 2R-compatible project/org/initiative) be interested in joining the campfire circle as a featured guest? Seeking a few **volunteers** for the next few weeks of experimentation: [volunteer signup form.](https://forms.gle/n7r4H3ArGMz6gdNF6)
+The Oasis is on pause and a new community events will be coming soon.
