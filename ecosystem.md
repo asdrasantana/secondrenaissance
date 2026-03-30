@@ -20,7 +20,6 @@ layout: plain
       <a href="#graphic" class="btn btn-blue">What does it look like?</a>
       <a href="#projects" class="btn btn-blue">Who is part of it?</a>
       <a href="#resources" class="btn btn-blue">Learn more</a>
-      <a href="#contribute" class="btn btn-blue">Get involved</a>
     </div>
   </div>
 </div>
