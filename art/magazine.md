@@ -86,7 +86,7 @@ layout: plain
       <h2 class="font-elsie text-4xl md:text-5xl font-black text-gray-900 leading-tight">ISSUE #2: MYTHOS</h2>
       <div class="h-1.5 w-32 bg-red-sr mx-auto mb-8"></div>
       <p class="text-2xl text-gray-800 leading-relaxed font-serif">
-        Submissions are now closed.
+        Submissions are now closed, and the issue will be out soon!
       </p>
       <!--<div class="bg-white p-4 rounded-2xl shadow-sm border border-gray-100 inline-block">
         <p class="text-red-sr font-bold tracking-widest uppercase text-sm">DEADLINE EXTENSION TO 7th JULY 2025</p>
