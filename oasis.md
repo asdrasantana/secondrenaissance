@@ -14,4 +14,4 @@ An Oasis Tent is where *community* meets *project* for catalyzing energy. Tents 
 
 ## Updates coming soon
 
-The Oasis is on pause and a new community events will be coming soon.
+The Oasis is on pause and new community events will be announced soon.
