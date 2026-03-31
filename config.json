@@ -45,6 +45,11 @@
       }
     ]
   },
+  "showSidebar": true,
+  "sidebar": {
+    "paths": ["/glossary"],
+    "orderBy": "title"
+  },
   "theme": "lessflowery",
   "redirects": [
     {
