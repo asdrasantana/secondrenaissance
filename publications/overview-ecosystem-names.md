@@ -96,6 +96,7 @@ In a similar vein, Zak Stein characterises the metacrisis as a "generalised educ
 
 #### Further resources
 
+- [Metacrisis.info](https://metacrisis.info/)
 - [Metacrisis.org](https://metacrisis.org/META-CRISIS/00.+%F0%9F%91%8B+About/Start+Here)
 - [An Introduction to the Metacrisis - Daniel Schmachtenberger - Stockholm Impact Week 2023](https://www.youtube.com/watch?v=4kBoLVvoqVY)
 - [Tasting the Pickle: Ten flavours of meta-crisis and the appetite for a new civilisation - by Jonathan Rowson](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/)
