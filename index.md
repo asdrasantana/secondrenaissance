@@ -28,6 +28,7 @@ layout: plain
     </div>
     <div class="mt-8 flex items-center justify-center gap-x-4">
       <a href="#vision" class="btn-primary">Read more</a>
+      <a href="https://chat.secondrenaissance.net" class="btn-primary">Ask AI</a>
       <a href="/oasis" class="btn-primary">Participate</a>
     </div>
   </div>
@@ -456,8 +457,27 @@ layout: plain
     </div>
     <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
       <dl
-        class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-12 lg:max-w-none lg:grid-cols-3"
+        class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-12 lg:max-w-none lg:grid-cols-4"
       >
+        <div class="flex flex-col">
+          <dt
+            class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl"
+          >
+            Ask AI
+          </dt>
+          <dd
+            class="mt-4 flex flex-auto flex-col text-lg leading-7 text-gray-600"
+          >
+            <p class="flex-auto">
+              Chat with our AI guide to explore second renaissance ideas, concepts and the emerging ecosystem.
+            </p>
+            <p class="mt-6">
+              <a href="https://chat.secondrenaissance.net" class="btn-primary">
+                Start a conversation
+              </a>
+            </p>
+          </dd>
+        </div>
         <div class="flex flex-col">
           <dt
             class="text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl"
