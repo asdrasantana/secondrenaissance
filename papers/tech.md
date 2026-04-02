@@ -6,8 +6,10 @@ image: /assets/ITWT10.jpg
 
 This essay explores our late modern relationship with technology, and asks what kind of inner shift might help a future society to find a wiser path.
 
-<div class="my-12 not-prose text-center">
+<div class="my-12 not-prose flex justify-center gap-4 flex-wrap">
 <a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link" class="btn-primary">Read Full Paper (PDF)</a>
+<a href="/papers/in-tech-we-trust-presentation-2026-03-18.html" class="btn-primary">View Presentation</a>
+<a href="https://www.youtube.com/watch?v=NgIjGn3fWDU" class="btn-primary">Watch Video</a>
 </div>
 
 Modern humanity doesn’t simply make use of technology; we perceive the world in its image, and invest it with sacred authority to guide our choices. Now we’re approaching a precipice, with tech galloping ahead of our capacity to use it wisely. A new essay explores the foundations of these dysfunctional tendencies within the modern cultural paradigm, and considers the shifts in worldview and inner capacity that might support a future society to choose more wisely the forces we unleash.
@@ -15,6 +17,16 @@ Modern humanity doesn’t simply make use of technology; we perceive the world i
 This is the fifth paper in the [Second Renaissance series](https://secondrenaissance.net/paper); authored by Rufus Pollock, Rosie Bell and Sylvie Barbier ([Life Itself Sensemaking Studio](https://studio.lifeitself.org)). 
 
 <a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link"><img src="/assets/ITWT10.jpg" alt="In tech we trust cover" width="70%" /></a>
+
+## Video
+
+![[https://www.youtube.com/watch?v=NgIjGn3fWDU]]
+
+## Presentation
+
+<div class="not-prose my-8">
+<iframe src="/papers/in-tech-we-trust-presentation-2026-03-18.html" width="100%" height="600" style="border: 1px solid #e5e7eb; border-radius: 0.5rem;"></iframe>
+</div>
 
 ## Summary
 
