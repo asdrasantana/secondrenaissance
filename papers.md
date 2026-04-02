@@ -15,33 +15,95 @@ layout: plain
     </p>
   </div>
 </header>
-<!-- Vision Section -->
+
+<!-- Intro -->
 <section class="py-16 px-4 max-w-4xl mx-auto">
-  <h2 class="font-elsie text-3xl md:text-5xl mb-6 text-center">Vision of Second Renaissance</h2>
   <p class="text-xl text-gray-600 text-center">
-    Read our whitepapers setting out the core thesis and theory of change of a second renaissance in detail. What it is, why it is needed and how it can come about.
+    The Second Renaissance paper series explores the foundations of our global crisis and the cultural paradigm shift needed for a wiser, regenerative future. Authored by the <a href="https://studio.lifeitself.org" class="underline">Life Itself Sensemaking Studio</a>.
   </p>
 </section>
-<!-- Papers Section -->
-<section class="py-12 px-4 max-w-5xl mx-auto">
-  <div class="grid md:grid-cols-2 gap-12">
-    <!-- Paper 1 -->
+
+<!-- Papers List -->
+<section class="pb-20 px-4 max-w-5xl mx-auto space-y-16">
+
+  <!-- Paper 1 -->
+  <div class="flex flex-col md:flex-row gap-8 items-start">
+    <a href="/assets/second-renaissance-whitepaper.pdf" target="_blank" class="shrink-0 md:w-64">
+      <img src="/assets/img/paper/whitepaper-1-cover.webp" alt="Paper 1 Cover" class="w-full rounded-lg shadow-lg">
+    </a>
     <div class="flex flex-col">
-      <a href="/assets/second-renaissance-whitepaper.pdf" target="_blank">
-        <img src="/assets/img/paper/whitepaper-1-cover.webp" alt="Whitepaper 1 Cover" class="w-full rounded-lg shadow-lg mb-6">
-      </a>
-      <h3 class="text-2xl md:text-3xl font-bold mb-4">Paper 1: What & Why of a Second Renaissance</h3>
-      <p class="text-gray-600 mb-6">What is a second renaissance and why is it relevant in this moment of escalating crisis.</p>
-      <a href="/assets/second-renaissance-whitepaper.pdf" target="_blank" class="btn-primary self-start">Download Whitepaper No. 1</a>
-    </div>
-    <!-- Paper 2 -->
-    <div class="flex flex-col">
-      <a href="/assets/second-renaissance-how-whitepaper-2.pdf" target="_blank">
-        <img src="/assets/img/paper/whitepaper-2-cover.png" alt="Whitepaper 2 Cover" class="w-full rounded-lg shadow-lg mb-6">
-      </a>
-      <h3 class="text-2xl md:text-3xl font-bold mb-4">Paper 2: How of a Second Renaissance</h3>
-      <p class="text-gray-600 mb-6">How paradigmatic change and a second renaissance can come about.</p>
-      <a href="/assets/second-renaissance-how-whitepaper-2.pdf" target="_blank" class="btn-primary self-start">Download Whitepaper No. 2</a>
+      <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide mb-1">Paper 1</p>
+      <h3 class="text-2xl md:text-3xl font-bold mb-2">What & Why of a Second Renaissance</h3>
+      <p class="text-sm text-gray-500 mb-3">Sylvie Barbier, Rosie Bell & Rufus Pollock · 2024</p>
+      <p class="text-gray-600 mb-6">What is a second renaissance and why is it relevant in this moment of escalating crisis? This foundational paper introduces the idea of a cultural paradigm shift — a "Second Renaissance" — arguing that our interconnected global challenges are rooted in the views and values of modernity, and that a fundamental shift in worldview is both possible and necessary.</p>
+      <a href="/assets/second-renaissance-whitepaper.pdf" target="_blank" class="btn-primary self-start">Read Paper (PDF)</a>
     </div>
   </div>
+
+  <!-- Paper 2 -->
+  <div class="flex flex-col md:flex-row gap-8 items-start">
+    <a href="/assets/second-renaissance-how-whitepaper-2.pdf" target="_blank" class="shrink-0 md:w-64">
+      <img src="/assets/img/paper/whitepaper-2-cover.png" alt="Paper 2 Cover" class="w-full rounded-lg shadow-lg">
+    </a>
+    <div class="flex flex-col">
+      <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide mb-1">Paper 2</p>
+      <h3 class="text-2xl md:text-3xl font-bold mb-2">How of a Second Renaissance</h3>
+      <p class="text-sm text-gray-500 mb-3">Sylvie Barbier, Rosie Bell & Rufus Pollock · 2024</p>
+      <p class="text-gray-600 mb-6">How can paradigmatic cultural change and a second renaissance come about? This paper examines the dynamics of paradigm shifts — how they emerge, what drives them, and what conditions support deep cultural transformation at scale.</p>
+      <a href="/assets/second-renaissance-how-whitepaper-2.pdf" target="_blank" class="btn-primary self-start">Read Paper (PDF)</a>
+    </div>
+  </div>
+
+  <!-- Paper 3 -->
+  <div class="flex flex-col md:flex-row gap-8 items-start">
+    <a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" target="_blank" class="shrink-0 md:w-64">
+      <img src="https://metacrisis.info/assets/from-polycrisis-to-metacrisis-cover.jpg" alt="Paper 3 Cover" class="w-full rounded-lg shadow-lg">
+    </a>
+    <div class="flex flex-col">
+      <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide mb-1">Paper 3</p>
+      <h3 class="text-2xl md:text-3xl font-bold mb-2">From Polycrisis to Metacrisis</h3>
+      <p class="text-sm text-gray-500 mb-3">Rosie Bell & Rufus Pollock · 2024</p>
+      <p class="text-gray-600 mb-6">Our world shows signs of multi-systemic breakdown. "Polycrisis" refers to an entanglement of interconnected crises, while "metacrisis" denotes the foundational conditions generating them. This paper investigates how the collective worldviews of modernity underlie systemic failures — and why addressing root causes, not just symptoms, is essential.</p>
+      <div class="flex flex-wrap gap-3">
+        <a href="https://drive.google.com/file/d/1aVI5vJcHmSidj_jJBfE4tx5g1Q1-cXLh/view" target="_blank" class="btn-primary">Read Paper (PDF)</a>
+        <a href="https://metacrisis.info/paper" target="_blank" class="inline-flex items-center gap-2 border border-gray-300 text-gray-700 px-5 py-2 rounded-full text-sm uppercase tracking-wide hover:bg-gray-100 no-underline">Paper Page ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Paper 4 -->
+  <div class="flex flex-col md:flex-row gap-8 items-start">
+    <a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" target="_blank" class="shrink-0 md:w-64">
+      <img src="https://developmentalspaces.org/assets/paper/ds-paper-cover-2025.jpg" alt="Paper 4 Cover" class="w-full rounded-lg shadow-lg">
+    </a>
+    <div class="flex flex-col">
+      <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide mb-1">Paper 4</p>
+      <h3 class="text-2xl md:text-3xl font-bold mb-2">Developmental Spaces: Cultural Incubators for a Time of Transformation</h3>
+      <p class="text-sm text-gray-500 mb-3">Rosie Bell, Boaz Feldman & Rufus Pollock · 2025</p>
+      <p class="text-gray-600 mb-6">Addressing interconnected global crises requires shifts at the level of collective consciousness and worldview, not merely technical solutions. This paper proposes a model for dedicated spaces where communities engage in sustained, multi-domain inner development — spiritual, cognitive, psychological and ethical — in the service of cultural transformation.</p>
+      <div class="flex flex-wrap gap-3">
+        <a href="https://drive.google.com/file/d/1C7wBCN_0Zphn8jUKD99LlNv9is97yi8f/view?usp=share_link" target="_blank" class="btn-primary">Read Paper (PDF)</a>
+        <a href="https://developmentalspaces.org/paper" target="_blank" class="inline-flex items-center gap-2 border border-gray-300 text-gray-700 px-5 py-2 rounded-full text-sm uppercase tracking-wide hover:bg-gray-100 no-underline">Paper Page ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Paper 5 -->
+  <div class="flex flex-col md:flex-row gap-8 items-start">
+    <a href="/papers/tech" class="shrink-0 md:w-64">
+      <img src="/assets/ITWT10.jpg" alt="Paper 5 Cover" class="w-full rounded-lg shadow-lg">
+    </a>
+    <div class="flex flex-col">
+      <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide mb-1">Paper 5</p>
+      <h3 class="text-2xl md:text-3xl font-bold mb-2">In Tech We Trust</h3>
+      <p class="text-lg text-gray-500 italic mb-1">The god-like authority of technology in the modern age — and what it means to set a wiser course</p>
+      <p class="text-sm text-gray-500 mb-3">Rufus Pollock, Rosie Bell & Sylvie Barbier · 2025</p>
+      <p class="text-gray-600 mb-6">Modern humanity doesn't simply use technology; we perceive the world in its image, and invest it with sacred authority to guide our choices. This essay explores the foundations of these dysfunctional tendencies within the modern cultural paradigm, and considers the shifts in worldview and inner capacity that might support a future society to choose more wisely the forces we unleash.</p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/papers/tech" class="btn-primary">Read More</a>
+        <a href="https://drive.google.com/file/d/1BnlG8-AgVwSQ1vywsUzhyLzOLksRQfhb/view?usp=share_link" target="_blank" class="inline-flex items-center gap-2 border border-gray-300 text-gray-700 px-5 py-2 rounded-full text-sm uppercase tracking-wide hover:bg-gray-100 no-underline">Full Paper (PDF)</a>
+      </div>
+    </div>
+  </div>
+
 </section>
