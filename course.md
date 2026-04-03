@@ -1,88 +1,131 @@
 ---
 title: Exploring a Second Renaissance Together
-description: Join our short online course. A guided journey to deepen your understanding of this moment of crisis and renewal.
+description: A 4-week online course to understand the roots of converging crises — and what's emerging in response.
 ---
 
-Join our short online course to explore together this time between worlds and the growing civilizational crisis and renewal -- a **[Metacrisis]** and **[Second Renaissance]**.
+## Something is deeply off. You can feel it.
 
-Led by **Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier** this series is an invitation to those already curious about the cracks in the modern worldview --- and those feeling the pull towards a more connected, meaningful, and regenerative future.
+Climate breakdown, political polarisation, the meaning crisis, AI anxiety — these aren't separate problems. They share deep roots in the assumptions and values of our civilisation.
 
-- **📆 When** See event page for upcoming dates (below)
-- **🕰️ Format:** 4 sessions of 1h30min over 4 weeks (recordings available)
-- **🌐 Where**: Online, interactive sessions
-- **💶 Price:** €39 / $39 (scholarships available on request)
+But what *are* those roots? And is there a way forward?
 
-> "I left this feeling inspired. It was amazing getting to talk with others and hearing stories straight from the heart. I feel more connected to myself and to others and a sense of being part of a collective movement." &mdash; Maria
+**Exploring a Second Renaissance Together** is a 4-week guided journey to really get the [Metacrisis] — the interconnected root causes of today's converging crises — and discover the [Second Renaissance]: the renewal that's already emerging in response.
 
-<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
+Led by **Life Itself co-founders Rufus Pollock and Sylvie Barbier**, this course gives you a coherent framework, a community of fellow explorers, and a felt sense that you're not alone — and there's something you can do.
 
-**The course focuses on supporting your own exploration and discovery using small group discussion and sharing amongst the wider group.** Along with introductions to the key concepts each session includes **dialogue, small group inquiry, and shared reflection**.
+- **When:** See event page for upcoming dates (below)
+- **Format:** 4 sessions of 1h30 over 4 weeks. Pre-recorded materials + live dialogue. Recordings available.
+- **Where:** Online, interactive
+- **Price:** €39 / $39 (scholarships available on request)
+- **Group size:** Small, to allow real conversation
 
-This format makes it suitable whether you're a complete newcomer to the second renaissance or already have deep knowledge of the area. This will be a space for collective making sense of what's happening, what's needed, and what's possible. It is an opportunity to:
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ">Register Now</a>
 
-💬 Engage in co-sensemaking discussions  
-🌊 Gain deep insights into global crises  
-🌏 Reflect on emerging worldviews and values  
-🦋 Connect with a community of like-minded individuals  
-💪 Develop practical strategies for transformation  
+---
 
-![](/assets/img/course/course-birds.jpg)
+### Is this for you?
 
-### What We'll Explore
+This course is for you if:
 
-**Week 1 Symptoms: (Meta)crisis Awareness**: How did we come to see the cracks in the old world? What experiences awakened your awareness? We'll share our own paths and map the resonances between us.
+- You sense something is deeply wrong with the direction of our civilisation — but struggle to articulate *what*
+- You've been involved in climate, social justice, mindfulness, EA, or systems thinking — but feel like your space is only seeing part of the picture
+- You want a framework that connects the dots across crises, not just another single-issue analysis
+- You're looking for others who see what you see — and want to figure out what to do about it
 
-**Week 2 Diagnosis: Exploring the Roots of the (Meta)crisis**: What are the deep factors driving the crises we face? How can this understanding help us orient ourselves?
+No prior knowledge needed. Whether you're new to these ideas or already deep in the space, the dialogue format means you'll get value at your level.
 
-**Week 3 Hope: Cultural Evolution and Regeneration**: Views and values can change. The deep stories that shape civilization have evolved throughout history. New paradigms can emerge transcending old ideas and offering responses to the problems and limitations of the old world.
+---
 
-**Week 4 Paths: Seeds of a Second Renaissance**: What are the paths to a second renaissance? Where are the seeds of this new paradigm already growing? What are the "pockets of emergence" we can cultivate? What greenhouses do we need?
+### What you'll come away with
 
-**Week 4 pt 2: Action & Integration:**: How do we carry these insights forward? What does it mean to live and lead from this new paradigm in practice?
+- **Clarity:** A coherent framework (the "four noble beliefs of a Second Renaissance") for understanding *why* so many things are breaking down at once
+- **Depth:** Not just the symptoms — the deep cultural and paradigmatic roots of the metacrisis
+- **Hope:** Evidence that cultural paradigms have shifted before, and that seeds of renewal are already growing
+- **Connection:** A felt sense of community with others grappling with the same questions
+- **Agency:** Practical orientation for what you can actually do
 
-Personally you will get to look at:
+---
 
-- **Awareness:** Exploring our paths to the second renaissance. How did you come to be interested in this? If and when did you start noticing “cracks” in the foundations? What are the resonances amongst us?
-- **Renaissance:** Exploring what we see can arise? What kind of views and values do you think are needed going forward? What kind of changes in technology and institutions?
-- **Seeds:** What are the seeds of the second renaissance? Where should we plant and cultivate them? What kinds of greenhouses? What kinds of pockets of emergence are there?
+### The journey: four weeks
 
-<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
+**Week 1 — Symptoms: What's breaking down?**
+How did you come to see the cracks? What experiences awakened your awareness? We share our paths and map the resonances between us.
 
-### Format
+**Week 2 — Roots: Why is this happening?**
+What are the deep factors driving converging crises? How does understanding root causes — in the cultural paradigm of modernity itself — change how we orient?
 
-**The course focuses on supporting your own exploration and discovery using small group discussion and sharing amongst the wider group.**
+**Week 3 — Hope: Can civilisations actually change?**
+Views and values have transformed before. We explore how cultural paradigms evolve, and why a new one can emerge that transcends the limitations of the old.
 
-This format makes it suitable whether you’re a complete newcomer to the second renaissance or already have deep knowledge of the area.
+**Week 4 — Seeds: What's already emerging?**
+Where are the seeds of a Second Renaissance already growing? What are the "pockets of emergence" we can cultivate? And how do we carry these insights into our lives and work?
 
-Using dialog and inquiry in small groups with sharing back with the group as a whole. There will be brief introductions to key features of the second renaissance to frame and prompt discussion.
+---
 
-### Why Join?
+### What past participants say
 
-- **Participatory Exploration:** Share perspectives in a co-created, dialogic space
-- **Deep Contextual Framing:** Understand the Second Renaissance in historical and cultural context
-- **Integrative Learning:** Connect personal growth with global transformation
-- **Community & Belonging:** Meet others committed to a saner, wiser future
-- **Tools & Inspiration:** Leave with practical insights for integrating these ideas into your life and work
+> "This course gives a clear and insightful introduction to the foundations of the Second Renaissance work, while inviting participants to reflect from their own viewpoints and experiences. I'm leaving with more clarity, a useful vocabulary, insightful metaphors, and many more questions to pursue."
+> — **Yasmine**
 
-### Who's Facilitating?
+> "I deeply appreciated the course's embodied approach to navigating pathways toward a paradigm shift. Articulating the metacrisis in an accessible way is no small feat — this course succeeds brilliantly, grounding complex ideas in lived experience and deep insight. I wholeheartedly recommend it to emergent communities and networks seeking to catalyze their own transformative journeys."
+> — **Naeema**
 
-**Rufus Pollock** is a co-founder of Life Itself, researcher, technologist, and social entrepreneur. A former Cambridge academic, Ashoka and Shuttleworth Fellow, and long-time Zen practitioner, he is one of the lead authors of the Second Renaissance whitepaper.
+> "A wonderful connection space which inspires to keep seeking and building towards the more beautiful world our hearts know is possible."
+> — **Tallon**
 
-**Sylvie Barbier** is a co-founder of Life Itself and an internationally exhibited performance artist. With French and Taiwanese heritage, her work spans three continents, and she has taught fashion and branding at Polimoda in Florence.
+> "I left feeling inspired. It was amazing getting to talk with others and hearing stories straight from the heart. I feel more connected to myself and to others, and a sense of being part of a collective movement."
+> — **Maria**
 
-### Practical Info
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ">Register Now</a>
 
-- Sessions are live but recordings will be available if you miss one
-- Speaking is always welcome, never required 😉
-- No prior knowledge is necessary --- just curiosity and openness
-- Email enquiries to hello@lifeitself.org
+---
+
+### How the course works
+
+Each week combines **pre-recorded materials** (videos and readings, ~30-45 min) that you engage with in your own time, and a **live dialogue session** (1h30) with the whole group.
+
+The live sessions focus on **your own exploration and discovery** — through dialogue, small group inquiry, and shared reflection. There are brief introductions to key concepts, but the real work happens in conversation.
+
+This format means the course is valuable whether you're a complete newcomer or already deep in the space. And if you miss a live session, recordings are available.
+
+---
+
+### Who's facilitating
+
+**Rufus Pollock** has spent over a decade researching why civilisations go through paradigm shifts — and what that means for this moment. Co-founder of Life Itself, former Cambridge academic, Ashoka and Shuttleworth Fellow, and long-time Zen practitioner, he is one of the lead authors of the Second Renaissance whitepaper.
+
+**Sylvie Barbier** is a co-founder of Life Itself and an internationally exhibited performance artist. With French and Taiwanese heritage, her work spans three continents. She brings an embodied, experiential dimension to the exploration — grounding ideas in lived experience and creative expression.
+
+---
+
+### Common questions
+
+**Do I need to know about the metacrisis already?**
+No. The course assumes no prior knowledge — just curiosity and openness. If you already know the space, the dialogue format means you'll engage at greater depth.
+
+**What if I can't make all the live sessions?**
+Recordings are available. The pre-recorded materials also stand alone as valuable content. That said, the live dialogue is where the deepest learning happens, so attend what you can.
+
+**Is this academic or experiential?**
+Both. There's a clear intellectual framework, but the course is built around dialogue and reflection, not lectures. You'll think *and* feel.
+
+**What's the time commitment?**
+About 2 hours per week: ~30-45 min of pre-recorded materials plus 1h30 live session.
+
+**Speaking is always welcome, never required.** You can participate fully by listening.
+
+---
+
+### Go deeper
 
 Explore the vision behind the Second Renaissance:
 
-- 🌐 [secondrenaissance.net](http://secondrenaissance.net)
-- 📄 [Download the whitepaper](https://secondrenaissance.net/paper)
+- [secondrenaissance.net](http://secondrenaissance.net)
+- [Download the whitepaper](https://secondrenaissance.net/paper)
 
-<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ" >Register for Event</a>
+Questions? Email hello@lifeitself.org
+
+<a href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ" class="btn-primary my-8" data-luma-action="checkout" data-luma-event-id="evt-vtZuX8RdOKIYCbZ">Register Now — €39 / $39</a>
 
 [Metacrisis]: https://metacrisis.info/
 [Second Renaissance]: https://secondrenaissance.net/
