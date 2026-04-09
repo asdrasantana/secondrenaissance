@@ -14,18 +14,18 @@ layout: plain
   />
   <div class="absolute inset-0 -z-10 bg-black/50"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">
-    <p class="text-xs sm:text-sm font-semibold tracking-widest uppercase text-white/50 mb-6">
+    <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
       Introduction to the Metacrisis and a Second Renaissance
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
-      The crisis is deep.
+      The crisis is deep
     </h1>
     <div class="mt-4">
       <span class="inline-block bg-[#ad2831] text-white px-4 py-2 text-3xl sm:text-5xl font-bold tracking-tight leading-none">
-        So is the renewal.
+        So is the renewal
       </span>
     </div>
-    <p class="mt-8 text-lg sm:text-xl text-white/80 max-w-2xl mx-auto leading-relaxed">
+    <p class="mt-8 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
       A 4-week online course exploring why so many crises are converging at once — and what's beginning to emerge in response.
     </p>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
@@ -41,7 +41,7 @@ layout: plain
         Learn more
       </a>
     </div>
-    <p class="mt-4 text-white/40 text-sm">
+    <p class="mt-4 text-white/70 text-base sm:text-lg">
       Sliding scale · from €10 · suggested €39/$39
     </p>
   </div>
