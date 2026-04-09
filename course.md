@@ -1,6 +1,7 @@
 ---
 title: Exploring a Second Renaissance Together
 description: A 4-week online course to understand the roots of converging crises — and what's emerging in response.
+image: /assets/img/course/2r-course-wide.webp
 layout: plain
 ---
 
