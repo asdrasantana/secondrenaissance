@@ -19,7 +19,7 @@ layout: plain
 <!-- Intro -->
 <section class="py-16 px-4 max-w-4xl mx-auto">
   <p class="text-xl text-gray-600 text-center">
-    The Second Renaissance paper series explores the foundations of our global crisis and the cultural paradigm shift needed for a wiser, regenerative future. Authored by the <a href="https://studio.lifeitself.org" class="underline">Life Itself Sensemaking Studio</a>.
+    The Second Renaissance paper series explores the foundations of our global crisis and the cultural paradigm shift needed for a wiser, regenerative future.
   </p>
 </section>
 
