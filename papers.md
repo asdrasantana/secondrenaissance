@@ -1,6 +1,7 @@
 ---
 title: White Papers
 layout: plain
+image: /assets/img/previews/papers-preview.jpg
 ---
 <!-- Hero Section -->
 <header class="relative min-h-[50vh] flex flex-col items-center justify-center text-center px-4 overflow-hidden">
