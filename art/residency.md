@@ -15,7 +15,10 @@ layout: plain
       <span class="italic text-3xl md:text-6xl">Shadow Work &amp; Creative Rebirth</span>
     </h1>
     <p class="text-lg md:text-2xl tracking-wide uppercase mb-8">24-31 July 2026</p>
-    <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+    <div class="flex flex-wrap items-center justify-center gap-4">
+      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
+      <a href="https://luma.com/event/evt-FZ5LIJyRoTjKBw0" class="luma-checkout--button btn-primary" data-luma-action="checkout" data-luma-event-id="evt-FZ5LIJyRoTjKBw0">Come to a discovery call (free)</a>
+    </div>
   </div>
 </header>
 
@@ -108,6 +111,7 @@ layout: plain
         <img src="/assets/img/art/residency-sylvie-bio.jpg" alt="Sylvie Shiwei Barbier" class="w-full h-72 md:h-80 object-cover">
         <div class="p-6 space-y-3 text-base">
           <h3 class="text-2xl">Sylvie 'Shiwei' Barbier</h3>
+          <p class="text-sm uppercase tracking-wide text-gray-500">Lead Facilitator</p>
           <p class="leading-relaxed">
             Sylvie ‘Shiwei’ Barbier is a French-Taiwanese visionary artist and curator committed to create, share and support transformational art. Her work synthesizes Eastern and Western philosophies and aesthetics. Sylvie trained as a performance artist, designer, facilitator and in anthroposophy pedagogy and has lectured in leading fashion institutions such as Polimoda and IED.
           </p>
@@ -129,6 +133,7 @@ layout: plain
         <img src="/assets/img/art/residency-kay-bio.jpeg" alt="Kay Michael" class="w-full h-72 md:h-80 object-cover">
         <div class="p-6 space-y-3 text-base">
           <h3 class="text-2xl">Kay Michael</h3>
+          <p class="text-sm uppercase tracking-wide text-gray-500">Supporting Facilitator</p>
           <p class="leading-relaxed">
             Kay Michael: is a London-based theatre-maker, ecological facilitator and creative producer. She creates and guides cultural experiences in theatres, streets, derelict sites, woodlands, galleries, festivals, and retreat centres.
           </p>
@@ -146,10 +151,10 @@ layout: plain
   <section class="bg-white rounded-2xl border border-gray-200 p-8 md:p-10">
     <div class="max-w-2xl mx-auto">
       <h2 class="text-3xl md:text-4xl mb-6">Pricing</h2>
-      <p class="mb-4">The residency will be intimate, with 15 residents.</p>
-      <p class="mb-4">The full 7-day workshop (24th-31st July) costs <strong>EUR680</strong>.</p>
-      <p class="mb-4">We also offer <strong>three discounted spots at EUR360</strong> for those for whom cost is a barrier.</p>
-      <p class="text-base text-gray-600 mb-6">Note: accommodation is separate.</p>
+      <p class="mb-4">This workshop is offered on a gift basis rather than a transaction.</p>
+      <p class="mb-4">There is no fixed fee for the transmission, instead you are free to make a gift-based contribution. The <strong>suggested contribution is between €340 and €550</strong> to support the space and the facilitators.</p>
+      <p class="mb-4">Those who are able to give help sustain the space and open it for others. We trust each person to choose their contribution with care and integrity. And any amount is welcome.</p>
+      <p class="text-base text-gray-600 mb-6">Note: accommodation and food costs are separate and listed below.</p>
       <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
     </div>
   </section>
@@ -216,3 +221,4 @@ layout: plain
     <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
   </section>
 </main>
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
