@@ -2,7 +2,7 @@
 title: Magazine
 layout: plain
 ---
-<header class="relative min-h-screen flex items-end pb-24 md:pb-32 overflow-hidden">
+<header class="relative min-h-screen flex items-center justify-center overflow-hidden py-24">
   <div class="absolute inset-0">
     <img
       src="/assets/img/magazine/hero-zarif.jpg"
@@ -12,7 +12,7 @@ layout: plain
     <div class="absolute inset-0 bg-gradient-to-b from-black/20 via-black/50 to-black/85"></div>
   </div>
   <div class="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12 flex flex-col items-center text-center">
-    <p class="text-white/60 tracking-[0.3em] text-xs uppercase mb-6 font-light text-shadow-sm">
+    <p class="tracking-[0.3em] text-xs uppercase mb-6 font-medium text-shadow-sm" style="color:#ad2831">
       Second Renaissance · Issue #2
     </p>
     <h1 class="font-elsie text-6xl md:text-8xl lg:text-[7rem] font-black text-white leading-none tracking-tight mb-6 text-shadow">
