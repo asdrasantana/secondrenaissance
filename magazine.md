@@ -2,103 +2,347 @@
 title: Magazine
 layout: plain
 ---
-<!-- Hero Section -->
-<header class="relative h-[80vh] flex items-center justify-center text-center px-4 overflow-hidden">
-  <div class="absolute inset-0 z-0">
-    <img src="/assets/img/art/magazine-hero.jpg" alt="Magazine Hero" class="w-full h-full object-cover">
-    <div class="absolute inset-0 bg-black/40"></div>
+<style>
+.text-shadow{text-shadow:0 2px 20px rgba(0,0,0,.6)}
+.text-shadow-sm{text-shadow:0 1px 8px rgba(0,0,0,.5)}
+.hover-bg-sr-dark:hover{background-color:#8a2028}
+.hover-border-red-sr:hover{border-color:#ad2831}
+.hover-text-red-sr:hover{color:#ad2831}
+</style>
+<header class="relative min-h-screen flex items-end pb-24 md:pb-32 overflow-hidden">
+  <div class="absolute inset-0">
+    <img
+      src="/assets/img/magazine/hero-zarif.jpg"
+      alt="An Ode to The Altar Between Selves by Naeema Zarif"
+      class="w-full h-full object-cover object-center"
+    >
+    <div class="absolute inset-0 bg-gradient-to-b from-black/20 via-black/50 to-black/85"></div>
   </div>
-  <div class="relative z-10 max-w-4xl flex flex-col items-center">
-    <h1 class="text-6xl md:text-9xl font-black text-white mb-6 tracking-tighter text-overlay-shadow uppercase">MAGAZINE</h1>
-    <p class="text-xl md:text-2xl text-white/80 font-medium max-w-2xl leading-relaxed mb-10 text-overlay-shadow">
-      Our magazine is a yearly publication which aims to share with the world the artistic embodiment of
-      transformation for a Second Renaissance. Our first issue is on the theme of Impermanence.
+  <div class="relative z-10 w-full max-w-6xl mx-auto px-6 md:px-12">
+    <p class="text-white/60 tracking-[0.3em] text-xs uppercase mb-6 font-light text-shadow-sm">
+      Second Renaissance · Issue #2
     </p>
-    <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2" target="_blank" class="bg-red-sr hover-bg-red-sr text-white px-10 py-4 rounded-full font-baskerville uppercase tracking-widest text-sm flex items-center gap-3 transition-all transform hover:scale-105 shadow-xl">
-      Download Magazine
-      <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
-      </svg>
-    </a>
+    <h1 class="font-elsie text-6xl md:text-8xl lg:text-[7rem] font-black text-white leading-none tracking-tight mb-6 text-shadow">
+      MAGAZINE
+    </h1>
+    <p class="font-elsie text-2xl md:text-3xl text-white/90 italic leading-snug mb-10 max-w-2xl text-shadow-sm">
+      A cultural beacon for a new era of art &amp; thought —<br>
+      weaving voices of transformation and healing.
+    </p>
+    <div class="flex flex-col sm:flex-row gap-4">
+      <a href="#subscribe"
+        class="bg-red-sr hover-bg-sr-dark text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 shadow-2xl w-fit">
+        Subscribe — €30 / year
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7-7 7"/>
+        </svg>
+      </a>
+      <a href="#"
+        class="border border-white/60 hover-border-red-sr text-white hover-text-red-sr px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 w-fit backdrop-blur-sm">
+        Buy Issue #2: Mythos
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+    <p class="text-white/35 text-xs mt-8 tracking-wide">
+      Artwork: <em>An Ode to The Altar Between Selves</em> — Naeema Zarif
+    </p>
   </div>
 </header>
-<main class="py-24 px-4 max-w-6xl mx-auto space-y-32">
-  <!-- About Section -->
-  <section class="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
-    <div class="space-y-6">
-      <h2 class="font-elsie text-4xl md:text-5xl leading-tight">Art of the Second Renaissance Magazine</h2>
-      <div class="h-1 w-20 bg-red-sr"></div>
-      <p class="text-xl text-gray-600 leading-relaxed">
-        Each year we curate a magazine to share with the world the artistic embodiment of transformation for
-        a Second Renaissance. Our first edition is on the theme of Impermanence.
+<section class="py-24 md:py-36 px-6 md:px-12 max-w-6xl mx-auto">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-16 md:gap-24 items-center">
+    <div class="space-y-7">
+      <p class="text-red-sr tracking-[0.25em] text-xs uppercase font-medium">What it is</p>
+      <h2 class="font-elsie text-4xl md:text-5xl leading-tight">
+        More than a magazine.<br>
+        <em>An entry into a movement.</em>
+      </h2>
+      <div class="w-16 h-0.5 bg-red-sr"></div>
+      <p class="text-gray-600 text-lg leading-relaxed">
+        When you subscribe, you don't just receive a publication — you connect to a living community of artists, thinkers, and creators working to birth a new cultural paradigm.
       </p>
-      <p class="text-lg text-gray-500 italic">
-        If you wish to contribute works for our next issue Mythos please write to <a href="mailto:art@secondrenaissance.net" class="text-red-sr hover:underline font-medium">art@secondrenaissance.net</a>
+      <p class="text-gray-500 text-lg leading-relaxed">
+        Each issue is an experience: a doorway into another world. Visual art, poetry, philosophy, and performance woven into something intimate, poetic, and transformative. You'll feel the pulse of a renaissance happening right now.
+      </p>
+      <p class="font-elsie text-xl text-gray-700 italic leading-relaxed border-l-2 border-red-sr pl-5">
+        "Art is not decoration. It is alchemy."
       </p>
     </div>
-    <div class="relative group">
-      <div class="absolute -inset-4 bg-red-sr/5 rounded-3xl transform rotate-2 group-hover:rotate-0 transition-transform duration-500"></div>
-      <img src="/assets/img/art/magazine-spread.webp" alt="Magazine Spread" class="relative rounded-2xl shadow-2xl w-full">
+    <div class="relative">
+      <div class="absolute -inset-4 bg-red-sr/5 rounded-3xl rotate-2 transition-transform duration-500 hover:rotate-0"></div>
+      <img
+        src="/assets/img/art/magazine-spread.webp"
+        alt="Magazine spread"
+        class="relative rounded-2xl shadow-2xl w-full object-cover"
+      >
     </div>
-  </section>
-  <!-- Issue #1: Impermanence Content -->
-  <section class="space-y-16">
+  </div>
+</section>
+<section class="bg-gray-900 py-24 md:py-36 px-6 md:px-12">
+  <div class="max-w-6xl mx-auto space-y-16">
     <div class="text-center space-y-4">
-      <h2 class="font-elsie text-5xl md:text-6xl uppercase tracking-tighter">ISSUE #1: IMPERMANENCE</h2>
-      <p class="text-gray-400 font-medium tracking-widest">YEARLY PUBLICATION 2024</p>
-    </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-      <div class="overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
-        <img src="/assets/img/art/magazine-artwork-1.webp" alt="Artwork 1" class="w-full h-80 object-cover">
-      </div>
-      <div class="overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
-        <img src="/assets/img/art/magazine-artwork-2.webp" alt="Artwork 2" class="w-full h-80 object-cover lg:translate-y-8">
-      </div>
-      <div class="overflow-hidden rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-500 transform hover:-translate-y-2">
-        <img src="/assets/img/art/magazine-preview.webp" alt="Artwork 3" class="w-full h-80 object-cover">
+      <p class="text-red-sr tracking-[0.3em] text-xs uppercase font-medium">Current Issue · 2025</p>
+      <h2 class="font-elsie text-5xl md:text-7xl font-black text-white tracking-tight">
+        ISSUE #2: MYTHOS
+      </h2>
+      <p class="text-white/50 max-w-xl mx-auto font-elsie italic text-xl">
+        Myth is not the opposite of truth — it is truth's oldest language.
+      </p>
+      <div class="inline-block bg-red-sr/20 border border-red-sr/40 text-red-sr text-xs tracking-widest uppercase px-5 py-2 rounded-full font-medium">
+        Coming Soon · Submissions Closed
       </div>
     </div>
-    <div class="max-w-3xl mx-auto text-center space-y-8 mt-20">
-      <p class="text-xl text-gray-700 leading-relaxed">
-        We don't want to just talk about the Second Renaissance, we want to make it happen. We want to make
-        this new culture come to life. What better way to birth a new cultural paradigm than through art?
+    <div class="text-center">
+      <p class="text-white/40 text-xs tracking-widest uppercase">A glimpse inside</p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+        <img
+          src="/assets/img/magazine/artwork-orpheus.jpg"
+          alt="Orpheus by Oliver Hillenkamp"
+          class="w-full h-96 md:h-[500px] object-cover object-top transition-transform duration-700 group-hover:scale-105"
+        >
+        <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"></div>
+        <div class="absolute bottom-0 left-0 right-0 p-6 space-y-2">
+          <p class="text-white/50 text-xs tracking-widest uppercase">Oliver Hillenkamp</p>
+          <h3 class="font-elsie text-white text-xl font-bold">Orpheus</h3>
+          <p class="text-white/70 font-elsie italic text-base leading-relaxed">
+            "I chose this piece because it asks what myth costs — what we lose when we look back, and why we always do."
+          </p>
+        </div>
+      </div>
+      <div class="space-y-6">
+        <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+          <img
+            src="/assets/img/magazine/artwork-ouroboros.jpg"
+            alt="Torouroboros by Mark Smith"
+            class="w-full h-56 object-cover transition-transform duration-700 group-hover:scale-105"
+          >
+          <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/10 to-transparent"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-5 space-y-1">
+            <p class="text-white/50 text-xs tracking-widest uppercase">Mark Smith</p>
+            <h3 class="font-elsie text-white text-lg font-bold">Torouroboros</h3>
+            <p class="text-white/65 font-elsie italic text-base">
+              "The serpent that devours and renews itself — this is the mythos we are living."
+            </p>
+          </div>
+        </div>
+        <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+          <img
+            src="/assets/img/magazine/artwork-portal-tapestry.jpg"
+            alt="Mixed media tapestry artwork"
+            class="w-full h-56 object-cover transition-transform duration-700 group-hover:scale-105"
+          >
+          <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/10 to-transparent"></div>
+          <div class="absolute bottom-0 left-0 right-0 p-5 space-y-1">
+            <p class="text-white/50 text-xs tracking-widest uppercase">Mixed Media</p>
+            <h3 class="font-elsie text-white text-lg font-bold">Portal</h3>
+            <p class="text-white/65 font-elsie italic text-base">
+              "Ancient pastoral scene punctured by a new cosmology — the old world and the new, overlaid."
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="grid grid-cols-2 gap-6">
+      <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+        <img
+          src="/assets/img/magazine/artwork-bull.jpg"
+          alt="Bull figure sculpture"
+          class="w-full h-64 object-cover object-top transition-transform duration-700 group-hover:scale-105"
+        >
+        <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
+        <div class="absolute bottom-0 left-0 right-0 p-5">
+          <p class="text-white/50 text-xs tracking-widest uppercase">Photography</p>
+          <h3 class="font-elsie text-white text-lg font-bold">The Minotaur</h3>
+        </div>
+      </div>
+      <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+        <img
+          src="/assets/img/magazine/artwork-greetings.jpg"
+          alt="Greetings painting"
+          class="w-full h-64 object-cover transition-transform duration-700 group-hover:scale-105"
+        >
+        <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
+        <div class="absolute bottom-0 left-0 right-0 p-5">
+          <p class="text-white/50 text-xs tracking-widest uppercase">Painting</p>
+          <h3 class="font-elsie text-white text-lg font-bold">Greetings</h3>
+        </div>
+      </div>
+    </div>
+    <div class="text-center pt-8">
+      <a href="#subscribe"
+        class="bg-red-sr hover-bg-sr-dark text-white px-10 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all inline-flex items-center gap-3 shadow-xl">
+        Subscribe to receive Issue #2
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+<section class="py-24 md:py-32 px-6 md:px-12 bg-stone-50">
+  <div class="max-w-5xl mx-auto">
+    <p class="text-red-sr tracking-[0.25em] text-xs uppercase font-medium text-center mb-16">What readers say</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-16">
+      <div class="space-y-5">
+        <div class="w-8 h-0.5 bg-red-sr"></div>
+        <blockquote class="font-elsie text-2xl md:text-3xl text-gray-800 italic leading-relaxed">
+          "This magazine is a spiritual friend, with many voices... This gives personal power, the power we need to bring about systemic change in the world."
+        </blockquote>
+        <p class="text-gray-500 text-sm tracking-wide uppercase font-medium">— Monica Antunes</p>
+      </div>
+      <div class="space-y-5">
+        <div class="w-8 h-0.5 bg-red-sr"></div>
+        <blockquote class="font-elsie text-2xl md:text-3xl text-gray-800 italic leading-relaxed">
+          "A sanctuary. A place where small unknown artists who are dedicated to the sacred can be welcomed in their practices."
+        </blockquote>
+        <p class="text-gray-500 text-sm tracking-wide uppercase font-medium">— Amanda Zamparo</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="subscribe" class="py-24 md:py-36 px-6 md:px-12">
+  <div class="max-w-5xl mx-auto">
+    <div class="text-center space-y-4 mb-16">
+      <p class="text-red-sr tracking-[0.25em] text-xs uppercase font-medium">Join the movement</p>
+      <h2 class="font-elsie text-4xl md:text-5xl font-bold">
+        Support the Magazine
+      </h2>
+      <p class="text-gray-500 text-lg max-w-xl mx-auto leading-relaxed">
+        Your contribution sustains artists, funds future issues, and strengthens a collective voice for the Second Renaissance.
       </p>
-      <p class="text-xl text-gray-700 leading-relaxed">
-        The Magazine is only possible through the contribution of the community work and time. We are
-        grateful to all the contributors. The magazine is grounded under the Art of the Second Renaissance
-        manifesto and essay.
-      </p>
-      <div class="pt-8">
-        <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2" target="_blank" class="inline-flex items-center gap-3 text-red-sr font-bold hover:gap-5 transition-all group">
-          DOWNLOAD THE FULL MAGAZINE
-          <svg class="w-6 h-6 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
-          </svg>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div class="border border-gray-200 rounded-3xl p-8 md:p-10 space-y-6 hover:border-red-sr transition-colors duration-300 hover:shadow-lg">
+        <div>
+          <p class="text-red-sr tracking-widest text-xs uppercase font-medium mb-2">Subscriber</p>
+          <div class="flex items-baseline gap-2">
+            <span class="font-elsie text-5xl font-black">€30</span>
+            <span class="text-gray-400 text-lg">/ year</span>
+          </div>
+        </div>
+        <div class="w-12 h-0.5 bg-gray-200"></div>
+        <ul class="space-y-3 text-gray-600">
+          <li class="flex items-start gap-3">
+            <span class="text-red-sr mt-0.5 text-lg leading-none">✦</span>
+            Annual printed magazine delivered to you
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-red-sr mt-0.5 text-lg leading-none">✦</span>
+            Digital edition access
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-red-sr mt-0.5 text-lg leading-none">✦</span>
+            Entry into the Second Renaissance community
+          </li>
+        </ul>
+        <a href="#"
+          class="block text-center bg-gray-900 hover:bg-red-sr text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all">
+          Subscribe Now
+        </a>
+      </div>
+      <div class="bg-gray-900 rounded-3xl p-8 md:p-10 space-y-6 relative overflow-hidden">
+        <div class="absolute top-0 right-0 w-48 h-48 bg-red-sr/10 rounded-full blur-3xl -mr-16 -mt-16 pointer-events-none"></div>
+        <div class="relative">
+          <div class="flex items-center justify-between mb-2">
+            <p class="text-red-sr tracking-widest text-xs uppercase font-medium">Patron</p>
+            <span class="bg-red-sr/20 text-red-sr text-xs tracking-widest uppercase px-3 py-1 rounded-full">Recommended</span>
+          </div>
+          <div class="flex items-baseline gap-2">
+            <span class="font-elsie text-5xl font-black text-white">€80</span>
+            <span class="text-white/40 text-lg">/ year +</span>
+          </div>
+        </div>
+        <div class="w-12 h-0.5 bg-red-sr/40"></div>
+        <ul class="space-y-3 text-white/70">
+          <li class="flex items-start gap-3">
+            <span class="text-red-sr mt-0.5 text-lg leading-none">✦</span>
+            Everything in Subscriber
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-red-sr mt-0.5 text-lg leading-none">✦</span>
+            Your name in the next issue — as a supporter of artists
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-red-sr mt-0.5 text-lg leading-none">✦</span>
+            Directly funds artist compensation and future issues
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-red-sr mt-0.5 text-lg leading-none">✦</span>
+            Early access and behind-the-scenes updates
+          </li>
+        </ul>
+        <a href="#"
+          class="block text-center bg-red-sr hover-bg-sr-dark text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all">
+          Become a Patron
         </a>
       </div>
     </div>
-  </section>
-  <!-- Issue #2: Mythos -->
-  <section class="bg-gray-50 rounded-[4rem] p-12 md:p-24 text-center border border-gray-100 shadow-inner overflow-hidden relative">
-    <div class="absolute top-0 right-0 w-64 h-64 bg-red-sr/5 rounded-full blur-3xl -mr-32 -mt-32"></div>
-    <div class="absolute bottom-0 left-0 w-64 h-64 bg-red-sr/5 rounded-full blur-3xl -ml-32 -mb-32"></div>
-    <div class="relative z-10 max-w-3xl mx-auto space-y-10">
-      <h2 class="font-elsie text-4xl md:text-5xl font-black text-gray-900 leading-tight">ISSUE #2: MYTHOS</h2>
-      <div class="h-1.5 w-32 bg-red-sr mx-auto mb-8"></div>
-      <p class="text-2xl text-gray-800 leading-relaxed font-serif">
-        Submissions are now closed, and the issue will be out soon!
-      </p>
-      <!--<div class="bg-white p-4 rounded-2xl shadow-sm border border-gray-100 inline-block">
-        <p class="text-red-sr font-bold tracking-widest uppercase text-sm">DEADLINE EXTENSION TO 7th JULY 2025</p>
-      </div>
-      <div class="pt-6">
-        <a href="./magazine-submission" class="bg-black hover:bg-red-sr text-white px-12 py-5 rounded-full font-baskerville uppercase tracking-widest text-sm flex items-center justify-center gap-4 transition-all mx-auto w-full md:w-auto hover:shadow-2xl">
-          See submission details
-          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-          </svg>
-        </a>
-      </div>-->
+    <div class="text-center mt-12">
+      <p class="text-gray-400 text-sm mb-3">Not ready to commit?</p>
+      <a href="#" class="text-gray-600 hover:text-red-sr font-medium underline underline-offset-4 transition-colors">
+        Buy a single issue instead →
+      </a>
     </div>
-  </section>
-</main>
+  </div>
+</section>
+<section class="bg-stone-50 py-24 md:py-32 px-6 md:px-12">
+  <div class="max-w-6xl mx-auto">
+    <div class="flex flex-col md:flex-row md:items-end justify-between gap-8 mb-16">
+      <div class="space-y-3">
+        <p class="text-red-sr tracking-[0.25em] text-xs uppercase font-medium">Archive · 2024</p>
+        <h2 class="font-elsie text-4xl md:text-5xl font-bold">Issue #1: Impermanence</h2>
+      </div>
+      <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2"
+        target="_blank"
+        class="inline-flex items-center gap-2 text-red-sr font-medium text-sm uppercase tracking-widest hover:gap-4 transition-all group shrink-0">
+        Download Free
+        <svg class="w-5 h-5 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+        </svg>
+      </a>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div class="overflow-hidden rounded-2xl shadow-md hover:shadow-xl transition-all duration-500 hover:-translate-y-1">
+        <img src="/assets/img/art/magazine-artwork-1.webp" alt="Impermanence artwork 1" class="w-full h-72 object-cover">
+      </div>
+      <div class="overflow-hidden rounded-2xl shadow-md hover:shadow-xl transition-all duration-500 hover:-translate-y-1 md:translate-y-6">
+        <img src="/assets/img/art/magazine-artwork-2.webp" alt="Impermanence artwork 2" class="w-full h-72 object-cover">
+      </div>
+      <div class="overflow-hidden rounded-2xl shadow-md hover:shadow-xl transition-all duration-500 hover:-translate-y-1">
+        <img src="/assets/img/art/magazine-preview.webp" alt="Impermanence preview" class="w-full h-72 object-cover">
+      </div>
+    </div>
+    <p class="text-center text-gray-500 text-lg mt-16 max-w-2xl mx-auto leading-relaxed">
+      The first edition explored the theme of Impermanence — gathering artists, writers, and philosophers whose work asks us to hold lightly what we love.
+    </p>
+  </div>
+</section>
+<section class="py-24 px-6 md:px-12 text-center bg-white">
+  <div class="max-w-2xl mx-auto space-y-6">
+    <h2 class="font-elsie text-4xl md:text-5xl font-bold leading-tight">
+      Ready to be part of<br>
+      <em>the Second Renaissance?</em>
+    </h2>
+    <p class="text-gray-500 text-lg">Subscribe and receive Issue #2: Mythos — coming soon.</p>
+    <div class="pt-4 flex flex-col sm:flex-row gap-4 justify-center">
+      <a href="#subscribe"
+        class="bg-red-sr hover-bg-sr-dark text-white px-10 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all inline-flex items-center gap-3 shadow-lg">
+        Subscribe — €30 / year
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7-7 7"/>
+        </svg>
+      </a>
+      <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2"
+        target="_blank"
+        class="border border-gray-300 hover:border-red-sr text-gray-600 hover:text-red-sr px-10 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all inline-flex items-center gap-3">
+        Download Issue #1 Free
+      </a>
+    </div>
+    <p class="text-gray-400 text-xs mt-6">
+      Questions? Write to <a href="mailto:art@secondrenaissance.net" class="text-red-sr hover:underline">art@secondrenaissance.net</a>
+    </p>
+  </div>
+</section>
