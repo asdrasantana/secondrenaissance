@@ -63,6 +63,10 @@
     {
       "from": "/paper",
       "to": "/papers"
+    },
+    {
+      "from": "/art/magazine",
+      "to": "/magazine"
     }
   ],
   "contentExclude": [
