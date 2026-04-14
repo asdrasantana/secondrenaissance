@@ -258,7 +258,7 @@ layout: plain
             Early access and behind-the-scenes updates
           </li>
         </ul>
-        <a href="#" class="btn-primary w-full justify-center">
+        <a href="https://buy.stripe.com/28EaEX0I64Js1tl4BYds405" target="_blank" class="btn-primary w-full justify-center">
           Become a Patron
         </a>
       </div>
