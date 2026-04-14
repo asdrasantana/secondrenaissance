@@ -24,7 +24,7 @@ layout: plain
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
       <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
-        Subscribe — €30 / year
+        Subscribe — €35 / year
       </a>
       <a href="https://buy.stripe.com/4gM9AT62qcbUc7Z5G2ds404" target="_blank"
         class="border border-white/60 text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 backdrop-blur-sm hover:border-white hover:bg-white/10">
@@ -204,7 +204,7 @@ layout: plain
         <div>
           <p class="text-red-sr tracking-widest text-xs uppercase font-medium mb-2">Subscriber</p>
           <div class="flex items-baseline gap-2">
-            <span class="font-elsie text-5xl font-black">€30</span>
+            <span class="font-elsie text-5xl font-black">€35</span>
             <span class="text-gray-400 text-lg">/ year</span>
           </div>
         </div>
@@ -312,7 +312,7 @@ layout: plain
     <p class="text-gray-500 text-xl">Subscribe and receive Issue #2: Mythos — coming soon.</p>
     <div class="pt-4 flex flex-col sm:flex-row gap-4 justify-center">
       <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
-        Subscribe — €30 / year
+        Subscribe — €35 / year
       </a>
       <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2"
         target="_blank"
