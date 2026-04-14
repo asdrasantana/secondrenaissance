@@ -39,3 +39,24 @@ a.btn-primary:hover {
 .btn-primary:hover::after {
   font-size: 1.3rem;
 }
+
+/* Text shadow utilities for hero overlays */
+.text-shadow { text-shadow: 0 2px 20px rgba(0,0,0,.6); }
+.text-shadow-sm { text-shadow: 0 1px 8px rgba(0,0,0,.5); }
+
+/* Hover dark variant for sr red buttons */
+.hover-bg-sr-dark:hover { background-color: #8a2028; }
+
+/* Badge used in dark sections (replaces bg-red-sr/20 opacity variant) */
+.badge-sr {
+  display: inline-block;
+  background-color: rgba(173,40,49,0.2);
+  border: 1px solid rgba(173,40,49,0.4);
+  color: #ad2831;
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.25rem 1.25rem;
+  border-radius: 9999px;
+  font-weight: 500;
+}
