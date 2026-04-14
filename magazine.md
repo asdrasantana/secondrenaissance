@@ -23,10 +23,10 @@ layout: plain
       weaving voices of transformation and healing.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="#subscribe" class="btn-primary">
+      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
         Subscribe — €30 / year
       </a>
-      <a href="#"
+      <a href="https://buy.stripe.com/4gM9AT62qcbUc7Z5G2ds404" target="_blank"
         class="border border-white/60 text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 backdrop-blur-sm hover:border-white hover:bg-white/10">
         Buy Issue #2: Mythos
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -161,7 +161,7 @@ layout: plain
       </div>
     </div>
     <div class="text-center pt-8">
-      <a href="#subscribe" class="btn-primary">
+      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
         Subscribe to receive Issue #2
       </a>
     </div>
@@ -223,7 +223,7 @@ layout: plain
             Entry into the Second Renaissance community
           </li>
         </ul>
-        <a href="#" class="btn-primary w-full justify-center">
+        <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary w-full justify-center">
           Subscribe Now
         </a>
       </div>
@@ -265,7 +265,7 @@ layout: plain
     </div>
     <div class="text-center mt-12">
       <p class="text-gray-400 text-sm mb-3">Just want to try one issue first?</p>
-      <a href="#" class="text-gray-600 hover:text-red-sr font-medium underline underline-offset-4 transition-colors">
+      <a href="https://buy.stripe.com/4gM9AT62qcbUc7Z5G2ds404" target="_blank" class="text-gray-600 hover:text-red-sr font-medium underline underline-offset-4 transition-colors">
         Buy a single issue →
       </a>
     </div>
@@ -311,7 +311,7 @@ layout: plain
     </h2>
     <p class="text-gray-500 text-xl">Subscribe and receive Issue #2: Mythos — coming soon.</p>
     <div class="pt-4 flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="#subscribe" class="btn-primary">
+      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
         Subscribe — €30 / year
       </a>
       <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2"
