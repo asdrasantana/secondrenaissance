@@ -8,8 +8,16 @@
     "logo": "/assets/2r-logo-small.png",
     "links": [
       {
-        "href": "/papers",
-        "name": "Whitepapers"
+        "name": "Papers",
+        "links": [
+          { "href": "/papers", "name": "Papers" },
+          { "href": "/papers", "name": "What & Why of a Second Renaissance" },
+          { "href": "/papers", "name": "How of a Second Renaissance" },
+          { "href": "https://metacrisis.info/paper", "name": "From Polycrisis to Metacrisis" },
+          { "href": "https://developmentalspaces.org/paper", "name": "Developmental Spaces" },
+          { "href": "/papers/tech", "name": "In Tech We Trust" },
+          { "href": "/glossary", "name": "Glossary" }
+        ]
       },
       {
         "href": "/course",
@@ -24,12 +32,15 @@
         "name": "Ecosystem"
       },
       {
-        "href": "/art",
-        "name": "Art"
-      },
-      {
-        "href": "/glossary",
-        "name": "Glossary"
+        "name": "Art",
+        "links": [
+          { "href": "/art", "name": "Art" },
+          { "href": "/art/collective", "name": "Collective" },
+          { "href": "/art/exhibition", "name": "Exhibition" },
+          { "href": "/art/manifesto", "name": "Manifesto" },
+          { "href": "/art/residency", "name": "Residency" },
+          { "href": "/magazine", "name": "Magazine" }
+        ]
       },
       {
         "href": "/events",

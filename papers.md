@@ -1,5 +1,5 @@
 ---
-title: White Papers
+title: Papers
 layout: plain
 image: /assets/img/previews/papers-preview.jpg
 ---
@@ -10,7 +10,7 @@ image: /assets/img/previews/papers-preview.jpg
     <div class="absolute inset-0 bg-black/40"></div>
   </div>
   <div class="relative z-10 max-w-4xl">
-    <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">White Papers</h1>
+    <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">Papers</h1>
     <p class="text-xl md:text-2xl text-white/90">
       Our whitepapers set out the core thesis and theory of change of a second renaissance. What it is, why it is needed and how it can come about.
     </p>
