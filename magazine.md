@@ -82,7 +82,7 @@ layout: plain
     <div class="text-center">
       <p class="text-white/40 text-xs tracking-widest uppercase">A glimpse inside</p>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
           src="/assets/img/magazine/snake.jpeg"
@@ -94,44 +94,19 @@ layout: plain
           <p class="text-white/70 text-xs tracking-widest uppercase">Eduard Valenta, Josef Maria Eder · 1896</p>
         </div>
       </div>
-      <div class="space-y-6">
-        <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
-          <img
-            src="/assets/img/magazine/mythos-cover.png"
-            alt="Issue #2 Mythos cover"
-            class="w-full h-56 object-cover transition-transform duration-700 group-hover:scale-105"
-          >
-        </div>
-        <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
-          <img
-            src="/assets/img/magazine/artwork-ouroboros.jpg"
-            alt="Torouroboros by Mark Smith"
-            class="w-full h-56 object-cover transition-transform duration-700 group-hover:scale-105"
-          >
-          <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/10 to-transparent"></div>
-          <div class="absolute bottom-0 left-0 right-0 p-5 space-y-1">
-            <p class="text-white/50 text-xs tracking-widest uppercase">Mark Smith</p>
-            <h3 class="font-elsie text-white text-xl font-bold">Torouroboros</h3>
-            <p class="text-white/70 font-elsie italic text-lg">
-              "The serpent that devours and renews itself — this is the mythos we are living."
-            </p>
-          </div>
-        </div>
-        <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
-          <img
-            src="/assets/img/magazine/artwork-portal-tapestry.jpg"
-            alt="Mixed media tapestry artwork"
-            class="w-full h-56 object-cover transition-transform duration-700 group-hover:scale-105"
-          >
-          <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/10 to-transparent"></div>
-          <div class="absolute bottom-0 left-0 right-0 p-5 space-y-1">
-            <p class="text-white/50 text-xs tracking-widest uppercase">Mixed Media</p>
-            <h3 class="font-elsie text-white text-xl font-bold">Portal</h3>
-            <p class="text-white/70 font-elsie italic text-lg">
-              "Ancient pastoral scene punctured by a new cosmology — the old world and the new, overlaid."
-            </p>
-          </div>
-        </div>
+      <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+        <img
+          src="/assets/img/magazine/mythos-cover.png"
+          alt="Issue #2 Mythos cover"
+          class="w-full h-96 md:h-[500px] object-contain object-center transition-transform duration-700 group-hover:scale-105"
+        >
+      </div>
+      <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+        <img
+          src="/assets/img/magazine/artwork-ex04.png"
+          alt=""
+          class="w-full h-96 md:h-[500px] object-cover object-center transition-transform duration-700 group-hover:scale-105"
+        >
       </div>
     </div>
     <div class="grid grid-cols-2 gap-6">
