@@ -125,14 +125,9 @@ layout: plain
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
           src="/assets/img/magazine/artwork-greetings-new.png"
-          alt="Greetings"
+          alt=""
           class="w-full h-64 object-cover transition-transform duration-700 group-hover:scale-105"
         >
-        <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
-        <div class="absolute bottom-0 left-0 right-0 p-5">
-          <p class="text-white/50 text-xs tracking-widest uppercase">Painting</p>
-          <h3 class="font-elsie text-white text-xl font-bold">Greetings</h3>
-        </div>
       </div>
     </div>
     <div class="text-center pt-8">
