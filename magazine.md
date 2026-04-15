@@ -89,16 +89,12 @@ layout: plain
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
           src="/assets/img/magazine/snake.jpeg"
-          alt="Orpheus by Oliver Hillenkamp"
+          alt="Snake X-ray — Eduard Valenta &amp; Josef Maria Eder, 1896"
           class="w-full h-96 md:h-[500px] object-cover object-top transition-transform duration-700 group-hover:scale-105"
         >
         <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent"></div>
-        <div class="absolute bottom-0 left-0 right-0 p-6 space-y-2">
-          <p class="text-white/50 text-xs tracking-widest uppercase">Oliver Hillenkamp</p>
-          <h3 class="font-elsie text-white text-2xl font-bold">Orpheus</h3>
-          <p class="text-white/70 font-elsie italic text-lg leading-relaxed">
-            "I chose this piece because it asks what myth costs — what we lose when we look back, and why we always do."
-          </p>
+        <div class="absolute bottom-0 left-0 right-0 p-6">
+          <p class="text-white/70 text-xs tracking-widest uppercase">Eduard Valenta, Josef Maria Eder · 1896</p>
         </div>
       </div>
       <div class="space-y-6">
