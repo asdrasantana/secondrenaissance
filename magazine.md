@@ -88,7 +88,7 @@ layout: plain
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
-          src="/assets/img/magazine/snake.jpeg.jpg"
+          src="/assets/img/magazine/snake.jpeg"
           alt="Orpheus by Oliver Hillenkamp"
           class="w-full h-96 md:h-[500px] object-cover object-top transition-transform duration-700 group-hover:scale-105"
         >
