@@ -5,8 +5,8 @@ layout: plain
 <header class="relative min-h-screen flex items-center justify-center overflow-hidden py-24">
   <div class="absolute inset-0">
     <img
-      src="/assets/img/magazine/hero-zarif.jpg"
-      alt="An Ode to The Altar Between Selves by Naeema Zarif"
+      src="/assets/img/magazine/hero-sylvie.jpg"
+      alt=""
       class="w-full h-full object-cover object-center"
     >
     <div class="absolute inset-0 bg-gradient-to-b from-black/20 via-black/50 to-black/85"></div>
@@ -34,9 +34,6 @@ layout: plain
         </svg>
       </a>
     </div>
-    <p class="text-white/35 text-xs mt-8 tracking-wide">
-      Artwork: <em>An Ode to The Altar Between Selves</em> — Naeema Zarif
-    </p>
   </div>
 </header>
 <section class="py-24 md:py-36 px-6 md:px-12 max-w-6xl mx-auto">
