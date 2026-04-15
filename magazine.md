@@ -97,6 +97,13 @@ layout: plain
       <div class="space-y-6">
         <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
           <img
+            src="/assets/img/magazine/mythos-cover.png"
+            alt="Issue #2 Mythos cover"
+            class="w-full h-56 object-cover transition-transform duration-700 group-hover:scale-105"
+          >
+        </div>
+        <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
+          <img
             src="/assets/img/magazine/artwork-ouroboros.jpg"
             alt="Torouroboros by Mark Smith"
             class="w-full h-56 object-cover transition-transform duration-700 group-hover:scale-105"
@@ -130,8 +137,8 @@ layout: plain
     <div class="grid grid-cols-2 gap-6">
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
-          src="/assets/img/magazine/artwork-bull.jpg"
-          alt="Bull figure sculpture"
+          src="/assets/img/magazine/artwork-cazacu.png"
+          alt="The Minotaur"
           class="w-full h-64 object-cover object-top transition-transform duration-700 group-hover:scale-105"
         >
         <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
