@@ -124,8 +124,8 @@ layout: plain
       </div>
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
-          src="/assets/img/magazine/artwork-greetings.jpg"
-          alt="Greetings painting"
+          src="/assets/img/magazine/artwork-greetings-new.png"
+          alt="Greetings"
           class="w-full h-64 object-cover transition-transform duration-700 group-hover:scale-105"
         >
         <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
