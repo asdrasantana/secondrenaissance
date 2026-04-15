@@ -82,7 +82,14 @@ layout: plain
     <div class="text-center">
       <p class="text-white/40 text-xs tracking-widest uppercase">A glimpse inside</p>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <div class="flex justify-center mb-6">
+      <img
+        src="/assets/img/magazine/mythos-cover.png"
+        alt="Issue #2 Mythos cover"
+        class="max-h-[800px] w-auto rounded-2xl shadow-2xl"
+      >
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
           src="/assets/img/magazine/snake.jpeg"
@@ -93,13 +100,6 @@ layout: plain
         <div class="absolute bottom-0 left-0 right-0 p-6">
           <p class="text-white/70 text-xs tracking-widest uppercase">Eduard Valenta, Josef Maria Eder · 1896</p>
         </div>
-      </div>
-      <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
-        <img
-          src="/assets/img/magazine/mythos-cover.png"
-          alt="Issue #2 Mythos cover"
-          class="w-full h-96 md:h-[500px] object-contain object-center transition-transform duration-700 group-hover:scale-105"
-        >
       </div>
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
         <img
