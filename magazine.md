@@ -68,7 +68,7 @@ layout: plain
 <section class="bg-gray-900 py-24 md:py-36 px-6 md:px-12">
   <div class="max-w-6xl mx-auto space-y-16">
     <div class="text-center space-y-6">
-      <p class="tracking-[0.3em] text-xs uppercase font-medium" style="color:#ad2831">Current Issue · 2025</p>
+      <p class="tracking-[0.3em] text-xs uppercase font-medium" style="color:#ad2831">Current Issue · 2026</p>
       <h2 class="font-elsie text-5xl md:text-7xl font-black text-white tracking-tight">
         ISSUE #2: MYTHOS
       </h2>
