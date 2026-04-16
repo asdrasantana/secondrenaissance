@@ -3,6 +3,89 @@
 
 ---
 
+## STRATEGY OVERVIEW
+
+### Key Links
+- Metalabel (primary publishing + purchase hub)
+- Second Renaissance website
+- Second Renaissance Substack (editorial + campaign engine)
+- Instagram (visual discovery + reach)
+- Are.na (curation + intellectual community)
+
+---
+
+### Target Audiences
+- Artists, poets, and writers exploring meaning-making
+- “Liminal Web” / sensemaking communities
+- Intellectual creatives (Are.na, Substack ecosystem)
+- Transformation-oriented audiences (integral, regenerative, contemplative spaces)
+- Thought leaders and adjacent networks via contributors (e.g. climate, philosophy, tech critique)
+
+---
+
+### Value Proposition
+MYTHOS is not just a magazine — it’s a cultural artifact and participatory experience.
+
+- A **shared commons**, not a product
+- A **space for myth-making** in a time of transition
+- A **curated convergence** of art, poetry, and thought
+- A **community-driven publication** exploring meaning at the edge of cultural change
+
+---
+
+### Goals
+- Launch MYTHOS as a **cultural moment**, not just a release
+- Activate contributors into a **coordinated amplification wave**
+- Build deeper engagement within aligned communities
+- Drive preorders and sales through **resonance, not urgency tactics**
+- Establish Second Renaissance as an ongoing **cultural commons**
+
+---
+
+### Messaging & Angles
+
+**Core framing:**
+- This is a *mythic event*, not a product launch
+- Invitation > promotion
+- Fire-circle energy > marketplace energy
+
+**Primary themes:**
+- The collapse of old stories
+- The emergence of new myths
+- Living consciously inside narrative
+- Art as a vehicle for transformation
+
+**Key angles:**
+- “What myth are you living by?”
+- “A magazine for the in-between time”
+- “From ancient gods to AI mythologies”
+- “The future is built through stories”
+
+---
+
+### Channels
+
+**Primary Platforms:**
+- Metalabel
+- Substack
+- Instagram
+- Are.na
+
+**Community Outreach Targets:**
+- Perspectiva
+- The Stoa
+- Emerge
+- Collective Wisdom Initiative / Hylo
+- Integral Life
+- Liminal Web Substacks (5–10 targeted collaborations)
+
+**Additional Channels:**
+- Reddit (Metamodernism, Future of Consciousness)
+- Facebook groups (integral, contemplative, regenerative)
+- LinkedIn (extended contributor networks)
+
+---
+
 ## THE CORE IDEA
 
 This isn't a magazine launch. It's a mythic event.
