@@ -6,8 +6,7 @@
 ## STRATEGY OVERVIEW
 
 ### Key Links
-- Metalabel (primary publishing + purchase hub)
-- Second Renaissance website
+- Second Renaissance website (landing page + buy here)
 - Second Renaissance Substack (editorial + campaign engine)
 - Instagram (visual discovery + reach)
 - Are.na (curation + intellectual community)
@@ -66,7 +65,6 @@ MYTHOS is not just a magazine — it’s a cultural artifact and participatory e
 ### Channels
 
 **Primary Platforms:**
-- Metalabel
 - Substack
 - Instagram
 - Are.na
@@ -132,7 +130,7 @@ This is your magazine too.
 ## PLATFORMS & WHERE TO SHARE
 
 **Primary homes:**
-- **Metalabel** — the publishing home; this is where people buy and the community gathers
+- **Second Renaissance website**
 - **Second Renaissance Substack** — already established; use it for excerpts, behind-the-scenes, contributor spotlights, and the myth prompt campaign in the weeks before launch
 - **Instagram** — the visual art is the hook; this is your widest reach. Art travels here. Short reels, single artwork posts with a line of poetry as caption, contributor quotes over images
 - **Are.na** — genuinely aligned with this audience; intellectual creatives who collect meaning. Share the magazine as a channel, invite people to add their own mythic references alongside it
