@@ -58,8 +58,8 @@ layout: plain
     <div class="relative">
       <div class="absolute -inset-4 bg-red-sr/5 rounded-3xl rotate-2 transition-transform duration-500 hover:rotate-0"></div>
       <img
-        src="/assets/img/art/magazine-spread.webp"
-        alt="Magazine spread"
+        src="/assets/img/magazine/mythos-cover.png"
+        alt="Issue #2 Mythos cover"
         class="relative rounded-2xl shadow-2xl w-full object-cover"
       >
     </div>
@@ -81,13 +81,6 @@ layout: plain
     </div>
     <div class="text-center">
       <p class="text-white/40 text-xs tracking-widest uppercase">A glimpse inside</p>
-    </div>
-    <div class="flex justify-center mb-6">
-      <img
-        src="/assets/img/magazine/mythos-cover.png"
-        alt="Issue #2 Mythos cover"
-        class="max-h-[800px] w-auto rounded-2xl shadow-2xl"
-      >
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
       <div class="group relative overflow-hidden rounded-2xl bg-gray-800">
