@@ -60,7 +60,7 @@ layout: plain
       <img
         src="/assets/img/magazine/mythos-cover.png"
         alt="Issue #2 Mythos cover"
-        class="relative rounded-2xl shadow-2xl w-full object-cover"
+        class="relative rounded-2xl shadow-2xl w-full max-h-[85vh] object-contain"
       >
     </div>
   </div>
