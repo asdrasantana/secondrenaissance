@@ -29,7 +29,7 @@ image: /assets/img/previews/papers-preview.jpg
 
   <!-- Paper 1 -->
   <div class="flex flex-col md:flex-row gap-8 items-start">
-    <a href="/assets/second-renaissance-whitepaper.pdf" target="_blank" class="shrink-0 md:w-64">
+    <a href="https://drive.google.com/file/d/1GjJBXhS2hyvAf-uM9DbUTwE5Slh6MJel/view?usp=drive_link" target="_blank" class="shrink-0 md:w-64">
       <img src="/assets/img/paper/whitepaper-1-cover.webp" alt="Paper 1 Cover" class="w-full rounded-lg shadow-lg">
     </a>
     <div class="flex flex-col">
@@ -37,13 +37,13 @@ image: /assets/img/previews/papers-preview.jpg
       <h3 class="text-2xl md:text-3xl font-bold mb-2">What & Why of a Second Renaissance</h3>
       <p class="text-sm text-gray-500 mb-3">Sylvie Barbier, Rosie Bell & Rufus Pollock · 2024</p>
       <p class="text-gray-600 mb-6">What is a second renaissance and why is it relevant in this moment of escalating crisis? This foundational paper introduces the idea of a cultural paradigm shift — a "Second Renaissance" — arguing that our interconnected global challenges are rooted in the views and values of modernity, and that a fundamental shift in worldview is both possible and necessary.</p>
-      <a href="/assets/second-renaissance-whitepaper.pdf" target="_blank" class="btn-primary self-start">Read Paper (PDF)</a>
+      <a href="https://drive.google.com/file/d/1GjJBXhS2hyvAf-uM9DbUTwE5Slh6MJel/view?usp=drive_link" target="_blank" class="btn-primary self-start">Read Paper (PDF)</a>
     </div>
   </div>
 
   <!-- Paper 2 -->
   <div class="flex flex-col md:flex-row gap-8 items-start">
-    <a href="/assets/second-renaissance-how-whitepaper-2.pdf" target="_blank" class="shrink-0 md:w-64">
+    <a href="https://drive.google.com/file/d/1K2jqmqycjdxzgF2FGU7huXejaEU8y6KJ/view?usp=drive_link" target="_blank" class="shrink-0 md:w-64">
       <img src="/assets/img/paper/whitepaper-2-cover.png" alt="Paper 2 Cover" class="w-full rounded-lg shadow-lg">
     </a>
     <div class="flex flex-col">
@@ -51,7 +51,7 @@ image: /assets/img/previews/papers-preview.jpg
       <h3 class="text-2xl md:text-3xl font-bold mb-2">How of a Second Renaissance</h3>
       <p class="text-sm text-gray-500 mb-3">Sylvie Barbier, Rosie Bell & Rufus Pollock · 2024</p>
       <p class="text-gray-600 mb-6">How can paradigmatic cultural change and a second renaissance come about? This paper examines the dynamics of paradigm shifts — how they emerge, what drives them, and what conditions support deep cultural transformation at scale.</p>
-      <a href="/assets/second-renaissance-how-whitepaper-2.pdf" target="_blank" class="btn-primary self-start">Read Paper (PDF)</a>
+      <a href="https://drive.google.com/file/d/1K2jqmqycjdxzgF2FGU7huXejaEU8y6KJ/view?usp=drive_link" target="_blank" class="btn-primary self-start">Read Paper (PDF)</a>
     </div>
   </div>
 
