@@ -204,16 +204,6 @@ layout: plain
         <p>Includes a cozy shared room and nourishing meals,</p>
         <p>→ For those who enjoy community and a simple, restful space.</p>
       </div>
-      <div>
-        <p class="font-semibold">€399 –  Silence</p>
-        <p>Includes a private room and nourishing meals.</p>
-        <p>→ For those who seek spaciousness, and deep rest.</p>
-      </div>
-      <div>
-        <p class="font-semibold">€859 – Solitude</p>
-        <p>Includes your own studio with private bathroom, kitchenette and nourishing meals</p>
-        <p>→ For those who seek quietness and privacy.</p>
-      </div>
       <p>You can stay extra nights before or after. If you are interested to stay an extra night please get in touch.</p>
     </div>
   </section>
