@@ -14,11 +14,8 @@ layout: plain
       Art of Ritual Residency:<br>
       <span class="italic text-3xl md:text-6xl">Shadow Work &amp; Creative Rebirth</span>
     </h1>
-    <p class="text-lg md:text-2xl tracking-wide uppercase mb-8">24-31 July 2026</p>
-    <div class="flex flex-wrap items-center justify-center gap-4">
-      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
-      <a href="https://luma.com/event/evt-FZ5LIJyRoTjKBw0" class="luma-checkout--button btn-primary" data-luma-action="checkout" data-luma-event-id="evt-FZ5LIJyRoTjKBw0">Come to a discovery call (free)</a>
-    </div>
+    <p class="text-lg md:text-2xl tracking-wide uppercase mb-6">24-31 July 2026</p>
+    <p class="inline-block px-6 py-2 bg-red-sr text-white text-lg md:text-xl uppercase tracking-widest rounded-full font-semibold">Fully booked</p>
   </div>
 </header>
 
@@ -43,7 +40,6 @@ layout: plain
       <p class="text-base text-gray-500">
         Photography by <a href="https://www.instagram.com/lucilavairo/" target="_blank" rel="noopener" class="hover:underline">Lucila Vairo</a> (2025)
       </p>
-      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
     </div>
   </section>
 
@@ -86,9 +82,6 @@ layout: plain
       <p class="mb-6">In the midst of shadow and death, something new wants to be born. This is the art of birthing an emerging dream for our collective future. Together we are offering a place for the past, present and future to be witnessed, released and reclaimed.</p>
       <p class="mb-6">The intention is not to “resolve” the shadow, but to enter into a relationship with it—to let it teach, awaken, and reshape us and give room for light to emerge.</p>
       <p class="mb-6">Our work is informed by Carl Jung, Thich Nhat Hanh, Joanna Macy, Bill Plotkins, Francis Weller, Bayo Akomolafe, Ursula Le Guin, Joseph Beuys, Marina Abramović , Vest &amp; Page, Butoh, Ken Wilber, Bill Viola, Mary Overlie.</p>
-      <div class="mt-8 text-center">
-        <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
-      </div>
     </div>
   </section>
 
@@ -155,7 +148,6 @@ layout: plain
       <p class="mb-4">There is no fixed fee for the transmission, instead you are free to make a gift-based contribution. The <strong>suggested contribution is between €340 and €550</strong> to support the space and the facilitators.</p>
       <p class="mb-4">Those who are able to give help sustain the space and open it for others. We trust each person to choose their contribution with care and integrity. And any amount is welcome.</p>
       <p class="text-base text-gray-600 mb-6">Note: accommodation and food costs are separate and listed below.</p>
-      <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
     </div>
   </section>
 
@@ -207,8 +199,4 @@ layout: plain
       <p>You can stay extra nights before or after. If you are interested to stay an extra night please get in touch.</p>
     </div>
   </section>
-  <section class="text-center">
-    <a href="https://ti.to/art-earth-tech/art-of-ritual-2026" class="btn-primary" target="_blank" rel="noopener">Book your ticket</a>
-  </section>
 </main>
-<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
