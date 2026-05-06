@@ -5,6 +5,8 @@ description: A deeper successor to the Explorer course — two intensive online 
 
 # The Sensemaking Course
 
+<a href="https://luma.com/sbvb4e2m" class="btn-primary">Register Interest →</a>
+
 ## You see the crisis clearly. Now go deeper.
 
 The Explorer course gave you a framework: symptoms, diagnosis, prognosis, a reason for hope. It was an orientation.
@@ -14,6 +16,8 @@ The Sensemaking Course is the next step for those who want more than orientation
 That means going beyond the framework into its foundations: the real intellectual history of Modernity, the philosophy beneath the crisis, the thinkers who've mapped this territory most honestly, and what genuine paradigm shift has looked like in history — from the inside.
 
 The format matches the ambition: two immersive weekends online, a gap between for personal inquiry, and a cohort small enough that real thinking — and real community — can happen.
+
+Designed to work across time zones. Can't make every session? Recordings mean you stay in the thread even when life gets in the way.
 
 ---
 
@@ -26,6 +30,7 @@ The format matches the ambition: two immersive weekends online, a gap between fo
 | **Prerequisite** | Explorer course or equivalent background |
 | **Led by** | Rufus Pollock & Sylvie Barbier · Life Itself |
 | **Dates** | TBD — driven by demand |
+| **Timezone** | Online — sessions timed to work across Europe, Americas, and beyond |
 | **Price** | TBD |
 
 ---
