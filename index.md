@@ -512,7 +512,7 @@ layout: plain
               and get support.
             </p>
             <p class="mt-6">
-              <a href="https://discord.gg/nNRt6V9jA4" class="btn-primary">
+              <a href="https://forum.secondrenaissance.net/t/first-steps-for-new-members/5" class="btn-primary">
                 Visit Forum
               </a>
             </p>
