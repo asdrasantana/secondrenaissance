@@ -23,8 +23,8 @@ layout: plain
       weaving voices of transformation and healing.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="https://buy.stripe.com/8x2dR93Ui4Js9ZRb0mds407" target="_blank" class="btn-primary">
-        Subscribe — €40 / year
+      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
+        Subscribe — €35 / year
       </a>
       <a href="https://buy.stripe.com/aFa28reyW2Bkdc3d8uds406" target="_blank"
         class="border border-white/60 text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 backdrop-blur-sm hover:border-white hover:bg-white/10">
@@ -124,7 +124,7 @@ layout: plain
       </div>
     </div>
     <div class="text-center pt-8">
-      <a href="https://buy.stripe.com/8x2dR93Ui4Js9ZRb0mds407" target="_blank" class="btn-primary">
+      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
         Subscribe to receive Issue #2
       </a>
     </div>
@@ -167,7 +167,7 @@ layout: plain
         <div>
           <p class="text-red-sr tracking-widest text-xs uppercase font-medium mb-2">Subscriber</p>
           <div class="flex items-baseline gap-2">
-            <span class="font-elsie text-5xl font-black">€40</span>
+            <span class="font-elsie text-5xl font-black">€35</span>
             <span class="text-gray-400 text-lg">/ year</span>
           </div>
         </div>
@@ -186,7 +186,7 @@ layout: plain
             Entry into the Second Renaissance community
           </li>
         </ul>
-        <a href="https://buy.stripe.com/8x2dR93Ui4Js9ZRb0mds407" target="_blank" class="btn-primary w-full justify-center">
+        <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary w-full justify-center">
           Subscribe Now
         </a>
       </div>
@@ -229,8 +229,9 @@ layout: plain
     <div class="text-center mt-12">
       <p class="text-gray-400 text-sm mb-3">Just want to try one issue first?</p>
       <a href="https://buy.stripe.com/4gM9AT62qcbUc7Z5G2ds404" target="_blank" class="text-gray-600 hover:text-red-sr font-medium underline underline-offset-4 transition-colors">
-        Buy a single issue →
+        Buy a single issue — €40 →
       </a>
+      <p class="text-gray-400 text-xs mt-2">€35 + €5 shipping</p>
     </div>
   </div>
 </section>
