@@ -28,7 +28,7 @@ layout: plain
       </a>
       <a href="https://buy.stripe.com/9B66oHduS3Fob3V7Oads408" target="_blank"
         class="border border-white/60 text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 backdrop-blur-sm hover:border-white hover:bg-white/10">
-        Buy Issue #2: Mythos
+        Buy Issue #2: Mythos — €40
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7-7 7"/>
         </svg>
