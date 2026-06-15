@@ -23,7 +23,7 @@ layout: plain
       weaving voices of transformation and healing.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
+      <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
         Subscribe — €35 / year
       </a>
       <a href="https://buy.stripe.com/9B66oHduS3Fob3V7Oads408" target="_blank"
@@ -124,7 +124,7 @@ layout: plain
       </div>
     </div>
     <div class="text-center pt-8">
-      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
+      <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
         Subscribe to receive Issue #2
       </a>
     </div>
@@ -186,7 +186,7 @@ layout: plain
             Entry into the Second Renaissance community
           </li>
         </ul>
-        <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary w-full justify-center">
+        <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary w-full justify-center">
           Subscribe Now
         </a>
       </div>
@@ -275,7 +275,7 @@ layout: plain
     </h2>
     <p class="text-gray-500 text-xl">Subscribe and receive Issue #2: Mythos — coming soon.</p>
     <div class="pt-4 flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="https://buy.stripe.com/3cIcN5fD01xgb3Vc4qds403" target="_blank" class="btn-primary">
+      <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
         Subscribe — €35 / year
       </a>
       <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2"
