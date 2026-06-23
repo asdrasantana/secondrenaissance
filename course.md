@@ -30,10 +30,10 @@ layout: plain
     </p>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
-        href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ"
+        href="https://luma.com/event/evt-5I6j1rsTeeBHhPn"
         class="btn-primary"
         data-luma-action="checkout"
-        data-luma-event-id="evt-vtZuX8RdOKIYCbZ"
+        data-luma-event-id="evt-5I6j1rsTeeBHhPn"
       >
         Register Now
       </a>
@@ -78,10 +78,10 @@ layout: plain
     </ul>
     <div class="mt-8 text-center">
       <a
-        href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ"
+        href="https://luma.com/event/evt-5I6j1rsTeeBHhPn"
         class="btn-primary"
         data-luma-action="checkout"
-        data-luma-event-id="evt-vtZuX8RdOKIYCbZ"
+        data-luma-event-id="evt-5I6j1rsTeeBHhPn"
       >
         Register Now
       </a>
@@ -282,10 +282,10 @@ layout: plain
     </p>
     <div class="mt-8">
       <a
-        href="https://luma.com/event/evt-vtZuX8RdOKIYCbZ"
+        href="https://luma.com/event/evt-5I6j1rsTeeBHhPn"
         class="btn-primary"
         data-luma-action="checkout"
-        data-luma-event-id="evt-vtZuX8RdOKIYCbZ"
+        data-luma-event-id="evt-5I6j1rsTeeBHhPn"
       >
         Register Now
       </a>
