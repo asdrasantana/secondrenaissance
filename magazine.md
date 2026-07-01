@@ -19,8 +19,7 @@ layout: plain
       MAGAZINE
     </h1>
     <p class="font-elsie text-2xl md:text-4xl text-white/90 italic leading-snug mb-10 max-w-2xl text-shadow-sm">
-      A cultural beacon for a new era of art &amp; thought —
-      weaving voices of transformation and healing.
+      A magazine for the ones whose heart burns to see a new world emerge.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
       <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
@@ -46,13 +45,14 @@ layout: plain
       </h2>
       <div class="w-16 h-0.5 bg-red-sr"></div>
       <p class="text-gray-600 text-xl leading-relaxed">
-        When you subscribe, you don't just receive a publication — you connect to a living community of artists, thinkers, and creators working to birth a new cultural paradigm.
-      </p>
-      <p class="text-gray-500 text-xl leading-relaxed">
-        Each issue is an experience: a doorway into another world. Visual art, poetry, philosophy, and performance woven into something intimate, poetic, and transformative. You'll feel the pulse of a renaissance happening right now.
+        Our yearly publication weaves the art and voices of an emerging cultural paradigm. Marrying the artistic, political and spiritual world.
       </p>
       <p class="font-elsie text-2xl text-gray-700 italic leading-relaxed border-l-2 border-red-sr pl-5">
-        "Art is not decoration. It is alchemy."
+        "Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing"
+        <span class="block mt-3 text-base not-italic text-gray-500 tracking-wide">— Arundhati Roy</span>
+      </p>
+      <p class="text-gray-500 text-xl leading-relaxed">
+        When you subscribe to the Second Renaissance Magazine you become part of a living community working to birth a new cultural paradigm. One which explores how we might live and relate in a time of profound death, creation and rebirth.
       </p>
     </div>
     <div class="relative">
@@ -73,11 +73,23 @@ layout: plain
         ISSUE #2: MYTHOS
       </h2>
       <p class="text-white/60 max-w-xl mx-auto font-elsie italic text-2xl">
-        Myth is not the opposite of truth — it is truth's oldest language.
+        "Every renaissance begins with a shift in how human beings understand themselves"
+        <span class="block mt-3 text-sm not-italic text-white/40 tracking-widest uppercase">— Jim Palmer</span>
       </p>
       <div>
-        <span class="badge-sr">Coming Soon · Submissions Closed</span>
+        <span class="badge-sr">Shipping Now</span>
       </div>
+    </div>
+    <div class="max-w-3xl mx-auto space-y-6 text-center">
+      <p class="text-white/70 text-xl leading-relaxed">
+        Our latest issue <em>Mythos</em> explores how myths shape what we call sacred and remember. It explores the tension in our inherited narratives and reveals how myths become vessels for our moral and psychological orientation and with that comes a quiet dissonance: between what happened, what we believe happened, and what we long to become. It is within this tension that myths take form.
+      </p>
+      <p class="text-white/70 text-xl leading-relaxed">
+        With this issue <em>Mythos</em> becomes embodied through art, poetry shared around firelight rituals, stories told in film and spread through memes. Alive, they shape our way of being and, like a virus, contaminate us; they carry themselves forward through culture, image, and memory.
+      </p>
+      <p class="font-elsie text-2xl md:text-3xl text-white/90 italic leading-relaxed pt-4">
+        "Myth is not the opposite of truth. It is truth's oldest language."
+      </p>
     </div>
     <div class="text-center">
       <p class="text-white/40 text-xs tracking-widest uppercase">A glimpse inside</p>
@@ -128,6 +140,55 @@ layout: plain
         Subscribe to receive Issue #2
       </a>
     </div>
+  </div>
+</section>
+<section class="bg-gray-900 py-20 md:py-28 px-6 md:px-12 border-t border-white/10">
+  <div class="max-w-5xl mx-auto">
+    <div class="text-center space-y-4 mb-14">
+      <p class="tracking-[0.3em] text-xs uppercase font-medium" style="color:#ad2831">Issue #2 · Mythos</p>
+      <h2 class="font-elsie text-4xl md:text-5xl font-black text-white tracking-tight">Contributors</h2>
+    </div>
+    <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-8 gap-y-3 text-white/70 text-lg font-elsie text-center sm:text-left">
+      <li>Sylvie Barbier</li>
+      <li>Elegance Block</li>
+      <li>Kevin Bowers</li>
+      <li>Ganga Devi Braun</li>
+      <li>Schuyler Brown</li>
+      <li>Marlo Candìa</li>
+      <li>Vladislav Chabanenko</li>
+      <li>Sophie Charrois</li>
+      <li>Brendan Graham Dempsey</li>
+      <li>Primavera De Filippi</li>
+      <li>Valerie Duvauchelle</li>
+      <li>Elysian Emanaia</li>
+      <li>Avi Brandon Finegold</li>
+      <li>Oliver Hillenkamp</li>
+      <li>Sam Hinds</li>
+      <li>Cheryl Hsu</li>
+      <li>Liam Kavanagh</li>
+      <li>River Kenna</li>
+      <li>Jote Lamar</li>
+      <li>Jessica Libor</li>
+      <li>Rosa Lewis</li>
+      <li>Tany Liu Zhong</li>
+      <li>Nathalie Nahai</li>
+      <li>Guillaume Pascale</li>
+      <li>Layman Pascal</li>
+      <li>Jim Palmer</li>
+      <li>Jérémy Pilain</li>
+      <li>Ronja Polzin</li>
+      <li>Max Pugh</li>
+      <li>Rupert Read</li>
+      <li>Mark Smith</li>
+      <li>Jack Tezam</li>
+      <li>Nick Todhunter</li>
+      <li>Lucila Vairo</li>
+      <li>Wojciech Węgrzyński</li>
+      <li>Jonah Wilberg</li>
+      <li>Lauren Wigmore</li>
+      <li>Amanda Zamparo Franco</li>
+      <li>Naeema Zarif</li>
+    </ul>
   </div>
 </section>
 <section class="py-24 md:py-32 px-6 md:px-12 bg-stone-50">
@@ -273,7 +334,7 @@ layout: plain
       Ready to be part of<br>
       <em>the Second Renaissance?</em>
     </h2>
-    <p class="text-gray-500 text-xl">Subscribe and receive Issue #2: Mythos — coming soon.</p>
+    <p class="text-gray-500 text-xl">Subscribe and receive Issue #2: Mythos, shipping now.</p>
     <div class="pt-4 flex flex-col sm:flex-row gap-4 justify-center">
       <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
         Subscribe — €35 / year
