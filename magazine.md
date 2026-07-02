@@ -19,7 +19,7 @@ layout: plain
       MAGAZINE
     </h1>
     <p class="font-elsie text-2xl md:text-4xl text-white/90 italic leading-snug mb-10 max-w-2xl text-shadow-sm">
-      A magazine for the ones whose heart burns to see a new world emerge.
+      A magazine for those whose hearts burn to see a new world emerge.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
       <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
