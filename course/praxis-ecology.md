@@ -17,7 +17,7 @@ layout: plain
     <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
       With Valérie Duvauchelle
       <br />
-      Designing responsive conscious community -
+      Designing responsive conscious community
       <br />
       the secular monasteries of Second Renaissance
     </p>
@@ -26,7 +26,7 @@ layout: plain
     </h1>
     <!-- hidden until provided: emphasised second line + opening hook
     <div class="mt-4">
-      <span class="inline-block bg-[#ad2831] text-white px-4 py-2 text-3xl sm:text-5xl font-bold tracking-tight leading-none">
+      <span class="inline-block bg-[#FE7C47] text-white px-4 py-2 text-3xl sm:text-5xl font-bold tracking-tight leading-none">
         [emphasised second line]
       </span>
     </div>
@@ -62,9 +62,26 @@ layout: plain
     <h2 class="text-3xl md:text-4xl mt-12 mb-6">Key info</h2>
     <ul class="space-y-3 text-gray-800 leading-relaxed list-none pl-0">
       <li><strong>When:</strong> Starting 15 September 2026</li>
-      <!-- hidden until provided: Format and Where -->
+      <li><strong>Format:</strong> 6 sessions across 3 months</li>
+      <li><strong>Where:</strong> Online</li>
+      <li><strong>Recordings:</strong> Available for anyone who can't attend live</li>
       <li><strong>Led by:</strong> Valérie Duvauchelle · Life Itself</li>
       <li><strong>Price:</strong> €250 · Early bird 30% off before 15 August</li>
+    </ul>
+    <h3 class="text-2xl font-bold mt-10 mb-4">Schedule</h3>
+    <ul class="space-y-2 text-gray-800 leading-relaxed list-none pl-0">
+      <li><strong>15 Sep</strong> · Free introductory webinar</li>
+      <li><strong>22 Sep</strong> · Module 1</li>
+      <li><strong>29 Sep</strong> · Live session 1</li>
+      <li><strong>6 Oct</strong> · Module 2</li>
+      <li><strong>13 Oct</strong> · Live session 2</li>
+      <li><strong>20 Oct</strong> · Module 3</li>
+      <li><strong>27 Oct</strong> · Live session 3</li>
+      <li><strong>3 Nov</strong> · Module 4</li>
+      <li><strong>10 Nov</strong> · Live session 4</li>
+      <li><strong>17 Nov</strong> · Module 5</li>
+      <li><strong>24 Nov</strong> · Live session 5</li>
+      <li><strong>1 Dec</strong> · Live session 6 · cohort presentations</li>
     </ul>
     <!-- Register Now hidden until registration link is available
     <div class="mt-8 text-center">
@@ -78,7 +95,7 @@ layout: plain
   <!-- COURSE STRUCTURE -->
   <section class="max-w-2xl mx-auto">
     <h2 class="text-3xl md:text-5xl mb-2">Course structure</h2>
-    <p class="text-[#ad2831] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
+    <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
     <p class="text-xl text-gray-600 leading-relaxed">
       The program opens with a free, one-hour introductory webinar, live and recorded, allowing prospective participants to assess whether the framework fits their context. It then unfolds over six sessions across three months, combining short self-paced videos, questionnaires, and paired design tasks with live sessions led by Valérie every two weeks.
     </p>
@@ -86,19 +103,19 @@ layout: plain
       At the center of the course is the ARC, a set of five Minimum Viable Practices that participants use to build their own project:
     </p>
     <ul class="mt-8 space-y-5 list-none pl-0">
-      <li class="border-l-4 border-[#ad2831] pl-6">
+      <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Sitting in the Trouble</span> — staying present with difficulty rather than reacting or escaping
       </li>
-      <li class="border-l-4 border-[#ad2831] pl-6">
+      <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Activating the Body</span> — using embodiment to stabilize awareness and ground action
       </li>
-      <li class="border-l-4 border-[#ad2831] pl-6">
+      <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Moving Together</span> — building shared rhythms, roles, and coordination
       </li>
-      <li class="border-l-4 border-[#ad2831] pl-6">
+      <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Cooking Together</span> — organizing food as a daily collective anchor
       </li>
-      <li class="border-l-4 border-[#ad2831] pl-6">
+      <li class="border-l-4 border-[#FE7C47] pl-6">
         <span class="font-bold text-gray-900">Connecting</span> — cultivating belonging, trust, and perspective-sharing
       </li>
     </ul>
@@ -111,15 +128,15 @@ layout: plain
   <section>
     <h2 class="text-3xl md:text-5xl mb-10 text-center">What you'll come away with</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#ad2831]">
+      <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#FE7C47]">
         <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 1]</h3>
         <p class="text-gray-600">[description]</p>
       </div>
-      <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#ad2831]">
+      <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#FE7C47]">
         <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 2]</h3>
         <p class="text-gray-600">[description]</p>
       </div>
-      <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#ad2831]">
+      <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#FE7C47]">
         <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 3]</h3>
         <p class="text-gray-600">[description]</p>
       </div>
@@ -131,23 +148,23 @@ layout: plain
   <section>
     <h2 class="text-3xl md:text-5xl mb-10 text-center">[journey heading]</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
-      <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 1]</div>
+      <div class="border-l-4 border-[#FE7C47] pl-6">
+        <div class="text-[#FE7C47] font-semibold text-sm uppercase tracking-wider mb-1">[Session 1]</div>
         <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
         <p class="text-gray-600">[description]</p>
       </div>
-      <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 2]</div>
+      <div class="border-l-4 border-[#FE7C47] pl-6">
+        <div class="text-[#FE7C47] font-semibold text-sm uppercase tracking-wider mb-1">[Session 2]</div>
         <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
         <p class="text-gray-600">[description]</p>
       </div>
-      <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 3]</div>
+      <div class="border-l-4 border-[#FE7C47] pl-6">
+        <div class="text-[#FE7C47] font-semibold text-sm uppercase tracking-wider mb-1">[Session 3]</div>
         <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
         <p class="text-gray-600">[description]</p>
       </div>
-      <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 4]</div>
+      <div class="border-l-4 border-[#FE7C47] pl-6">
+        <div class="text-[#FE7C47] font-semibold text-sm uppercase tracking-wider mb-1">[Session 4]</div>
         <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
         <p class="text-gray-600">[description]</p>
       </div>
@@ -198,15 +215,15 @@ layout: plain
     <h2 class="text-3xl md:text-5xl mb-8">Is this for you?</h2>
     <ul class="space-y-5 list-none pl-0">
       <li class="flex gap-4 items-start">
-        <span class="text-[#ad2831] font-bold text-xl mt-0.5">&rarr;</span>
+        <span class="text-[#FE7C47] font-bold text-xl mt-0.5">&rarr;</span>
         <span class="text-xl text-gray-700">[audience point 1]</span>
       </li>
       <li class="flex gap-4 items-start">
-        <span class="text-[#ad2831] font-bold text-xl mt-0.5">&rarr;</span>
+        <span class="text-[#FE7C47] font-bold text-xl mt-0.5">&rarr;</span>
         <span class="text-xl text-gray-700">[audience point 2]</span>
       </li>
       <li class="flex gap-4 items-start">
-        <span class="text-[#ad2831] font-bold text-xl mt-0.5">&rarr;</span>
+        <span class="text-[#FE7C47] font-bold text-xl mt-0.5">&rarr;</span>
         <span class="text-xl text-gray-700">[audience point 3]</span>
       </li>
     </ul>
@@ -218,7 +235,7 @@ layout: plain
   <section class="bg-gray-900 rounded-3xl p-8 md:p-12 text-center text-white">
     <h2 class="text-4xl sm:text-5xl font-bold leading-tight">
       [closing headline]<br>
-      <span class="inline-block mt-3 bg-[#ad2831] text-white px-4 py-2">[emphasised close]</span>
+      <span class="inline-block mt-3 bg-[#FE7C47] text-white px-4 py-2">[emphasised close]</span>
     </h2>
     <p class="mt-6 text-xl text-white/70">
       [one-line summary]
