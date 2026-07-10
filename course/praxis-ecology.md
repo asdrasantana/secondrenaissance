@@ -14,6 +14,9 @@ layout: plain
   />
   <div class="absolute inset-0 -z-10 bg-black/50"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">
+    <p class="mb-4">
+      <a href="/course/praxis-ecology-fr" class="text-white/90 underline hover:text-white text-sm">en français</a>
+    </p>
     <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
       With Valérie Duvauchelle
       <br />
