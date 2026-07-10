@@ -278,4 +278,13 @@ layout: plain
   </section>
   -->
 
+  <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />
+
+  <!-- CONTACT -->
+  <section class="max-w-2xl mx-auto text-center">
+    <p class="text-lg text-gray-600">
+      Contact Valérie for any questions at <a href="mailto:praxis@lifeitself.org" class="text-[#FE7C47] font-semibold underline hover:no-underline">praxis@lifeitself.org</a>.
+    </p>
+  </section>
+
 </main>
