@@ -128,6 +128,13 @@ layout: plain
       <li><strong>24 nov.</strong> · Session en direct 5</li>
       <li><strong>1er déc.</strong> · Session en direct 6 · présentations de la cohorte</li>
     </ul>
+    <p class="mt-8 text-xl text-gray-600 leading-relaxed">Chaque module comprend :</p>
+    <ul class="mt-4 space-y-2 text-gray-800 leading-relaxed list-disc pl-6">
+      <li>2 à 4 vidéos, dont des vidéos d'invité·es</li>
+      <li>Des documents et des liens relatifs au thème</li>
+      <li>Des questions de réflexion pour accompagner votre propre démarche de design</li>
+      <li>Une session en direct où nous partageons et échangeons ensemble</li>
+    </ul>
   </section>
 
   <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />

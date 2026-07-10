@@ -145,6 +145,13 @@ layout: plain
       <li><strong>24 Nov</strong> · Live session 5</li>
       <li><strong>1 Dec</strong> · Live session 6 · cohort presentations</li>
     </ul>
+    <p class="mt-8 text-xl text-gray-600 leading-relaxed">Each module includes:</p>
+    <ul class="mt-4 space-y-2 text-gray-800 leading-relaxed list-disc pl-6">
+      <li>2 to 4 videos, including guest videos</li>
+      <li>Supporting documents and links related to the theme</li>
+      <li>Reflection questions to support your own design process</li>
+      <li>A live session where we all share</li>
+    </ul>
   </section>
 
   <!-- WHAT YOU'LL GET — hidden until content ready
