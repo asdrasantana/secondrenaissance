@@ -33,7 +33,7 @@ layout: plain
     </p>
     -->
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a href="#" class="btn-primary">
+      <a href="#" class="btn-primary" style="background-color:#FE7C47">
         Register
       </a>
     </div>
@@ -42,6 +42,15 @@ layout: plain
     </p>
   </div>
 </div>
+
+<!-- PROMO POSTER — inserted after hero -->
+<section class="px-4 py-12">
+  <img
+    src="/assets/img/course/praxis-ecology-poster.png"
+    alt="Praxis Ecology, online — a frame to live in community. September 15, 2026, free webinar."
+    class="mx-auto w-full max-w-lg rounded-2xl shadow-lg"
+  />
+</section>
 
 <main id="about" class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-20 text-lg">
   <!-- OPENING PITCH -->
@@ -131,11 +140,18 @@ layout: plain
   -->
 
   <!-- FACILITATORS -->
-  <section class="bg-gray-900 text-white rounded-3xl p-8 md:p-12">
-    <h2 class="text-3xl md:text-5xl mb-10">Who's facilitating</h2>
-    <div class="grid grid-cols-1 gap-12">
-      <div>
-        <h3 class="text-xl font-bold text-[#ad2831] mb-3">Valérie Duvauchelle</h3>
+  <section class="bg-[#FE7C47] text-white rounded-3xl p-8 md:p-12">
+    <h2 class="text-3xl md:text-5xl mb-10">Your facilitator</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-8 items-start">
+      <div class="sm:col-span-1">
+        <img
+          src="/assets/img/course/valerie-duvauchelle.jpg"
+          alt="Valérie Duvauchelle"
+          class="w-full rounded-2xl object-cover"
+        />
+      </div>
+      <div class="sm:col-span-2">
+        <h3 class="text-xl font-bold text-white mb-3">Valérie Duvauchelle</h3>
         <p class="text-white/80 leading-relaxed">
           Valérie Duvauchelle is a contemplative activist and secular Zen nun in the Sōtō tradition. For the past fifteen years, she has carried the spirit of the tenzo — the Zen role of the one who "activates" food — into conscious communities around the world.
         </p>
