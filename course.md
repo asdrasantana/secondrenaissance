@@ -5,6 +5,25 @@ image: /assets/img/course/2r-course-wide.webp
 layout: plain
 ---
 
+<!-- PRAXIS ECOLOGY — card linking to the landing page -->
+<a href="/course/praxis-ecology" class="block group no-underline">
+  <div class="relative overflow-hidden rounded-3xl my-8 mx-auto max-w-5xl">
+    <img
+      src="/assets/img/course/praxis-ecology.jpeg"
+      alt="Praxis Ecology Design Course"
+      class="absolute inset-0 w-full h-full object-cover opacity-60 transition-opacity group-hover:opacity-75"
+    />
+    <div class="absolute inset-0 bg-black/50"></div>
+    <div class="relative p-8 md:p-14 text-center text-white">
+      <p class="text-sm font-semibold tracking-widest uppercase text-white/80 mb-3">New course · With Valérie Duvauchelle</p>
+      <h2 class="text-3xl md:text-5xl font-bold tracking-tight leading-tight">Praxis Ecology Design Course</h2>
+      <p class="mt-3 text-lg md:text-xl text-white/80 max-w-2xl mx-auto">Designing responsive conscious community - the secular monasteries of Second Renaissance</p>
+      <p class="mt-4 text-white/70">Starting 15 September 2026 · €250 · Early bird 30% off before 15 August</p>
+      <span class="inline-block mt-6 bg-[#ad2831] text-white px-8 py-3 text-sm font-semibold">Discover the course &rarr;</span>
+    </div>
+  </div>
+</a>
+
 <!-- HERO -->
 <div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center">
   <img

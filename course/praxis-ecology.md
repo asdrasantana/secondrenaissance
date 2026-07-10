@@ -1,6 +1,6 @@
 ---
 title: "Praxis Ecology Design Course"
-description: "[TODO: one-line description of the Praxis Ecology Design Course]"
+description: "Praxis Ecology Design Course with Valérie Duvauchelle. Designing responsive conscious community: the secular monasteries of a Second Renaissance. Starting 15 September 2026."
 image: /assets/img/course/praxis-ecology.jpeg
 layout: plain
 ---
@@ -17,32 +17,33 @@ layout: plain
     <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
       With Valérie Duvauchelle
       <br />
-      [TODO: subtitle — what the course explores, in one line]
+      Designing responsive conscious community - the secular monasteries of Second Renaissance
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
       Praxis Ecology Design Course
     </h1>
+    <!-- hidden until provided: emphasised second line + opening hook
     <div class="mt-4">
       <span class="inline-block bg-[#ad2831] text-white px-4 py-2 text-3xl sm:text-5xl font-bold tracking-tight leading-none">
-        [TODO: emphasised second line]
+        [emphasised second line]
       </span>
     </div>
     <p class="mt-8 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-      [TODO: opening hook — 1–2 sentences]
+      [opening hook]
     </p>
+    -->
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a
-        href="[TODO: registration link]"
-        class="btn-primary"
-      >
+      <!-- Register Now hidden until registration link is available
+      <a href="[registration link]" class="btn-primary">
         Register Now
       </a>
+      -->
       <a href="#about" class="btn-primary">
         Learn more
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
-      [TODO: price line, e.g. Sliding scale · from €10 · suggested €XX]
+      €250 · Early bird 30% off before 15 August
     </p>
   </div>
 </div>
@@ -50,86 +51,89 @@ layout: plain
 <main id="about" class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-20 text-lg">
   <!-- OPENING PITCH -->
   <section class="max-w-2xl mx-auto">
+    <!-- hidden until provided: opening paragraphs + one-line summary
     <p class="text-xl sm:text-2xl text-gray-700 leading-relaxed">
-      [TODO: opening paragraph — the invitation / the problem this course addresses]
+      [opening paragraph]
     </p>
     <p class="mt-6 text-xl sm:text-2xl text-gray-700 leading-relaxed">
-      [TODO: second paragraph — what the course offers]
+      [second paragraph]
     </p>
     <p class="mt-8 text-2xl sm:text-3xl font-bold text-gray-900">
-      [TODO: memorable one-line summary]
+      [memorable one-line summary]
     </p>
+    -->
     <h2 class="text-3xl md:text-4xl mt-12 mb-6">Key info</h2>
     <ul class="space-y-3 text-gray-800 leading-relaxed list-none pl-0">
       <li><strong>When:</strong> Starting 15 September 2026</li>
-      <li><strong>Format:</strong> [TODO: e.g. 4 live sessions of 1h30 + pre-recorded materials]</li>
-      <li><strong>Where:</strong> [TODO: Online · small group]</li>
+      <!-- hidden until provided: Format and Where -->
       <li><strong>Led by:</strong> Valérie Duvauchelle · Life Itself</li>
-      <li><strong>Price:</strong> [TODO: price]</li>
+      <li><strong>Price:</strong> €250 · Early bird 30% off before 15 August</li>
     </ul>
+    <!-- Register Now hidden until registration link is available
     <div class="mt-8 text-center">
-      <a
-        href="[TODO: registration link]"
-        class="btn-primary"
-      >
+      <a href="[registration link]" class="btn-primary">
         Register Now
       </a>
     </div>
+    -->
   </section>
 
-  <!-- WHAT YOU'LL GET -->
+  <!-- WHAT YOU'LL GET — hidden until content ready
   <section>
     <h2 class="text-3xl md:text-5xl mb-10 text-center">What you'll come away with</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
       <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#ad2831]">
-        <h3 class="text-lg font-bold text-gray-900 mb-2">[TODO: outcome 1]</h3>
-        <p class="text-gray-600">[TODO: description]</p>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 1]</h3>
+        <p class="text-gray-600">[description]</p>
       </div>
       <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#ad2831]">
-        <h3 class="text-lg font-bold text-gray-900 mb-2">[TODO: outcome 2]</h3>
-        <p class="text-gray-600">[TODO: description]</p>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 2]</h3>
+        <p class="text-gray-600">[description]</p>
       </div>
       <div class="bg-white rounded-2xl border border-gray-200 p-6 border-t-4 border-t-[#ad2831]">
-        <h3 class="text-lg font-bold text-gray-900 mb-2">[TODO: outcome 3]</h3>
-        <p class="text-gray-600">[TODO: description]</p>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">[outcome 3]</h3>
+        <p class="text-gray-600">[description]</p>
       </div>
     </div>
   </section>
+  -->
 
-  <!-- MODULES / SESSIONS -->
+  <!-- MODULES / SESSIONS — hidden until content ready
   <section>
-    <h2 class="text-3xl md:text-5xl mb-10 text-center">[TODO: journey heading, e.g. The journey]</h2>
+    <h2 class="text-3xl md:text-5xl mb-10 text-center">[journey heading]</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-10">
       <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[TODO: Session 1]</div>
-        <h3 class="text-xl font-bold text-gray-900 mb-3">[TODO: title]</h3>
-        <p class="text-gray-600">[TODO: description]</p>
+        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 1]</div>
+        <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
+        <p class="text-gray-600">[description]</p>
       </div>
       <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[TODO: Session 2]</div>
-        <h3 class="text-xl font-bold text-gray-900 mb-3">[TODO: title]</h3>
-        <p class="text-gray-600">[TODO: description]</p>
+        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 2]</div>
+        <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
+        <p class="text-gray-600">[description]</p>
       </div>
       <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[TODO: Session 3]</div>
-        <h3 class="text-xl font-bold text-gray-900 mb-3">[TODO: title]</h3>
-        <p class="text-gray-600">[TODO: description]</p>
+        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 3]</div>
+        <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
+        <p class="text-gray-600">[description]</p>
       </div>
       <div class="border-l-4 border-[#ad2831] pl-6">
-        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[TODO: Session 4]</div>
-        <h3 class="text-xl font-bold text-gray-900 mb-3">[TODO: title]</h3>
-        <p class="text-gray-600">[TODO: description]</p>
+        <div class="text-[#ad2831] font-semibold text-sm uppercase tracking-wider mb-1">[Session 4]</div>
+        <h3 class="text-xl font-bold text-gray-900 mb-3">[title]</h3>
+        <p class="text-gray-600">[description]</p>
       </div>
     </div>
   </section>
+  -->
 
-  <!-- HOW IT WORKS -->
+  <!-- HOW IT WORKS — hidden until content ready
   <section class="max-w-2xl mx-auto">
     <h2 class="text-3xl md:text-5xl mb-8">How it works</h2>
     <p class="text-xl text-gray-600 leading-relaxed">
-      [TODO: how the course is run — format, rhythm, what a week looks like]
+      [how the course is run]
     </p>
   </section>
+  -->
 
   <!-- FACILITATORS -->
   <section class="bg-gray-900 text-white rounded-3xl p-8 md:p-12">
@@ -137,50 +141,48 @@ layout: plain
     <div class="grid grid-cols-1 gap-12">
       <div>
         <h3 class="text-xl font-bold text-[#ad2831] mb-3">Valérie Duvauchelle</h3>
-        <p class="text-white/80 leading-relaxed">[TODO: short bio]</p>
+        <!-- bio hidden until provided -->
       </div>
     </div>
   </section>
 
-  <!-- IS THIS FOR YOU -->
+  <!-- IS THIS FOR YOU — hidden until content ready
   <section class="max-w-2xl mx-auto">
     <h2 class="text-3xl md:text-5xl mb-8">Is this for you?</h2>
     <ul class="space-y-5 list-none pl-0">
       <li class="flex gap-4 items-start">
         <span class="text-[#ad2831] font-bold text-xl mt-0.5">&rarr;</span>
-        <span class="text-xl text-gray-700">[TODO: audience point 1]</span>
+        <span class="text-xl text-gray-700">[audience point 1]</span>
       </li>
       <li class="flex gap-4 items-start">
         <span class="text-[#ad2831] font-bold text-xl mt-0.5">&rarr;</span>
-        <span class="text-xl text-gray-700">[TODO: audience point 2]</span>
+        <span class="text-xl text-gray-700">[audience point 2]</span>
       </li>
       <li class="flex gap-4 items-start">
         <span class="text-[#ad2831] font-bold text-xl mt-0.5">&rarr;</span>
-        <span class="text-xl text-gray-700">[TODO: audience point 3]</span>
+        <span class="text-xl text-gray-700">[audience point 3]</span>
       </li>
     </ul>
-    <p class="mt-8 text-lg text-gray-400 italic">[TODO: reassurance line, e.g. No prior knowledge needed.]</p>
+    <p class="mt-8 text-lg text-gray-400 italic">[reassurance line]</p>
   </section>
+  -->
 
-  <!-- FINAL CTA -->
+  <!-- FINAL CTA — hidden until content ready
   <section class="bg-gray-900 rounded-3xl p-8 md:p-12 text-center text-white">
     <h2 class="text-4xl sm:text-5xl font-bold leading-tight">
-      [TODO: closing headline]<br>
-      <span class="inline-block mt-3 bg-[#ad2831] text-white px-4 py-2">[TODO: emphasised close]</span>
+      [closing headline]<br>
+      <span class="inline-block mt-3 bg-[#ad2831] text-white px-4 py-2">[emphasised close]</span>
     </h2>
     <p class="mt-6 text-xl text-white/70">
-      [TODO: one-line summary — format, dates]
+      [one-line summary]
     </p>
     <div class="mt-8">
-      <a
-        href="[TODO: registration link]"
-        class="btn-primary"
-      >
+      <a href="[registration link]" class="btn-primary">
         Register Now
       </a>
     </div>
     <p class="mt-6 text-white/40 text-sm">
-      [TODO: price line] · Questions? hello@lifeitself.org
+      €250 · Early bird 30% off before 15 August · Questions? hello@lifeitself.org
     </p>
     <div class="mt-8 text-white/30 text-sm">
       <a href="https://secondrenaissance.net" class="underline hover:text-white/60">secondrenaissance.net</a>
@@ -188,5 +190,6 @@ layout: plain
       <a href="https://secondrenaissance.net/paper" class="underline hover:text-white/60">Download the whitepaper</a>
     </div>
   </section>
+  -->
 
 </main>
