@@ -54,7 +54,7 @@ layout: plain
 
   <!-- PROMO VIDEO -->
   <section class="max-w-sm mx-auto px-4">
-    <video controls playsinline preload="metadata" class="w-full rounded-2xl shadow-lg">
+    <video id="praxis-video" controls playsinline preload="metadata" class="w-full rounded-2xl shadow-lg">
       <source src="/assets/video/valerie-duvauchelle-promo.mp4" type="video/mp4" />
       <track kind="subtitles" src="/assets/video/valerie-duvauchelle-promo-fr.vtt" srclang="fr" label="Français" default />
       Votre navigateur ne prend pas en charge la lecture vidéo.
@@ -172,3 +172,23 @@ layout: plain
   </section>
 
 </main>
+
+<script>
+  (function () {
+    var v = document.getElementById('praxis-video');
+    if (!v) return;
+    function showSubs() {
+      var tt = v.textTracks;
+      if (!tt || !tt.length) return;
+      for (var i = 0; i < tt.length; i++) {
+        tt[i].mode = (tt[i].kind === 'subtitles' || tt[i].language === 'fr') ? 'showing' : 'disabled';
+      }
+    }
+    showSubs();
+    v.addEventListener('loadedmetadata', showSubs);
+    v.addEventListener('loadeddata', showSubs);
+    if (v.textTracks && v.textTracks.addEventListener) {
+      v.textTracks.addEventListener('addtrack', showSubs);
+    }
+  })();
+</script>
