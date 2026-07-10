@@ -33,13 +33,8 @@ layout: plain
     </p>
     -->
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <!-- Register Now hidden until registration link is available
-      <a href="[registration link]" class="btn-primary">
-        Register Now
-      </a>
-      -->
-      <a href="#about" class="btn-primary">
-        Learn more
+      <a href="#" class="btn-primary">
+        Register
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
@@ -141,7 +136,18 @@ layout: plain
     <div class="grid grid-cols-1 gap-12">
       <div>
         <h3 class="text-xl font-bold text-[#ad2831] mb-3">Valérie Duvauchelle</h3>
-        <!-- bio hidden until provided -->
+        <p class="text-white/80 leading-relaxed">
+          Valérie Duvauchelle is a contemplative activist and secular Zen nun in the Sōtō tradition. For the past fifteen years, she has carried the spirit of the tenzo — the Zen role of the one who "activates" food — into conscious communities around the world.
+        </p>
+        <p class="mt-4 text-white/80 leading-relaxed">
+          A pioneer of the Life Itself movement, she has spent years developing, at the Riverside Life Itself Hub in Bergerac, France, a praxis ecology for what she calls the cosmic monks of the Second Renaissance.
+        </p>
+        <p class="mt-4 text-white/80 leading-relaxed">
+          She is the author of two French-language books — <em>Le goût du silence, la pratique zen de l'alimentation</em> (Actes Sud) and <em>Shōjin, la cuisine zen des temples</em> (Hachette) — in which she shows how sitting, cooking, working, and celebrating are equally sacred acts: each one a way of manifesting a fully lived life.
+        </p>
+        <p class="mt-4 text-white/80 leading-relaxed">
+          You can see her journey <a href="https://www.lacuisinedelabienveillance.org/en/les-messagers" class="underline hover:text-white">here</a>.
+        </p>
       </div>
     </div>
   </section>
