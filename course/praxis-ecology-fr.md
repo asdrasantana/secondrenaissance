@@ -28,12 +28,18 @@ layout: plain
       Cours de Design Praxis Ecology
     </h1>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a href="#" class="btn-primary" style="background-color:#FE7C47">
-        S'inscrire
+      <a id="praxis-earlybird" href="https://buy.stripe.com/eVqdR92Qe3Foeg71pMds40b" class="btn-primary" style="background-color:#FE7C47">
+        Early bird · 175 €
+      </a>
+      <a href="https://buy.stripe.com/5kQ28r4Ym8ZIc7ZgkGds40a" class="btn-primary" style="background-color:#FE7C47">
+        S'inscrire · 250 €
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
       250 € · 30 % de réduction avant le 15 août
+    </p>
+    <p class="mt-2 text-white/70 text-sm">
+      <a href="mailto:praxis@lifeitself.org?subject=Demande%20de%20bourse%20-%20Cours%20de%20Design%20Praxis%20Ecology" class="underline hover:text-white">Faire une demande de bourse</a>
     </p>
   </div>
 </div>
@@ -178,3 +184,13 @@ layout: plain
   </section>
 
 </main>
+
+<script>
+  (function () {
+    // Tarif early bird valable jusqu'au 15 août 2026 ; masquer le bouton ensuite
+    var eb = document.getElementById('praxis-earlybird');
+    if (eb && new Date() >= new Date('2026-08-16T00:00:00')) {
+      eb.style.display = 'none';
+    }
+  })();
+</script>

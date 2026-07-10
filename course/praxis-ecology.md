@@ -38,12 +38,18 @@ layout: plain
     </p>
     -->
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a href="#" class="btn-primary" style="background-color:#FE7C47">
-        Register
+      <a id="praxis-earlybird" href="https://buy.stripe.com/eVqdR92Qe3Foeg71pMds40b" class="btn-primary" style="background-color:#FE7C47">
+        Early bird · €175
+      </a>
+      <a href="https://buy.stripe.com/5kQ28r4Ym8ZIc7ZgkGds40a" class="btn-primary" style="background-color:#FE7C47">
+        Register · €250
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
       €250 · Early bird 30% off before 15 August
+    </p>
+    <p class="mt-2 text-white/70 text-sm">
+      <a href="mailto:praxis@lifeitself.org?subject=Scholarship%20application%20-%20Praxis%20Ecology%20Design%20Course" class="underline hover:text-white">Apply for a scholarship</a>
     </p>
   </div>
 </div>
@@ -298,3 +304,13 @@ layout: plain
   </section>
 
 </main>
+
+<script>
+  (function () {
+    // Early bird valid through 15 August 2026; hide the button afterwards
+    var eb = document.getElementById('praxis-earlybird');
+    if (eb && new Date() >= new Date('2026-08-16T00:00:00')) {
+      eb.style.display = 'none';
+    }
+  })();
+</script>
