@@ -23,6 +23,7 @@
         "name": "Course",
         "links": [
           { "href": "/course/praxis-ecology", "name": "Praxis: Ecology" },
+          { "href": "/course/praxis-ecology-fr", "name": "Praxis Ecology (en français)" },
           { "href": "/course", "name": "Intro to the Metacrisis" }
         ]
       },

@@ -56,6 +56,7 @@ layout: plain
   <section class="max-w-sm mx-auto px-4">
     <video controls playsinline preload="metadata" class="w-full rounded-2xl shadow-lg">
       <source src="/assets/video/valerie-duvauchelle-promo.mp4" type="video/mp4" />
+      <track kind="subtitles" src="/assets/video/valerie-duvauchelle-promo-fr.vtt" srclang="fr" label="Français" default />
       Votre navigateur ne prend pas en charge la lecture vidéo.
     </video>
   </section>
