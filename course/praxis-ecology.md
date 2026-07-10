@@ -17,7 +17,9 @@ layout: plain
     <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
       With Valérie Duvauchelle
       <br />
-      Designing responsive conscious community - the secular monasteries of Second Renaissance
+      Designing responsive conscious community -
+      <br />
+      the secular monasteries of Second Renaissance
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
       Praxis Ecology Design Course
@@ -71,6 +73,38 @@ layout: plain
       </a>
     </div>
     -->
+  </section>
+
+  <!-- COURSE STRUCTURE -->
+  <section class="max-w-2xl mx-auto">
+    <h2 class="text-3xl md:text-5xl mb-2">Course structure</h2>
+    <p class="text-[#ad2831] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
+    <p class="text-xl text-gray-600 leading-relaxed">
+      The program opens with a free, one-hour introductory webinar, live and recorded, allowing prospective participants to assess whether the framework fits their context. It then unfolds over six sessions across three months, combining short self-paced videos, questionnaires, and paired design tasks with live sessions led by Valérie every two weeks.
+    </p>
+    <p class="mt-6 text-xl text-gray-600 leading-relaxed">
+      At the center of the course is the ARC, a set of five Minimum Viable Practices that participants use to build their own project:
+    </p>
+    <ul class="mt-8 space-y-5 list-none pl-0">
+      <li class="border-l-4 border-[#ad2831] pl-6">
+        <span class="font-bold text-gray-900">Sitting in the Trouble</span> — staying present with difficulty rather than reacting or escaping
+      </li>
+      <li class="border-l-4 border-[#ad2831] pl-6">
+        <span class="font-bold text-gray-900">Activating the Body</span> — using embodiment to stabilize awareness and ground action
+      </li>
+      <li class="border-l-4 border-[#ad2831] pl-6">
+        <span class="font-bold text-gray-900">Moving Together</span> — building shared rhythms, roles, and coordination
+      </li>
+      <li class="border-l-4 border-[#ad2831] pl-6">
+        <span class="font-bold text-gray-900">Cooking Together</span> — organizing food as a daily collective anchor
+      </li>
+      <li class="border-l-4 border-[#ad2831] pl-6">
+        <span class="font-bold text-gray-900">Connecting</span> — cultivating belonging, trust, and perspective-sharing
+      </li>
+    </ul>
+    <p class="mt-8 text-xl text-gray-600 leading-relaxed">
+      Each session guides participants to design their own Minimum Viable Practice, culminating in a sixth live session where the full cohort presents their individual Praxis Ecology designs — plans that can be applied to settings ranging from a one-week retreat to a three-day gathering, a three-month co-living experiment, or ongoing community life.
+    </p>
   </section>
 
   <!-- WHAT YOU'LL GET — hidden until content ready
