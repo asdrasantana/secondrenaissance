@@ -20,8 +20,11 @@
         ]
       },
       {
-        "href": "/course",
-        "name": "Course"
+        "name": "Course",
+        "links": [
+          { "href": "/course/praxis-ecology", "name": "Praxis: Ecology" },
+          { "href": "/course", "name": "Intro to the Metacrisis" }
+        ]
       },
       {
         "href": "/oasis",
