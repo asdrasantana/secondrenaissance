@@ -1,6 +1,6 @@
 ---
-title: "Cours de conception Praxis Ecology"
-description: "Cours de conception Praxis Ecology avec Valérie Duvauchelle. Concevoir une communauté consciente et vivante : les monastères laïques de la Seconde Renaissance. À partir du 15 septembre 2026."
+title: "Cours de Design Praxis Ecology"
+description: "Cours de Design Praxis Ecology avec Valérie Duvauchelle. Concevoir une communauté consciente et vivante : les monastères laïques de la Seconde Renaissance. À partir du 15 septembre 2026."
 image: /assets/img/course/praxis-ecology.jpeg
 layout: plain
 ---
@@ -25,7 +25,7 @@ layout: plain
       les monastères laïques de la Seconde Renaissance
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
-      Cours de conception Praxis Ecology
+      Cours de Design Praxis Ecology
     </h1>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a href="#" class="btn-primary" style="background-color:#FE7C47">
@@ -105,7 +105,7 @@ layout: plain
       </li>
     </ul>
     <p class="mt-8 text-xl text-gray-600 leading-relaxed">
-      Chaque session guide les participant·es dans la conception de leur propre Pratique Minimale Viable, jusqu'à une sixième session en direct où l'ensemble de la cohorte présente ses conceptions de praxis ecology : des plans applicables à des contextes variés, d'une retraite d'une semaine à un rassemblement de trois jours, une expérience de cohabitation de trois mois ou une vie communautaire au long cours.
+      Chaque session guide les participant·es dans le design de leur propre Pratique Minimale Viable, jusqu'à une sixième session en direct où l'ensemble de la cohorte présente ses conceptions de praxis ecology : des plans applicables à des contextes variés, d'une retraite d'une semaine à un rassemblement de trois jours, une expérience de cohabitation de trois mois ou une vie communautaire au long cours.
     </p>
   </section>
 
