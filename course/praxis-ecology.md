@@ -43,15 +43,6 @@ layout: plain
   </div>
 </div>
 
-<!-- PROMO POSTER — inserted after hero -->
-<section class="px-4 py-12">
-  <img
-    src="/assets/img/course/praxis-ecology-poster.png"
-    alt="Praxis Ecology, online — a frame to live in community. September 15, 2026, free webinar."
-    class="mx-auto w-full max-w-lg rounded-2xl shadow-lg"
-  />
-</section>
-
 <main id="about" class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-20 text-lg">
   <!-- OPENING PITCH -->
   <section class="max-w-2xl mx-auto">
