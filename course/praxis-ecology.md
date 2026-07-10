@@ -47,17 +47,23 @@ layout: plain
 
 <main id="about" class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-20 text-lg">
   <!-- OPENING PITCH -->
-  <section class="max-w-2xl mx-auto">
-    <p class="text-2xl sm:text-3xl font-bold text-gray-900">
+  <section class="bg-[#FE7C47] text-white rounded-3xl p-8 md:p-12 max-w-2xl mx-auto text-center">
+    <p class="text-2xl sm:text-3xl font-bold">
       An ecology of conscious community living
     </p>
-    <p class="mt-6 text-xl sm:text-2xl text-gray-700 leading-relaxed">
+    <p class="mt-6 text-xl sm:text-2xl leading-relaxed">
       Come explore. Come share. Come make sense of community, together.
     </p>
-    <p class="mt-6 text-xl sm:text-2xl text-gray-700 leading-relaxed">
+    <p class="mt-6 text-xl sm:text-2xl leading-relaxed">
       Rooted in an ancestral way of life, anchored in zen tradition, this course invites you to design your own praxis ecology, a living structure for how you build, sustain, and belong to community.
     </p>
-    <h2 class="text-3xl md:text-4xl mt-12 mb-6">Key info</h2>
+  </section>
+
+  <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />
+
+  <!-- KEY INFO + SCHEDULE -->
+  <section class="max-w-2xl mx-auto">
+    <h2 class="text-3xl md:text-4xl mb-6">Key info</h2>
     <ul class="space-y-3 text-gray-800 leading-relaxed list-none pl-0">
       <li><strong>When:</strong> Starting 15 September 2026</li>
       <li><strong>Format:</strong> 6 sessions across 3 months</li>
@@ -66,7 +72,54 @@ layout: plain
       <li><strong>Led by:</strong> Valérie Duvauchelle · Life Itself</li>
       <li><strong>Price:</strong> €250 · Early bird 30% off before 15 August</li>
     </ul>
-    <h3 class="text-2xl font-bold mt-10 mb-4">Schedule</h3>
+    <!-- Register Now hidden until registration link is available
+    <div class="mt-8 text-center">
+      <a href="[registration link]" class="btn-primary">
+        Register Now
+      </a>
+    </div>
+    -->
+  </section>
+
+  <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />
+
+  <!-- COURSE STRUCTURE -->
+  <section class="max-w-2xl mx-auto">
+    <h2 class="text-3xl md:text-5xl mb-2">Course structure</h2>
+    <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
+    <p class="text-xl text-gray-600 leading-relaxed">
+      The program opens with a free, one-hour introductory webinar, live and recorded, allowing prospective participants to assess whether the framework fits their context. It then unfolds over six sessions across three months, combining short self-paced videos, questionnaires, and paired design tasks with live sessions led by Valérie every two weeks.
+    </p>
+    <p class="mt-6 text-xl text-gray-600 leading-relaxed">
+      At the center of the course is the ARC, a set of five Minimum Viable Practices that participants use to build their own project:
+    </p>
+    <ul class="mt-8 space-y-5 list-none pl-0">
+      <li class="border-l-4 border-[#FE7C47] pl-6">
+        <span class="font-bold text-gray-900">Sitting in the Trouble</span>: staying present with difficulty rather than reacting or escaping
+      </li>
+      <li class="border-l-4 border-[#FE7C47] pl-6">
+        <span class="font-bold text-gray-900">Activating the Body</span>: using embodiment to stabilize awareness and ground action
+      </li>
+      <li class="border-l-4 border-[#FE7C47] pl-6">
+        <span class="font-bold text-gray-900">Moving Together</span>: building shared rhythms, roles, and coordination
+      </li>
+      <li class="border-l-4 border-[#FE7C47] pl-6">
+        <span class="font-bold text-gray-900">Cooking Together</span>: organizing food as a daily collective anchor
+      </li>
+      <li class="border-l-4 border-[#FE7C47] pl-6">
+        <span class="font-bold text-gray-900">Connecting</span>: cultivating belonging, trust, and perspective-sharing
+      </li>
+    </ul>
+    <p class="mt-8 text-xl text-gray-600 leading-relaxed">
+      Each session guides participants to design their own Minimum Viable Practice, culminating in a sixth live session where the full cohort presents their individual Praxis Ecology designs, plans that can be applied to settings ranging from a one-week retreat to a three-day gathering, a three-month co-living experiment, or ongoing community life.
+    </p>
+  </section>
+
+  <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />
+
+  <!-- SCHEDULE -->
+  <section class="max-w-2xl mx-auto">
+    <h2 class="text-3xl md:text-4xl mb-6">Schedule</h2>
     <ul class="space-y-2 text-gray-800 leading-relaxed list-none pl-0">
       <li><strong>15 Sep</strong> · Free introductory webinar</li>
       <li><strong>22 Sep</strong> · Module 1</li>
@@ -81,45 +134,6 @@ layout: plain
       <li><strong>24 Nov</strong> · Live session 5</li>
       <li><strong>1 Dec</strong> · Live session 6 · cohort presentations</li>
     </ul>
-    <!-- Register Now hidden until registration link is available
-    <div class="mt-8 text-center">
-      <a href="[registration link]" class="btn-primary">
-        Register Now
-      </a>
-    </div>
-    -->
-  </section>
-
-  <!-- COURSE STRUCTURE -->
-  <section class="max-w-2xl mx-auto">
-    <h2 class="text-3xl md:text-5xl mb-2">Course structure</h2>
-    <p class="text-[#FE7C47] font-semibold text-lg uppercase tracking-wider mb-8">6 sessions across 3 months</p>
-    <p class="text-xl text-gray-600 leading-relaxed">
-      The program opens with a free, one-hour introductory webinar, live and recorded, allowing prospective participants to assess whether the framework fits their context. It then unfolds over six sessions across three months, combining short self-paced videos, questionnaires, and paired design tasks with live sessions led by Valérie every two weeks.
-    </p>
-    <p class="mt-6 text-xl text-gray-600 leading-relaxed">
-      At the center of the course is the ARC, a set of five Minimum Viable Practices that participants use to build their own project:
-    </p>
-    <ul class="mt-8 space-y-5 list-none pl-0">
-      <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Sitting in the Trouble</span> — staying present with difficulty rather than reacting or escaping
-      </li>
-      <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Activating the Body</span> — using embodiment to stabilize awareness and ground action
-      </li>
-      <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Moving Together</span> — building shared rhythms, roles, and coordination
-      </li>
-      <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Cooking Together</span> — organizing food as a daily collective anchor
-      </li>
-      <li class="border-l-4 border-[#FE7C47] pl-6">
-        <span class="font-bold text-gray-900">Connecting</span> — cultivating belonging, trust, and perspective-sharing
-      </li>
-    </ul>
-    <p class="mt-8 text-xl text-gray-600 leading-relaxed">
-      Each session guides participants to design their own Minimum Viable Practice, culminating in a sixth live session where the full cohort presents their individual Praxis Ecology designs — plans that can be applied to settings ranging from a one-week retreat to a three-day gathering, a three-month co-living experiment, or ongoing community life.
-    </p>
   </section>
 
   <!-- WHAT YOU'LL GET — hidden until content ready
@@ -179,6 +193,8 @@ layout: plain
   </section>
   -->
 
+  <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />
+
   <!-- FACILITATORS -->
   <section class="bg-[#FE7C47] text-white rounded-3xl p-8 md:p-12">
     <h2 class="text-3xl md:text-5xl mb-10">Your facilitator</h2>
@@ -193,13 +209,13 @@ layout: plain
       <div class="sm:col-span-2">
         <h3 class="text-xl font-bold text-white mb-3">Valérie Duvauchelle</h3>
         <p class="text-white/80 leading-relaxed">
-          Valérie Duvauchelle is a contemplative activist and secular Zen nun in the Sōtō tradition. For the past fifteen years, she has carried the spirit of the tenzo — the Zen role of the one who "activates" food — into conscious communities around the world.
+          Valérie Duvauchelle is a contemplative activist and secular Zen nun in the Sōtō tradition. For the past fifteen years, she has carried the spirit of the tenzo, the Zen role of the one who "activates" food, into conscious communities around the world.
         </p>
         <p class="mt-4 text-white/80 leading-relaxed">
           A pioneer of the Life Itself movement, she has spent years developing, at the Riverside Life Itself Hub in Bergerac, France, a praxis ecology for what she calls the cosmic monks of the Second Renaissance.
         </p>
         <p class="mt-4 text-white/80 leading-relaxed">
-          She is the author of two French-language books — <em>Le goût du silence, la pratique zen de l'alimentation</em> (Actes Sud) and <em>Shōjin, la cuisine zen des temples</em> (Hachette) — in which she shows how sitting, cooking, working, and celebrating are equally sacred acts: each one a way of manifesting a fully lived life.
+          She is the author of two French-language books, <em>Le goût du silence, la pratique zen de l'alimentation</em> (Actes Sud) and <em>Shōjin, la cuisine zen des temples</em> (Hachette), in which she shows how sitting, cooking, working, and celebrating are equally sacred acts: each one a way of manifesting a fully lived life.
         </p>
         <p class="mt-4 text-white/80 leading-relaxed">
           You can see her journey <a href="https://www.lacuisinedelabienveillance.org/en/les-messagers" class="underline hover:text-white">here</a>.
