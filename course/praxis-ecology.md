@@ -59,6 +59,14 @@ layout: plain
     </p>
   </section>
 
+  <!-- PROMO VIDEO -->
+  <section class="max-w-sm mx-auto px-4">
+    <video controls playsinline preload="metadata" class="w-full rounded-2xl shadow-lg">
+      <source src="/assets/video/valerie-duvauchelle-promo.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </section>
+
   <hr class="w-24 mx-auto border-t-2 border-[#FE7C47]" />
 
   <!-- KEY INFO + SCHEDULE -->
