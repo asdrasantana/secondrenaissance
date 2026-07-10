@@ -48,17 +48,15 @@ layout: plain
 <main id="about" class="max-w-4xl mx-auto px-4 py-16 md:py-24 space-y-20 text-lg">
   <!-- OPENING PITCH -->
   <section class="max-w-2xl mx-auto">
-    <!-- hidden until provided: opening paragraphs + one-line summary
-    <p class="text-xl sm:text-2xl text-gray-700 leading-relaxed">
-      [opening paragraph]
+    <p class="text-2xl sm:text-3xl font-bold text-gray-900">
+      An ecology of conscious community living
     </p>
     <p class="mt-6 text-xl sm:text-2xl text-gray-700 leading-relaxed">
-      [second paragraph]
+      Come explore. Come share. Come make sense of community, together.
     </p>
-    <p class="mt-8 text-2xl sm:text-3xl font-bold text-gray-900">
-      [memorable one-line summary]
+    <p class="mt-6 text-xl sm:text-2xl text-gray-700 leading-relaxed">
+      Rooted in an ancestral way of life, anchored in zen tradition, this course invites you to design your own praxis ecology, a living structure for how you build, sustain, and belong to community.
     </p>
-    -->
     <h2 class="text-3xl md:text-4xl mt-12 mb-6">Key info</h2>
     <ul class="space-y-3 text-gray-800 leading-relaxed list-none pl-0">
       <li><strong>When:</strong> Starting 15 September 2026</li>
