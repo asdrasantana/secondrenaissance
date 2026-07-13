@@ -33,6 +33,9 @@ layout: plain
         </svg>
       </a>
     </div>
+    <p class="text-white/70 text-sm italic mt-6 text-shadow-sm">
+      Orders for the USA are coming soon while we set up shipping. Thanks for bearing with us.
+    </p>
   </div>
 </header>
 <section class="py-24 md:py-36 px-6 md:px-12 max-w-6xl mx-auto">
@@ -293,6 +296,7 @@ layout: plain
         Buy a single issue — €40 →
       </a>
       <p class="text-gray-400 text-xs mt-2">€35 + €5 shipping</p>
+      <p class="text-gray-500 text-sm italic mt-6">Orders for the USA are coming soon while we set up shipping. Thanks for bearing with us.</p>
     </div>
   </div>
 </section>
@@ -345,6 +349,7 @@ layout: plain
         Download Issue #1 Free
       </a>
     </div>
+    <p class="text-gray-500 text-sm italic mt-6">Orders for the USA are coming soon while we set up shipping. Thanks for bearing with us.</p>
     <p class="text-gray-400 text-xs mt-6">
       Questions? Write to <a href="mailto:art@secondrenaissance.net" class="text-red-sr hover:underline">art@secondrenaissance.net</a>
     </p>
