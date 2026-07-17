@@ -22,7 +22,7 @@ layout: plain
       A magazine for those whose hearts burn to see a new world emerge.
     </p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
+      <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary hidden">
         Subscribe — €35 / year
       </a>
       <a href="https://buy.stripe.com/9B66oHduS3Fob3V7Oads408" target="_blank"
@@ -135,7 +135,7 @@ layout: plain
         >
       </div>
     </div>
-    <div class="text-center pt-8">
+    <div class="text-center pt-8 hidden">
       <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
         Subscribe to receive Issue #2
       </a>
@@ -224,7 +224,7 @@ layout: plain
       </p>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-      <div class="border border-gray-200 rounded-3xl p-8 md:p-10 space-y-6 hover:border-red-sr transition-colors duration-300 hover:shadow-lg">
+      <div class="border border-gray-200 rounded-3xl p-8 md:p-10 space-y-6 hover:border-red-sr transition-colors duration-300 hover:shadow-lg hidden">
         <div>
           <p class="text-red-sr tracking-widest text-xs uppercase font-medium mb-2">Subscriber</p>
           <div class="flex items-baseline gap-2">
@@ -336,7 +336,7 @@ layout: plain
     </h2>
     <p class="text-gray-500 text-xl">Subscribe and receive Issue #2: Mythos, shipping now.</p>
     <div class="pt-4 flex flex-col sm:flex-row gap-4 justify-center">
-      <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary">
+      <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary hidden">
         Subscribe — €35 / year
       </a>
       <a href="https://renaissance.metalabel.com/second-renaissance-magazine-01?variantId=2"
