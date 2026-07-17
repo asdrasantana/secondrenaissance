@@ -25,7 +25,7 @@ layout: plain
       <a href="https://buy.stripe.com/14A4gzgH43Foeg7gkGds409" target="_blank" class="btn-primary hidden">
         Subscribe — €35 / year
       </a>
-      <a href="https://buy.stripe.com/9B66oHduS3Fob3V7Oads408" target="_blank"
+      <a href="https://buy.stripe.com/28E14n1Maek21tl8Seds40d" target="_blank"
         class="border border-white/60 text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 backdrop-blur-sm hover:border-white hover:bg-white/10">
         Buy Issue #2: Mythos — €34 + shipping
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -289,7 +289,7 @@ layout: plain
     </div>
     <div class="text-center mt-12">
       <p class="text-gray-400 text-sm mb-3">Just want to try one issue first?</p>
-      <a href="https://buy.stripe.com/9B66oHduS3Fob3V7Oads408" target="_blank" class="text-gray-600 hover:text-red-sr font-medium underline underline-offset-4 transition-colors">
+      <a href="https://buy.stripe.com/28E14n1Maek21tl8Seds40d" target="_blank" class="text-gray-600 hover:text-red-sr font-medium underline underline-offset-4 transition-colors">
         Buy a single issue — €34 + shipping →
       </a>
       <p class="text-gray-400 text-xs mt-2">€34 + shipping</p>
