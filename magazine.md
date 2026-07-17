@@ -27,15 +27,12 @@ layout: plain
       </a>
       <a href="https://buy.stripe.com/9B66oHduS3Fob3V7Oads408" target="_blank"
         class="border border-white/60 text-white px-8 py-4 rounded-full font-baskerville tracking-widest text-sm uppercase transition-all flex items-center gap-3 backdrop-blur-sm hover:border-white hover:bg-white/10">
-        Buy Issue #2: Mythos — €40
+        Buy Issue #2: Mythos — €34 + shipping
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7-7 7"/>
         </svg>
       </a>
     </div>
-    <p class="text-white/70 text-sm italic mt-6 text-shadow-sm">
-      Orders for the USA are coming soon while we set up shipping. Thanks for bearing with us.
-    </p>
   </div>
 </header>
 <section class="py-24 md:py-36 px-6 md:px-12 max-w-6xl mx-auto">
@@ -293,10 +290,9 @@ layout: plain
     <div class="text-center mt-12">
       <p class="text-gray-400 text-sm mb-3">Just want to try one issue first?</p>
       <a href="https://buy.stripe.com/9B66oHduS3Fob3V7Oads408" target="_blank" class="text-gray-600 hover:text-red-sr font-medium underline underline-offset-4 transition-colors">
-        Buy a single issue — €40 →
+        Buy a single issue — €34 + shipping →
       </a>
-      <p class="text-gray-400 text-xs mt-2">€35 + €5 shipping</p>
-      <p class="text-gray-500 text-sm italic mt-6">Orders for the USA are coming soon while we set up shipping. Thanks for bearing with us.</p>
+      <p class="text-gray-400 text-xs mt-2">€34 + shipping</p>
     </div>
   </div>
 </section>
@@ -349,7 +345,6 @@ layout: plain
         Download Issue #1 Free
       </a>
     </div>
-    <p class="text-gray-500 text-sm italic mt-6">Orders for the USA are coming soon while we set up shipping. Thanks for bearing with us.</p>
     <p class="text-gray-400 text-xs mt-6">
       Questions? Write to <a href="mailto:art@secondrenaissance.net" class="text-red-sr hover:underline">art@secondrenaissance.net</a>
     </p>
