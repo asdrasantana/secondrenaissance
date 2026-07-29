@@ -5,28 +5,6 @@ image: /assets/img/course/2r-course-wide.webp
 layout: plain
 ---
 
-<!-- PRAXIS ECOLOGY — full-bleed hero card linking to the landing page -->
-<a href="/course/praxis-ecology" class="block group no-underline">
-  <div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center">
-    <img
-      src="/assets/img/course/praxis-ecology.jpeg"
-      alt="Praxis Ecology Design Course"
-      class="absolute inset-0 -z-20 object-cover w-full h-full object-center opacity-60 transition-opacity group-hover:opacity-75"
-    />
-    <div class="absolute inset-0 -z-10 bg-black/50"></div>
-    <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">
-      <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">New course · With Valérie Duvauchelle</p>
-      <h2 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">Praxis Ecology Design Course</h2>
-      <p class="mt-6 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">Designing responsive conscious community - the secular monasteries of Second Renaissance</p>
-      <p class="mt-6 text-white/70 text-base sm:text-lg">Starting 15 September 2026 · €250 · Early bird 30% off before 15 August</p>
-      <span class="inline-block mt-8 bg-[#ad2831] text-white px-8 py-3 text-sm font-semibold tracking-wide">Discover the course &rarr;</span>
-    </div>
-  </div>
-</a>
-
-<!-- separator between the Praxis card and the previous course -->
-<hr class="max-w-4xl mx-auto my-16 border-t border-gray-300" />
-
 <!-- HERO -->
 <div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center">
   <img
