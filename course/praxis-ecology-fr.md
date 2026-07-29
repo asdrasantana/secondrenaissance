@@ -28,11 +28,16 @@ layout: plain
       Cours de Design Praxis Ecology
     </h1>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a id="praxis-earlybird" href="https://buy.stripe.com/eVqdR92Qe3Foeg71pMds40b" class="btn-primary" style="background-color:#FE7C47">
-        Early bird · 175 €
+      <a
+        href="https://luma.com/praxis-ecology-register-interest"
+        class="btn-primary"
+        data-luma-action="checkout"
+        data-luma-event-id="evt-6JAlDU6mksA05J4"
+      >
+        Manifestez votre intérêt et accédez en avant-première
       </a>
-      <a href="https://buy.stripe.com/5kQ28r4Ym8ZIc7ZgkGds40a" class="btn-primary" style="background-color:#FE7C47">
-        S'inscrire · 250 €
+      <a href="#about" class="btn-primary">
+        En savoir plus
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
@@ -185,12 +190,4 @@ layout: plain
 
 </main>
 
-<script>
-  (function () {
-    // Tarif early bird valable jusqu'au 15 août 2026 ; masquer le bouton ensuite
-    var eb = document.getElementById('praxis-earlybird');
-    if (eb && new Date() >= new Date('2026-08-16T00:00:00')) {
-      eb.style.display = 'none';
-    }
-  })();
-</script>
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>

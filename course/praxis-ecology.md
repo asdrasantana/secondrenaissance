@@ -38,11 +38,16 @@ layout: plain
     </p>
     -->
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
-      <a id="praxis-earlybird" href="https://buy.stripe.com/eVqdR92Qe3Foeg71pMds40b" class="btn-primary" style="background-color:#FE7C47">
-        Early bird · €175
+      <a
+        href="https://luma.com/praxis-ecology-register-interest"
+        class="btn-primary"
+        data-luma-action="checkout"
+        data-luma-event-id="evt-6JAlDU6mksA05J4"
+      >
+        Register your interest and get early access
       </a>
-      <a href="https://buy.stripe.com/5kQ28r4Ym8ZIc7ZgkGds40a" class="btn-primary" style="background-color:#FE7C47">
-        Register · €250
+      <a href="#about" class="btn-primary">
+        Learn more
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
@@ -89,10 +94,15 @@ layout: plain
       <li><strong>Led by:</strong> Valérie Duvauchelle · Life Itself</li>
       <li><strong>Price:</strong> €250 · Early bird 30% off before 15 August</li>
     </ul>
-    <!-- Register Now hidden until registration link is available
+    <!-- Interest CTA hidden until this section is ready
     <div class="mt-8 text-center">
-      <a href="[registration link]" class="btn-primary">
-        Register Now
+      <a
+        href="https://luma.com/praxis-ecology-register-interest"
+        class="btn-primary"
+        data-luma-action="checkout"
+        data-luma-event-id="evt-6JAlDU6mksA05J4"
+      >
+        Register your interest and get early access
       </a>
     </div>
     -->
@@ -279,8 +289,13 @@ layout: plain
       [one-line summary]
     </p>
     <div class="mt-8">
-      <a href="[registration link]" class="btn-primary">
-        Register Now
+      <a
+        href="https://luma.com/praxis-ecology-register-interest"
+        class="btn-primary"
+        data-luma-action="checkout"
+        data-luma-event-id="evt-6JAlDU6mksA05J4"
+      >
+        Register your interest and get early access
       </a>
     </div>
     <p class="mt-6 text-white/40 text-sm">
@@ -305,12 +320,4 @@ layout: plain
 
 </main>
 
-<script>
-  (function () {
-    // Early bird valid through 15 August 2026; hide the button afterwards
-    var eb = document.getElementById('praxis-earlybird');
-    if (eb && new Date() >= new Date('2026-08-16T00:00:00')) {
-      eb.style.display = 'none';
-    }
-  })();
-</script>
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
