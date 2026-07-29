@@ -6,27 +6,23 @@ layout: plain
 ---
 
 <!-- HERO -->
-<div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center">
+<div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center group">
   <img
     src="/assets/img/course/praxis-ecology.jpeg"
     alt="Des participants partageant un repas dans un jardin"
-    class="absolute inset-0 -z-20 object-cover w-full h-full object-center opacity-50"
+    class="absolute inset-0 -z-20 object-cover w-full h-full object-center opacity-60 transition-opacity group-hover:opacity-75"
   />
   <div class="absolute inset-0 -z-10 bg-black/50"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">
-    <p class="mb-4">
-      <a href="/course/praxis-ecology" class="text-white/90 underline hover:text-white text-sm">in English</a>
-    </p>
     <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
-      Avec Valérie Duvauchelle
-      <br />
-      Concevoir une communauté consciente et vivante
-      <br />
-      les monastères laïques de la Seconde Renaissance
+      Nouveau cours · Avec Valérie Duvauchelle
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
       Cours de Design Praxis Ecology
     </h1>
+    <p class="mt-6 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
+      Concevoir une communauté consciente et vivante — les monastères laïques d’une Seconde Renaissance
+    </p>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
         href="https://luma.com/praxis-ecology-register-interest"
@@ -41,10 +37,13 @@ layout: plain
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
-      250 € · 30 % de réduction avant le 15 août
+      À partir du 15 septembre 2026 · 250 € · 30 % de réduction avant le 15 août
     </p>
     <p class="mt-2 text-white/70 text-sm">
       <a href="mailto:praxis@lifeitself.org?subject=Demande%20de%20bourse%20-%20Cours%20de%20Design%20Praxis%20Ecology" class="underline hover:text-white">Faire une demande de bourse</a>
+    </p>
+    <p class="mt-6 text-white/70 text-sm">
+      <a href="/course/praxis-ecology" class="underline hover:text-white">in English &rarr;</a>
     </p>
   </div>
 </div>

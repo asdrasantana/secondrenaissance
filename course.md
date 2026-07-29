@@ -6,11 +6,11 @@ layout: plain
 ---
 
 <!-- HERO -->
-<div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center">
+<div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center group">
   <img
     src="/assets/img/course/course-people-discussing.png"
     alt="People in dialogue"
-    class="absolute inset-0 -z-20 object-cover w-full h-full object-top opacity-50"
+    class="absolute inset-0 -z-20 object-cover w-full h-full object-top opacity-50 transition-opacity group-hover:opacity-75"
   />
   <div class="absolute inset-0 -z-10 bg-black/50"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">

@@ -6,7 +6,7 @@ layout: plain
 ---
 
 <!-- HERO -->
-<div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center">
+<div class="relative isolate overflow-hidden min-h-[85vh] flex items-center justify-center group">
   <img
     src="/assets/img/course/praxis-ecology.jpeg"
     alt="Participants sharing a meal in a garden"
@@ -14,29 +14,15 @@ layout: plain
   />
   <div class="absolute inset-0 -z-10 bg-black/50"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">
-    <p class="mb-4">
-      <a href="/course/praxis-ecology-fr" class="text-white/90 underline hover:text-white text-sm">en français</a>
-    </p>
     <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
-      With Valérie Duvauchelle
-      <br />
-      Designing responsive conscious community
-      <br />
-      the secular monasteries of Second Renaissance
+      New course · With Valérie Duvauchelle
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
       Praxis Ecology Design Course
     </h1>
-    <!-- hidden until provided: emphasised second line + opening hook
-    <div class="mt-4">
-      <span class="inline-block bg-[#FE7C47] text-white px-4 py-2 text-3xl sm:text-5xl font-bold tracking-tight leading-none">
-        [emphasised second line]
-      </span>
-    </div>
-    <p class="mt-8 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-      [opening hook]
+    <p class="mt-6 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
+      Designing responsive conscious community — the secular monasteries of a Second Renaissance
     </p>
-    -->
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
         href="https://luma.com/praxis-ecology-register-interest"
@@ -51,10 +37,13 @@ layout: plain
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
-      €250 · Early bird 30% off before 15 August
+      Starting 15 September 2026 · €250 · Early bird 30% off before 15 August
     </p>
     <p class="mt-2 text-white/70 text-sm">
       <a href="mailto:praxis@lifeitself.org?subject=Scholarship%20application%20-%20Praxis%20Ecology%20Design%20Course" class="underline hover:text-white">Apply for a scholarship</a>
+    </p>
+    <p class="mt-6 text-white/70 text-sm">
+      <a href="/course/praxis-ecology-fr" class="underline hover:text-white">en français &rarr;</a>
     </p>
   </div>
 </div>
