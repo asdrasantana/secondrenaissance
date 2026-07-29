@@ -10,7 +10,7 @@ layout: plain
   <img
     src="/assets/img/course/praxis-ecology.jpeg"
     alt="Participants sharing a meal in a garden"
-    class="absolute inset-0 -z-20 object-cover w-full h-full object-center opacity-50"
+    class="absolute inset-0 -z-20 object-cover w-full h-full object-center opacity-60 transition-opacity group-hover:opacity-75"
   />
   <div class="absolute inset-0 -z-10 bg-black/50"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">
