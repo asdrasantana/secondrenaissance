@@ -15,9 +15,7 @@ layout: plain
   <div class="absolute inset-0 -z-10 bg-black/50"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-16 text-center text-white">
     <p class="text-sm sm:text-base font-semibold tracking-widest uppercase text-white/80 mb-6">
-      Introduction to the Metacrisis and a Second Renaissance
-      <br />
-      A 4-week online course exploring why crises are converging — and what's can emerge in response.
+      Explorer Course
     </p>
     <h1 class="text-5xl sm:text-7xl font-bold tracking-tight leading-none">
       The crisis goes deep
@@ -28,7 +26,7 @@ layout: plain
       </span>
     </div>
     <p class="mt-8 text-xl sm:text-2xl text-white/80 max-w-2xl mx-auto leading-relaxed">
-      Climate breakdown. Political polarisation. A spreading sense of meaninglessness. AI anxiety. These feel like separate problems — but what if they share the same root cause?
+      A 4-week journey from the roots of the metacrisis to the seeds of what's emerging next.
     </p>
     <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
@@ -44,7 +42,7 @@ layout: plain
       </a>
     </div>
     <p class="mt-4 text-white/70 text-base sm:text-lg">
-      Sliding scale · from €10 · suggested €50/$50
+      Sliding scale · from €20 · suggested €50/$50
     </p>
   </div>
 </div>
@@ -76,7 +74,7 @@ layout: plain
       <li><strong>Format:</strong> 4 live sessions of 1h30 + pre-recorded materials (~30–45 min/week)</li>
       <li><strong>Where:</strong> Online · small group</li>
       <li><strong>Led by:</strong> Rufus Pollock &amp; Sylvie Barbier · Life Itself</li>
-      <li><strong>Price:</strong> Sliding scale · from €10 · suggested €39/$39</li>
+      <li><strong>Price:</strong> Sliding scale · from €20 · suggested €50/$50</li>
     </ul>
     <div class="mt-8 text-center">
       <a
@@ -268,7 +266,7 @@ layout: plain
       </div>
       <div>
         <h3 class="text-lg font-bold text-gray-900 mb-2">What does it cost?</h3>
-        <p class="text-gray-600 text-lg">Sliding scale: suggested €39/$39, minimum €10. Pay more if you're able. Scholarships available — just email hello@lifeitself.org.</p>
+        <p class="text-gray-600 text-lg">Sliding scale: suggested €50/$50, minimum €20. Pay more if you're able. Scholarships available — just email hello@lifeitself.org.</p>
       </div>
     </div>
   </section>
@@ -293,7 +291,7 @@ layout: plain
       </a>
     </div>
     <p class="mt-6 text-white/40 text-sm">
-      Sliding scale · from €10 · suggested €39/$39 · Questions? hello@lifeitself.org
+      Sliding scale · from €20 · suggested €50/$50 · Questions? hello@lifeitself.org
     </p>
     <div class="mt-8 text-white/30 text-sm">
       <a href="https://secondrenaissance.net" class="underline hover:text-white/60">secondrenaissance.net</a>
