@@ -72,7 +72,7 @@ layout: plain
     </p>
     <h2 class="text-3xl md:text-4xl mt-12 mb-6">Key info</h2>
     <ul class="space-y-3 text-gray-800 leading-relaxed list-none pl-0">
-      <li><strong>When:</strong> 15 Apr · 22 Apr · 29 Apr · 6 May 2026</li>
+      <li><strong>When:</strong> Next cohort forming now — we run cohorts roughly twice a year (Spring &amp; Autumn), with exact dates confirmed once enough people register</li>
       <li><strong>Format:</strong> 4 live sessions of 1h30 + pre-recorded materials (~30–45 min/week)</li>
       <li><strong>Where:</strong> Online · small group</li>
       <li><strong>Led by:</strong> Rufus Pollock &amp; Sylvie Barbier · Life Itself</li>
@@ -280,7 +280,7 @@ layout: plain
       <span class="inline-block mt-3 bg-[#ad2831] text-white px-4 py-2">So is the renewal.</span>
     </h2>
     <p class="mt-6 text-xl text-white/70">
-      Four weeks online. Small group. Live dialogue. Starts 15 April.
+      Four weeks online. Small group. Live dialogue. Next cohort forming now.
     </p>
     <div class="mt-8">
       <a
