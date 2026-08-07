@@ -14,8 +14,9 @@ layout: plain
       Art of Ritual Residency:<br>
       <span class="italic text-3xl md:text-6xl">Shadow Work &amp; Creative Rebirth</span>
     </h1>
-    <p class="text-lg md:text-2xl tracking-wide uppercase mb-6">24-31 July 2026</p>
-    <p class="inline-block px-6 py-2 bg-red-sr text-white text-lg md:text-xl uppercase tracking-widest rounded-full font-semibold">Fully booked</p>
+    <p class="text-lg md:text-2xl tracking-wide uppercase mb-6">First installment · 24-31 July 2026</p>
+    <!-- TODO: wire up to email signup for future residency interest -->
+    <a href="#" class="btn-primary inline-flex">Register your interest for future residencies</a>
   </div>
 </header>
 
@@ -27,7 +28,7 @@ layout: plain
     </div>
     <div class="space-y-5 text-gray-800">
       <p>
-        Come and join us from the <strong>24th - 31st of July 2026</strong> for a transformative, artistic week around the theme of Shadow Work and Creative Rebirth with Sylvie Barbier (Ritual artist and co-founder of Life Itself) and Kay Michael (ecological artist and co-founder of Letters to the Earth), two female leaders powerfully alchemising art and eco-spirituality at the <strong>Life Itself Farmhouse Hub</strong> (Dordogne - France).
+        From the <strong>24th - 31st of July 2026</strong>, we gathered for a transformative, artistic week around the theme of Shadow Work and Creative Rebirth with Sylvie Barbier (Ritual artist and co-founder of Life Itself) and Kay Michael (ecological artist and co-founder of Letters to the Earth), two female leaders powerfully alchemising art and eco-spirituality at the <strong>Life Itself Farmhouse Hub</strong> (Dordogne - France).
       </p>
       <blockquote class="border-l-4 border-red-sr pl-5 italic text-xl text-gray-700">
         <strong>“<em>One does not become enlightened by imagining figures of light, but by making the darkness conscious</em>” - Carl Jung</strong>
