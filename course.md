@@ -44,6 +44,9 @@ layout: plain
     <p class="mt-4 text-white/70 text-base sm:text-lg">
       Sliding scale · from €20 · suggested €50/$50
     </p>
+    <p class="mt-1 text-white/50 text-sm">
+      Dates confirmed once the cohort forms · free transfer to the next cohort if they don't suit you
+    </p>
   </div>
 </div>
 
@@ -257,6 +260,10 @@ layout: plain
         <p class="text-gray-600 text-lg">Recordings are available. The pre-recorded materials also stand alone as valuable content. That said, the live dialogue is where the deepest learning happens — attend what you can.</p>
       </div>
       <div>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">The dates aren't confirmed yet — what if I register and they don't work for me?</h3>
+        <p class="text-gray-600 text-lg">No problem — you're welcome to move to the next cohort at no extra cost.</p>
+      </div>
+      <div>
         <h3 class="text-lg font-bold text-gray-900 mb-2">Is this academic or experiential?</h3>
         <p class="text-gray-600 text-lg">Both. There's a clear intellectual framework, but the course is built around dialogue and reflection, not lectures. You'll think <em>and</em> feel.</p>
       </div>
@@ -292,6 +299,9 @@ layout: plain
     </div>
     <p class="mt-6 text-white/40 text-sm">
       Sliding scale · from €20 · suggested €50/$50 · Questions? hello@lifeitself.org
+    </p>
+    <p class="mt-1 text-white/30 text-sm">
+      Dates confirmed once the cohort forms · free transfer to the next cohort if they don't suit you
     </p>
     <div class="mt-8 text-white/30 text-sm">
       <a href="https://secondrenaissance.net" class="underline hover:text-white/60">secondrenaissance.net</a>
