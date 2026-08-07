@@ -10,10 +10,10 @@ A gathering point for those who resonate with the vision of the Second Renaissan
 
 From July 2024 to March 2026, this took the form of weekly calls (formerly "The Oasis") blending *being* — interpersonal connection and relational practice — with *building* — lightweight organizing space for projects. We paused in March 2026 to rework the format based on what we learned.
 
-## Calls resume late September 2026
+## Calls resume Tuesday, September 29, 2026
 
-We're bringing regular community calls back. Register on Luma to get notified the moment the date is set, and to hold your place:
+We're bringing regular community calls back — 9am Pacific / noon Eastern / 6pm Central Europe, weekly. Register on Luma to hold your place (date may shift slightly, registrants will be notified):
 
-[Register on Luma →](https://luma.com/second-renaissance)
+[Register on Luma →](https://luma.com/second-869c)
 
 Can't wait? [See all upcoming events](/events) or [ask the AI](https://chat.secondrenaissance.net) about the Second Renaissance in the meantime.
