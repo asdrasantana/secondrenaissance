@@ -28,8 +28,8 @@
         ]
       },
       {
-        "href": "/oasis",
-        "name": "Oasis"
+        "href": "/community",
+        "name": "Community"
       },
       {
         "href": "/ecosystem",
@@ -82,6 +82,10 @@
     {
       "from": "/art/magazine",
       "to": "/magazine"
+    },
+    {
+      "from": "/oasis",
+      "to": "/community"
     }
   ],
   "contentExclude": [
