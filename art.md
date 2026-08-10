@@ -156,7 +156,7 @@ layout: plain
         <a href="/magazine" class="group relative aspect-[1.4] rounded-3xl overflow-hidden shadow-lg border border-gray-100 flex flex-col transition-all hover:shadow-2xl bg-gray-900 text-white">
           <div class="p-8 pb-0">
             <h3 class="font-elsie text-3xl mb-4">Issue # 2 Mythos</h3>
-            <p class="text-gray-400 max-w-md">Issue #2 Mythos is out now — read it in the magazine.</p>
+            <p class="text-gray-400 max-w-md">Issue #2 Mythos is out now — read the magazine.</p>
           </div>
           <div class="flex-grow mt-6 relative overflow-hidden opacity-80">
             <img src="/assets/img/art/mythos-preview.png" alt="Mythos" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
