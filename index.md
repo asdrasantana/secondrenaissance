@@ -29,7 +29,7 @@ layout: plain
     <div class="mt-8 flex items-center justify-center gap-x-4">
       <a href="#vision" class="btn-primary">Read more</a>
       <a href="https://chat.secondrenaissance.net" class="btn-primary">Ask AI</a>
-      <a href="/oasis" class="btn-primary">Participate</a>
+      <a href="/community" class="btn-primary">Participate</a>
     </div>
   </div>
 </div>
