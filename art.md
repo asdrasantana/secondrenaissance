@@ -28,8 +28,8 @@ layout: plain
         <h2 class="font-elsie text-3xl md:text-5xl mb-8 leading-tight text-red-sr">Support a New Artistic Era</h2>
         <div class="prose prose-lg text-gray-700 space-y-4">
           <p>
-            We are <strong>crowdfunding the next two issues</strong> of the
-            <a href="https://www.crowdfunder.co.uk/p/second-renaissance-magazine" class="text-red-700 font-bold hover:underline">Second Renaissance Magazine</a>.
+            Our <strong>crowdfunding campaign</strong> for the
+            <a href="https://www.crowdfunder.co.uk/p/second-renaissance-magazine" class="text-red-700 font-bold hover:underline">Second Renaissance Magazine</a> is now closed — thank you to everyone who supported it.
           </p>
           <p>
             This is more than a magazine, it's a cultural movement. Every issue gathers artists,
@@ -37,17 +37,12 @@ layout: plain
             as a guide toward a new world.
           </p>
           <p>
-            Every contribution matters, helping to support curation, editing, design, printing, and most
-            importantly, to compensate the <strong>artists and contributors</strong> for their vision
-            and efforts.
-          </p>
-          <p>
-            Please join us in midwifing this cultural shift — with your support, the Second Renaissance
-            becomes not only visible, but sustainable.
+            Thanks to your support, the magazine is now <strong>launched</strong> — read it and discover
+            the vision and work of the <strong>artists and contributors</strong> who brought it to life.
           </p>
         </div>
         <div class="mt-10 text-center md:text-left">
-          <a href="https://www.crowdfunder.co.uk/p/second-renaissance-magazine" class="btn-primary">Support us</a>
+          <a href="/magazine" class="btn-primary">Read the Magazine</a>
         </div>
       </div>
       <div class="order-1 md:order-2 aspect-video bg-gray-100 rounded-2xl overflow-hidden shadow-xl">
@@ -65,16 +60,15 @@ layout: plain
         <h2 class="font-elsie text-3xl md:text-5xl mb-6 leading-tight">Art of Ritual: Shadow Work and Creative Rebirth</h2>
         <div class="prose prose-lg text-gray-700">
           <p class="mb-6">
-            Join <strong>Sylvie Barbier</strong> and <strong>Kay Michael</strong> for a transformative
-            journey in Shadow Work and Creative Rebirth, where art and eco-spirituality alchemise at the
-            Life Itself Farmhouse Hub this <strong>24–31 July 2026.</strong>
+            In July 2026, <strong>Sylvie Barbier</strong> and <strong>Kay Michael</strong> led a
+            transformative journey in Shadow Work and Creative Rebirth, where art and eco-spirituality
+            alchemised at the Life Itself Farmhouse Hub.
           </p>
           <p class="mb-8">
-            Our next workshop is a space of expression and experimentation, focusing on the art of
-            ritual. It will take place in the south west of France at the Life Itself Farmhouse at the
-            end of June.
+            The residency was a space of expression and experimentation focused on the art of ritual,
+            held in the south west of France at the Life Itself Farmhouse.
           </p>
-          <a href="/art/residency" class="btn-primary">Read more and book</a>
+          <a href="/art/residency" class="btn-primary">Read more</a>
         </div>
       </div>
     </div>
@@ -159,10 +153,10 @@ layout: plain
           </div>
         </a>
         <!-- Mythos Submission Card -->
-        <a href="/art/" class="group relative aspect-[1.4] rounded-3xl overflow-hidden shadow-lg border border-gray-100 flex flex-col transition-all hover:shadow-2xl bg-gray-900 text-white">
+        <a href="/magazine" class="group relative aspect-[1.4] rounded-3xl overflow-hidden shadow-lg border border-gray-100 flex flex-col transition-all hover:shadow-2xl bg-gray-900 text-white">
           <div class="p-8 pb-0">
             <h3 class="font-elsie text-3xl mb-4">Issue # 2 Mythos</h3>
-            <p class="text-gray-400 max-w-md">Submissions are now closed for the second issue of the Magazine on the theme of Mythos.</p>
+            <p class="text-gray-400 max-w-md">Issue #2 Mythos is out now — read it in the magazine.</p>
           </div>
           <div class="flex-grow mt-6 relative overflow-hidden opacity-80">
             <img src="/assets/img/art/mythos-preview.png" alt="Mythos" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">

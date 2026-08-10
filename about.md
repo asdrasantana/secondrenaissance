@@ -2,7 +2,7 @@
 title: About
 ---
 
-Second Renaissance is an initiative of [Life Itself](https://lifeitself.org).
+Second Renaissance is an initiative of Life Itself, a global community and cultural movement dedicated to practical actions for a radically wiser, weller world — spanning courses, gatherings, and creative projects that support the emergence of a new paradigm. Visit [lifeitself.org](https://lifeitself.org) to learn more.
 
 ### Curators
 
