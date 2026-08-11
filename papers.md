@@ -17,6 +17,14 @@ image: /assets/img/previews/papers-preview.jpg
   </div>
 </header>
 
+<!-- Roadmap Figure -->
+<section class="pt-16 px-4 max-w-5xl mx-auto">
+  <figure>
+    <img src="/assets/img/paper/papers-roadmap.jpg" alt="Roadmap of the Second Renaissance paper series" class="w-full rounded-lg shadow-lg">
+    <figcaption class="text-sm text-gray-500 text-center mt-3">A map of the paper series — how each piece builds toward the whole.</figcaption>
+  </figure>
+</section>
+
 <!-- Intro -->
 <section class="py-16 px-4 max-w-4xl mx-auto">
   <p class="text-xl text-gray-600 text-center">
