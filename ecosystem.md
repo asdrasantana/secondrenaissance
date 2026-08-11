@@ -16,7 +16,10 @@ layout: plain
     <p class="text-2xl sm:text-4xl font-serif">
       This page introduces key resources<br>for making sense of the ecosystem's key features.
     </p>
-    <div class="mt-10 flex items-center justify-center gap-x-6 my-20">
+    <div class="mt-10 flex justify-center">
+      <a href="https://ecosystem.secondrenaissance.net" target="_blank" rel="noopener" class="btn-primary text-lg">Explore the Ecosystem Site</a>
+    </div>
+    <div class="mt-6 flex items-center justify-center gap-x-6 my-20">
       <a href="#graphic" class="btn btn-blue">What does it look like?</a>
       <a href="#projects" class="btn btn-blue">Who is part of it?</a>
       <a href="#resources" class="btn btn-blue">Learn more</a>
@@ -36,7 +39,7 @@ layout: plain
             We are seeing a growing ecosystem of people and organisations who are recognising the need for a <span class="underline">major civilisational transition</span> from Modernity
             to a <span class="underline">new cultural paradigm</span>. They are choosing alternative ways of living and working to support that shift.
             <br><br>
-            We've been mapping it since 2019, and know others who have been mapping it too. We've profiled over 200 organisations who are part of it, and outlined some of the ecosystem's key characteristics.
+            We've been mapping it since 2019, and know others who have been mapping it too. We've profiled <a href="https://ecosystem.secondrenaissance.net/pip/directory/" target="_blank" rel="noopener" class="underline font-semibold">over 200 organisations</a> who are part of it, and outlined some of the ecosystem's key characteristics.
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6 my-20">
             <a href="#projects" class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
@@ -54,7 +57,10 @@ layout: plain
 <!-- Graphic -->
 <figure id="graphic" class="mt-16">
   <img class="bg-gray-50 object-cover" src="/assets/img/ecosystem/second-renaissance-ecosystem-map.webp" alt="Map of the Second Renaissance Changemaking Ecosystem as created by Life Itself and friends May 2024">
-  <figcaption class="text-sm text-center mx-auto max-w-3xl block mt-5">An impressionistic map of the second renaissance "paradigmatic changemakers" ecosystem. It shows some of the different communities, movements and spaces (primarily in the Global North) that aspire to and/or act to foster paradigmatic change with a second renaissance perspective <a class="underline" href="https://secondrenaissance.substack.com/p/map-of-second-renaissance-changemaking">Read more &raquo;</a></figcaption>
+  <figcaption class="text-sm text-center mx-auto max-w-3xl block mt-5">An impressionistic map of the second renaissance "paradigmatic changemakers" ecosystem. It shows some of the different communities, movements and spaces (primarily in the Global North) that aspire to and/or act to foster paradigmatic change with a second renaissance perspective <a class="underline" href="https://secondrenaissance.substack.com/p/map-of-second-renaissance-changemaking">Read more &raquo;</a>
+    <br>
+    <a class="underline font-semibold" href="https://ecosystem.secondrenaissance.net/pip/map/" target="_blank" rel="noopener">Explore the interactive map &raquo;</a>
+  </figcaption>
 </figure>
 <!-- Potential -->
 <div class="bg-teal-50 px-6 py-24 sm:py-32 lg:px-8">
@@ -151,7 +157,7 @@ layout: plain
     <li class="group relative flex flex-col items-start gap-y-3 m-0 p-0">
       <div role="heading" class="text-base font-semibold text-primary">
         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-100 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl"></div>
-        <a href="/ecosystem/pip" class="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
+        <a href="https://ecosystem.secondrenaissance.net/pip/" target="_blank" rel="noopener" class="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
           <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
           <img src="/assets/img/ecosystem/pip-ecosystem-screenshot.png" class="z-10 w-full mb-2 aspect-video object-cover object-left m-0 rounded-lg shadow-sm" alt="PIP Ecosystem">
           <span class="relative z-10">The "PIP" Ecosystem (2021-22)</span>
@@ -162,7 +168,7 @@ layout: plain
     <li class="group relative flex flex-col items-start gap-y-3 m-0 p-0">
       <div role="heading" class="text-base font-semibold text-primary">
         <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-100 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl"></div>
-        <a href="/ecosystem/state-of-sensemaking-2020" class="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
+        <a href="https://ecosystem.secondrenaissance.net/state-of-sensemaking-2020/" target="_blank" rel="noopener" class="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
           <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
           <img src="/assets/img/ecosystem/social-change-ecosystem.png" class="z-10 w-full mb-2 aspect-video object-cover object-left m-0 rounded-lg shadow-sm" alt="State of Sensemaking">
           <span class="relative z-10">State of Sensemaking (2019-20)</span>
